@@ -41,3 +41,27 @@
 - [x] branch config đã được tạo
 - [x] run id và submission id đầu tiên đã được reserve
 - [x] baseline hướng text-first đã được chốt để vào Phase 2
+
+## Phase 2 baseline result
+
+- Model đã khóa: `TF-IDF word (1,2) + OneVsRest Logistic Regression`
+- CV Macro F1: `0.327027`
+- CV std: `0.032543`
+- Submission đầu tiên đã tạo: `data/submissions/sub_m1_v1_text_word12_ovr_lr.csv`
+
+## Insight sau Phase 2
+
+- Baseline text-only hiện đang là lựa chọn mở đầu tốt nhất cho M1.
+- Quick benchmark ban đầu cho thấy hybrid baseline đơn giản chưa vượt được text-only.
+- Phase 3 nên tập trung vào:
+  - tuning thêm `C`, `ngram_range`, `min_df`
+  - thử char n-gram có kiểm chứng
+  - chỉ thêm metadata nếu có cải thiện CV rõ ràng
+
+## Checklist Phase 2
+
+- [x] có script baseline chạy end-to-end
+- [x] có quick EDA report
+- [x] có CV result đầu tiên
+- [x] có submission file đầu tiên
+- [x] tracker và submission log đã được cập nhật

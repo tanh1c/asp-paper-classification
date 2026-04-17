@@ -1,5 +1,6 @@
 run_id,owner,branch_name,feature_set,model,cv_macro_f1,cv_std,public_lb,notes
-exp_001,M1,battle/m1-full-pipeline,tfidf_title_word_1_2,logistic_regression,,,,"baseline scaffold"
-exp_002,M2,battle/m2-full-pipeline,metadata_basic,catboost,,,,"venue year author_count doi"
-exp_003,M3,battle/m3-full-pipeline,tfidf_title_char_3_5,linear_svm,,,,"text-first candidate"
-exp_004,M4,battle/m4-full-pipeline,title_plus_metadata,linear_svm,,,,"hybrid candidate"
+exp_001,M1,battle/m1-full-pipeline,tfidf_title_word_1_2,logistic_regression,,,,baseline scaffold
+exp_002,M2,battle/m2-full-pipeline,metadata_basic,catboost,,,,venue year author_count doi
+exp_003,M3,battle/m3-full-pipeline,tfidf_title_char_3_5,linear_svm,,,,text-first candidate
+exp_004,M4,battle/m4-full-pipeline,title_plus_metadata,linear_svm,,,,hybrid candidate
+exp_m1_001,M1,battle/m1-full-pipeline,title_clean_tfidf_word_1_2,ovr_logistic_regression,0.327027,0.032543,,phase2 text-first baseline

@@ -2,7 +2,7 @@ branch:
   owner: M1
   name: battle/m1-full-pipeline
   strategy: text-first
-  status: phase_1_ready
+  status: phase_2_baseline_complete
 
 shared_rules:
   metric: macro_f1
@@ -40,6 +40,14 @@ phase_2_plan:
     solver: liblinear
     class_weight: balanced
     random_state: 42
+
+phase_2_result:
+  cv_macro_f1: 0.327027
+  cv_std: 0.032543
+  submission_file: data/submissions/sub_m1_v1_text_word12_ovr_lr.csv
+  report_files:
+    - reports/battle_m1/quick_eda.md
+    - reports/battle_m1/phase2_baseline_summary.md
 
 outputs:
   branch_notes: docs/branches/m1_full_pipeline.md
