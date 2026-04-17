@@ -11,6 +11,11 @@ Thư mục này chứa report và artifact nhẹ của branch `battle/m1-full-pi
 - `phase3_experiment_summary.md`
 - `phase4_results.csv`
 - `phase4_experiment_summary.md`
+- `phase5_error_analysis.md`
+- `phase5_cv_predictions.csv`
+- `phase5_per_class_metrics.csv`
+- `phase5_confusion_single.csv`
+- `phase5_confusion_ensemble.csv`
 
 ## Mục tiêu
 

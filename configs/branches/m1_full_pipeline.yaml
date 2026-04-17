@@ -2,7 +2,7 @@ branch:
   owner: M1
   name: battle/m1-full-pipeline
   strategy: text-first
-  status: phase_4_text_optimization_complete
+  status: phase_5_error_analysis_complete
 
 shared_rules:
   metric: macro_f1
@@ -90,6 +90,28 @@ phase_4_result:
     - reports/battle_m1/phase4_results.csv
     - reports/battle_m1/phase4_experiment_summary.md
 
+phase_5_result:
+  reference_single_run_id: exp_m1_002
+  reference_ensemble_run_id: exp_m1_014
+  single_oof_macro_f1: 0.337404
+  ensemble_oof_macro_f1: 0.340033
+  fixed_by_ensemble: 17
+  hurt_by_ensemble: 16
+  hardest_labels:
+    - 3
+    - 4
+  key_improvements:
+    label_1_f1_delta: 0.024415
+    label_4_f1_delta: 0.009610
+  main_tradeoff:
+    label_5_f1_delta: -0.014260
+  report_files:
+    - reports/battle_m1/phase5_error_analysis.md
+    - reports/battle_m1/phase5_cv_predictions.csv
+    - reports/battle_m1/phase5_confusion_single.csv
+    - reports/battle_m1/phase5_confusion_ensemble.csv
+    - reports/battle_m1/phase5_per_class_metrics.csv
+
 outputs:
   branch_notes: docs/branches/m1_full_pipeline.md
   audit_log: reports/battle_m1/audit_log.md
@@ -102,3 +124,8 @@ outputs:
   phase4_results_csv: reports/battle_m1/phase4_results.csv
   phase4_summary: reports/battle_m1/phase4_experiment_summary.md
   phase4_submission_file: data/submissions/sub_m1_v3_phase4_text_ensemble.csv
+  phase5_report: reports/battle_m1/phase5_error_analysis.md
+  phase5_predictions_csv: reports/battle_m1/phase5_cv_predictions.csv
+  phase5_single_confusion_csv: reports/battle_m1/phase5_confusion_single.csv
+  phase5_ensemble_confusion_csv: reports/battle_m1/phase5_confusion_ensemble.csv
+  phase5_per_class_metrics_csv: reports/battle_m1/phase5_per_class_metrics.csv

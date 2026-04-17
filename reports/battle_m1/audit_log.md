@@ -382,3 +382,94 @@ Sau mỗi phase, append thêm một block mới theo cấu trúc:
   - nếu cần nộp nhiều bản, dùng:
     - `sub_m1_v3_phase4_text_ensemble.csv` làm candidate chính
     - `sub_m1_v2_phase3_best.csv` làm single-model backup
+
+---
+
+## Phase 5 - Error analysis giữa single winner và ensemble winner
+
+### Mục tiêu
+
+- hiểu rõ vì sao `exp_m1_014` đang thắng `exp_m1_002`
+- xem ensemble cải thiện ở lớp nào và trả giá ở lớp nào
+- xác định các vùng nhầm lẫn cần tập trung nếu còn tối ưu tiếp
+
+### Việc đã làm
+
+- viết script:
+  - `scripts/run_m1_phase5_error_analysis.py`
+- tạo out-of-fold predictions trên cùng `StratifiedKFold`
+- so sánh:
+  - single-model reference `exp_m1_002`
+  - ensemble winner `exp_m1_014`
+- sinh:
+  - `reports/battle_m1/phase5_error_analysis.md`
+  - `reports/battle_m1/phase5_cv_predictions.csv`
+  - `reports/battle_m1/phase5_per_class_metrics.csv`
+  - `reports/battle_m1/phase5_confusion_single.csv`
+  - `reports/battle_m1/phase5_confusion_ensemble.csv`
+
+### Lưu ý về metric
+
+- Chọn model của branch vẫn dựa trên **mean fold Macro F1**.
+- Error analysis dùng **aggregated out-of-fold predictions** để nhìn được từng sample ở chế độ held-out.
+- Vì vậy số OOF trong report có thể lệch nhẹ so với score mean-fold đã dùng để chọn winner.
+
+### Kết quả chính
+
+- Single OOF Macro F1: `0.337404`
+- Ensemble OOF Macro F1: `0.340033`
+- Ensemble sửa đúng thêm: `17` mẫu
+- Ensemble làm hỏng: `16` mẫu
+
+### So sánh theo lớp
+
+| Label | Single F1 | Ensemble F1 | Delta |
+|---|---:|---:|---:|
+| 1 | 0.501901 | 0.526316 | +0.024415 |
+| 2 | 0.320000 | 0.316832 | -0.003168 |
+| 3 | 0.187500 | 0.184049 | -0.003451 |
+| 4 | 0.192771 | 0.202381 | +0.009610 |
+| 5 | 0.484848 | 0.470588 | -0.014260 |
+
+### Quyết định đã chốt
+
+- Vẫn giữ `exp_m1_014` là candidate chính của M1.
+- Lý do:
+  - tốt hơn về tổng thể
+  - ổn định hơn qua folds
+  - gain thực tế không chỉ nằm ở score mean mà còn đến từ hành vi lỗi “cân bằng” hơn
+
+### Vì sao ensemble vẫn đáng chọn
+
+- Nó cải thiện rõ trên Label 1 và Label 4.
+- Nó sửa được slightly more cases than it hurts.
+- Quan trọng hơn, Phase 4 winner vốn đã thắng về mean-fold CV và Phase 5 cho thấy chiến thắng đó không phải ngẫu nhiên.
+- Blend giữa hai model text-only thật sự tạo ra decision boundary khác hữu ích, nhất là với các case mỏng tín hiệu.
+
+### Trade-off quan trọng nhất
+
+- Ensemble làm giảm F1 của Label 5.
+- Điều này khớp với một số case bị “hurt by ensemble”, nơi single model vốn đã đúng và ensemble kéo sang Label 3 hoặc Label 4.
+- Vì vậy `exp_m1_002` vẫn nên được giữ như một fallback hợp lý, nhất là nếu Public LB sau này ưu ái behavior của single model hơn.
+
+### Các vùng nhầm lẫn khó nhất hiện tại
+
+- `1 -> 2`
+- `2 -> 1`
+- `4 -> 5`
+- `3 -> 4`
+- `3 -> 5`
+
+### Bài rút ra
+
+- Bước từ Phase 4 sang Phase 5 xác nhận rằng ensemble của M1 không chỉ “ăn may score”, mà có pattern cải thiện thật.
+- Tuy nhiên branch M1 vẫn chưa giải quyết được bài toán phân biệt tốt các lớp trung gian như Label 3 và Label 4.
+- Nếu còn tối ưu tiếp, nên nghĩ theo “cặp lớp hay nhầm” chứ không cần mở thêm nhánh feature lớn.
+
+### Bước tiếp theo
+
+- Nếu chạy phase tiếp:
+  - ưu tiên phân tích sâu các case `1/2`, `4/5`, `3/4/5`
+  - cân nhắc sinh 2 candidate cuối để nộp:
+    - ensemble winner `exp_m1_014`
+    - single fallback `exp_m1_002`

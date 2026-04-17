@@ -131,3 +131,45 @@
 - Kết quả đầy đủ: `reports/battle_m1/phase4_results.csv`
 - Tóm tắt phase: `reports/battle_m1/phase4_experiment_summary.md`
 - Audit log: `reports/battle_m1/audit_log.md`
+
+## Phase 5 error analysis result
+
+- So sánh chính:
+  - single-model reference: `exp_m1_002`
+  - ensemble winner: `exp_m1_014`
+- OOF Macro F1:
+  - single: `0.337404`
+  - ensemble: `0.340033`
+- Ensemble sửa đúng thêm: `17` mẫu
+- Ensemble làm hỏng so với single: `16` mẫu
+
+## Insight sau Phase 5
+
+- Ensemble vẫn đáng giữ làm candidate chính vì nó cải thiện tổng thể và ổn định hơn.
+- Lợi ích rõ nhất nằm ở:
+  - Label 1
+  - Label 4
+- Trade-off lớn nhất là Label 5, nơi single model vẫn nhỉnh hơn đôi chút.
+- Các lớp khó nhất hiện tại vẫn là:
+  - Label 3
+  - Label 4
+- Các vùng nhầm lẫn cần tập trung nếu còn tối ưu tiếp:
+  - `1 -> 2`
+  - `2 -> 1`
+  - `4 -> 5`
+  - `3 -> 4/5`
+
+## Recommendation sau Phase 5
+
+- Giữ `exp_m1_014` làm candidate chính của M1.
+- Giữ `exp_m1_002` làm fallback nếu cần một single model dễ giải thích hơn.
+- Nếu làm tiếp phase sau, nên tập trung giảm nhầm lẫn theo cặp lớp thay vì mở rộng thêm hướng feature mới.
+
+## Artifact của Phase 5
+
+- Report chính: `reports/battle_m1/phase5_error_analysis.md`
+- OOF predictions: `reports/battle_m1/phase5_cv_predictions.csv`
+- Per-class metrics: `reports/battle_m1/phase5_per_class_metrics.csv`
+- Confusion matrix:
+  - `reports/battle_m1/phase5_confusion_single.csv`
+  - `reports/battle_m1/phase5_confusion_ensemble.csv`
