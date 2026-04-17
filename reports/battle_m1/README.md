@@ -16,6 +16,8 @@ Thư mục này chứa report và artifact nhẹ của branch `battle/m1-full-pi
 - `phase5_per_class_metrics.csv`
 - `phase5_confusion_single.csv`
 - `phase5_confusion_ensemble.csv`
+- `final_comparison_sheet.md`
+- `final_comparison_candidates.csv`
 
 ## Mục tiêu
 

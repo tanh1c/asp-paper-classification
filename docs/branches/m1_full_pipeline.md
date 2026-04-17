@@ -173,3 +173,12 @@
 - Confusion matrix:
   - `reports/battle_m1/phase5_confusion_single.csv`
   - `reports/battle_m1/phase5_confusion_ensemble.csv`
+
+## Final showdown sheet
+
+- Main candidate: `exp_m1_014`
+- Primary backup: `exp_m1_002`
+- Stability reserve: `exp_m1_011`
+- Comparison sheet:
+  - `reports/battle_m1/final_comparison_sheet.md`
+  - `reports/battle_m1/final_comparison_candidates.csv`

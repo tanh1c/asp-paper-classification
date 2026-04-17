@@ -473,3 +473,50 @@ Sau mỗi phase, append thêm một block mới theo cấu trúc:
   - cân nhắc sinh 2 candidate cuối để nộp:
     - ensemble winner `exp_m1_014`
     - single fallback `exp_m1_002`
+
+---
+
+## Showdown Prep - Final comparison sheet cho M1
+
+### Mục tiêu
+
+- đóng gói toàn bộ tiến trình M1 thành một comparison sheet ngắn gọn nhưng đủ bằng chứng
+- giúp sau này đem branch M1 ra đối đầu trực tiếp với M2/M3/M4 mà không phải đọc lại toàn bộ phase log
+
+### Việc đã làm
+
+- tạo script:
+  - `scripts/build_m1_final_comparison_sheet.py`
+- sinh:
+  - `reports/battle_m1/final_comparison_sheet.md`
+  - `reports/battle_m1/final_comparison_candidates.csv`
+
+### Quyết định đã chốt cho showdown
+
+- Main candidate:
+  - `exp_m1_014`
+  - `sub_m1_v3_phase4_text_ensemble.csv`
+- Primary backup:
+  - `exp_m1_002`
+  - `sub_m1_v2_phase3_best.csv`
+- Stability reserve:
+  - `exp_m1_011`
+
+### Vì sao set up như vậy
+
+- `exp_m1_014` là best overall candidate của M1:
+  - mean CV cao nhất
+  - variance thấp hơn đáng kể
+  - error analysis xác nhận thắng lợi có ý nghĩa
+- `exp_m1_002` vẫn cần giữ:
+  - dễ giải thích hơn
+  - là single-model reference mạnh
+  - hữu ích nếu Public LB sau này không favor ensemble
+- `exp_m1_011` là reserve quan trọng:
+  - không phải candidate chính
+  - nhưng giải thích rất tốt vì sao ensemble winner của Phase 4 hoạt động được
+
+### Bài rút ra
+
+- M1 giờ đã ở trạng thái đủ tốt để đi vào “branch showdown”.
+- Comparison sheet giúp biến toàn bộ branch từ một chuỗi phase thành một “battle card” rõ ràng, dễ so sánh với các branch khác.

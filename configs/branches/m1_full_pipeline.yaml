@@ -2,7 +2,7 @@ branch:
   owner: M1
   name: battle/m1-full-pipeline
   strategy: text-first
-  status: phase_5_error_analysis_complete
+  status: showdown_ready
 
 shared_rules:
   metric: macro_f1
@@ -112,6 +112,17 @@ phase_5_result:
     - reports/battle_m1/phase5_confusion_ensemble.csv
     - reports/battle_m1/phase5_per_class_metrics.csv
 
+showdown_ready:
+  main_run_id: exp_m1_014
+  main_submission_id: sub_m1_003
+  single_backup_run_id: exp_m1_002
+  single_backup_submission_id: sub_m1_002
+  stability_backup_run_id: exp_m1_011
+  baseline_reference_run_id: exp_m1_001
+  branch_strength: text_only_ensemble
+  branch_risk: label_5_tradeoff
+  comparison_status: ready_for_branch_showdown
+
 outputs:
   branch_notes: docs/branches/m1_full_pipeline.md
   audit_log: reports/battle_m1/audit_log.md
@@ -129,3 +140,5 @@ outputs:
   phase5_single_confusion_csv: reports/battle_m1/phase5_confusion_single.csv
   phase5_ensemble_confusion_csv: reports/battle_m1/phase5_confusion_ensemble.csv
   phase5_per_class_metrics_csv: reports/battle_m1/phase5_per_class_metrics.csv
+  final_comparison_sheet: reports/battle_m1/final_comparison_sheet.md
+  final_comparison_candidates_csv: reports/battle_m1/final_comparison_candidates.csv
