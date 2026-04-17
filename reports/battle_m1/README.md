@@ -20,6 +20,8 @@ Thư mục này chứa report và artifact nhẹ của branch `battle/m1-full-pi
 - `final_comparison_candidates.csv`
 - `final_submission_strategy.md`
 - `final_submission_queue.csv`
+- `phase7_transformer_results.csv`
+- `phase7_transformer_summary.md`
 
 ## Mục tiêu
 

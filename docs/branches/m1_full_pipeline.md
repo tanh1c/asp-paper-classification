@@ -4,7 +4,7 @@
 
 - Owner: `M1`
 - Branch: `battle/m1-full-pipeline`
-- Strategy hiện tại: `text-first`
+- Strategy hiện tại: `lexical_semantic_blend`
 
 ## Mục tiêu Phase 1
 
@@ -174,11 +174,43 @@
   - `reports/battle_m1/phase5_confusion_single.csv`
   - `reports/battle_m1/phase5_confusion_ensemble.csv`
 
+## Phase 7 transformer upgrade result
+
+- Phase 7 winner: `exp_m1_019`
+- Candidate tốt nhất: `phase4_modernbert_structured_c2_0_w0_56`
+- Hướng tốt nhất hiện tại: `lexical_semantic_blend`
+- Model đã khóa sau Phase 7:
+  - `44%` phase4 lexical ensemble
+  - `56%` structured `ModernBERT` encoder + Logistic Regression (`C=2.0`)
+- CV Macro F1: `0.355191`
+- CV std: `0.032478`
+- Cải thiện so với Phase 4: `+0.017562`
+- Submission mới: `data/submissions/sub_m1_v4_phase7_modernbert_blend.csv`
+
+## Insight sau Phase 7
+
+- Feedback từ Kaggle là đúng: M1 cần một text method hiện đại hơn TF-IDF thuần.
+- Standalone `ModernBERT` đã đủ cạnh tranh, nhưng winner thật sự lại là blend giữa:
+  - lexical precision của sparse ensemble cũ
+  - semantic signal của encoder `ModernBERT`
+- Structured input `title + venue + year + authors` mạnh hơn title-only rõ rệt với encoder.
+- Trong điều kiện CPU-only, hướng `frozen encoder + linear head + probability blend` cho tỷ lệ hiệu quả / thời gian tốt hơn fine-tune nặng.
+
+## Artifact của Phase 7
+
+- Kết quả đầy đủ:
+  - `reports/battle_m1/phase7_transformer_results.csv`
+- Tóm tắt phase:
+  - `reports/battle_m1/phase7_transformer_summary.md`
+- Script:
+  - `scripts/run_m1_phase7_modernbert_upgrade.py`
+
 ## Final showdown sheet
 
-- Main candidate: `exp_m1_014`
-- Primary backup: `exp_m1_002`
-- Stability reserve: `exp_m1_011`
+- Main candidate: `exp_m1_019`
+- Primary backup: `exp_m1_014`
+- Semantic reserve: `exp_m1_018`
+- Legacy single-model reference: `exp_m1_002`
 - Comparison sheet:
   - `reports/battle_m1/final_comparison_sheet.md`
   - `reports/battle_m1/final_comparison_candidates.csv`
@@ -186,22 +218,22 @@
 ## Final submission strategy
 
 - Submit first on Kaggle:
-  - `sub_m1_v3_phase4_text_ensemble.csv`
+  - `sub_m1_v4_phase7_modernbert_blend.csv`
 - Hold as primary Kaggle backup:
+  - `sub_m1_v3_phase4_text_ensemble.csv`
+- Keep as semantic reserve:
+  - `exp_m1_018`
+- Keep as legacy sanity-check reference:
   - `sub_m1_v2_phase3_best.csv`
-- Keep as internal reserve only:
-  - `exp_m1_011`
-- Keep baseline only for sanity check:
-  - `sub_m1_v1_text_word12_ovr_lr.csv`
 
 ## Decision rule after Public LB appears
 
-- Giữ `exp_m1_014` làm official M1 candidate nếu:
+- Giữ `exp_m1_019` làm official M1 candidate nếu:
   - đang có LB tốt nhất trong các file của M1
-  - hoặc backup chỉ hơn không quá `0.002`
-- Promote `exp_m1_002` nếu:
+  - hoặc `exp_m1_014` chỉ hơn không quá `0.002`
+- Promote `exp_m1_014` nếu:
   - backup hơn main `> 0.002` trên Public LB
-- Chưa dùng `exp_m1_011` làm default submission nếu chưa có bằng chứng rõ rằng hai candidate chính đều underperform
+- Chỉ materialize `exp_m1_018` nếu cả main lẫn lexical backup đều underperform hoặc nhóm còn dư slot để test semantic-only behavior
 
 ## Artifact của submission strategy
 

@@ -2,105 +2,99 @@
 
 ## Mục tiêu
 
-- chốt thứ tự nộp bài lên Kaggle cho M1
-- tránh đổi candidate theo cảm tính khi Public LB bắt đầu xuất hiện
-- giữ một main candidate rõ ràng nhưng vẫn có backup hợp lý
+- chốt thứ tự nộp Kaggle mới cho M1 sau khi branch đã có winner thuộc họ `ModernBERT`
+- tránh quay lại candidate cũ theo cảm tính
+- giữ rõ vai trò giữa main blend, lexical backup và semantic reserve
 
 ## Branch snapshot trước khi submit
 
-| Role | Run ID | Submission ID | File | CV Macro F1 | Std | OOF Macro F1 | Ghi chú |
-| --- | --- | --- | --- | ---: | ---: | ---: | --- |
-| main_candidate | `exp_m1_014` | `sub_m1_003` | `sub_m1_v3_phase4_text_ensemble.csv` | 0.337629 | 0.024355 | 0.340033 | best overall candidate của M1 |
-| primary_backup | `exp_m1_002` | `sub_m1_002` | `sub_m1_v2_phase3_best.csv` | 0.334261 | 0.041403 | 0.337404 | best single-model hedge |
-| stability_reserve | `exp_m1_011` | - | chưa export riêng | 0.330420 | 0.023573 | - | reserve thiên về độ ổn định |
-| baseline_reference | `exp_m1_001` | `sub_m1_001` | `sub_m1_v1_text_word12_ovr_lr.csv` | 0.327027 | 0.032543 | - | chỉ dùng làm reference/sanity check |
+| Role | Run ID | Submission ID | File | CV Macro F1 | Std | Ghi chú |
+| --- | --- | --- | --- | ---: | ---: | --- |
+| main_candidate | `exp_m1_019` | `sub_m1_004` | `sub_m1_v4_phase7_modernbert_blend.csv` | 0.355191 | 0.032478 | winner mới của M1 |
+| primary_backup | `exp_m1_014` | `sub_m1_003` | `sub_m1_v3_phase4_text_ensemble.csv` | 0.337629 | 0.024355 | lexical fallback đã battle-tested |
+| semantic_reserve | `exp_m1_018` | - | chưa export riêng | 0.343358 | 0.060626 | best standalone ModernBERT encoder |
+| legacy_reference | `exp_m1_002` | `sub_m1_002` | `sub_m1_v2_phase3_best.csv` | 0.334261 | 0.041403 | reference single-model cũ |
 
 ## Thứ tự submit khuyến nghị
 
 ### Lượt 1
 
-- Nộp trước: `sub_m1_v3_phase4_text_ensemble.csv`
+- Nộp trước: `sub_m1_v4_phase7_modernbert_blend.csv`
 - Lý do:
-  - đây là candidate có `CV mean` tốt nhất của M1
-  - `std` thấp hơn rõ rệt so với backup single-model
-  - error analysis cho thấy ensemble thắng không chỉ vì fold noise
+  - đây là candidate có `CV mean` cao nhất toàn branch M1 hiện tại
+  - improvement so với winner cũ đủ lớn (`+0.017562`)
+  - semantic encoder đã được chứng minh là có value thực chứ không chỉ là “đổi model cho hiện đại”
 
 ### Lượt 2
 
-- Giữ sẵn để nộp tiếp: `sub_m1_v2_phase3_best.csv`
+- Giữ sẵn để nộp tiếp: `sub_m1_v3_phase4_text_ensemble.csv`
 - Lý do:
-  - đây là candidate single-model mạnh nhất và dễ giải thích nhất
-  - phù hợp làm hedge nếu Public LB không thích ensemble bias
-  - useful để kiểm tra xem leaderboard có disagree với CV story của M1 hay không
+  - đây là backup variance thấp hơn và đã được error analysis xác nhận
+  - nếu leaderboard không thích blend lexical + semantic, đây là fallback đáng tin nhất
+  - phase-7 winner thực chất cũng đang xây trên nền lexical ensemble này, nên backup rất tự nhiên
 
-### Không ưu tiên nộp ngay
+### Chưa ưu tiên nộp ngay
 
-- `exp_m1_011`:
-  - giữ làm reserve nội bộ
-  - chỉ nên export/submission nếu cả main và backup đều cho LB thất vọng hoặc nhóm còn dư slot và muốn thử một candidate thấp variance
-- `sub_m1_v1_text_word12_ovr_lr.csv`:
-  - không dùng làm candidate tranh điểm
-  - chỉ nộp khi cần sanity-check pipeline hoặc format submission
+- `exp_m1_018`:
+  - giữ làm semantic reserve
+  - chỉ nên export/submission nếu main và lexical backup đều underperform hoặc nhóm còn dư slot để test pure semantic behavior
+- `sub_m1_v2_phase3_best.csv`:
+  - giữ làm legacy reference
+  - useful nếu cần sanity-check một single-model dễ giải thích hơn, nhưng không còn là default backup nữa
 
 ## Decision rules sau khi có Public LB
 
-### Giữ `exp_m1_014` làm candidate chính nếu
+### Giữ `exp_m1_019` làm candidate chính nếu
 
-- `sub_m1_v3_phase4_text_ensemble.csv` đang là submission M1 có Public LB cao nhất
-- hoặc backup chỉ hơn rất ít, trong khoảng `<= 0.002`
-
-Lý do:
-
-- main candidate có bằng chứng tổng thể tốt hơn:
-  - CV mean cao hơn
-  - OOF tốt hơn
-  - variance thấp hơn
-- nếu LB chênh rất nhỏ, nên ưu tiên candidate có story ổn định hơn thay vì đổi vì nhiễu ngắn hạn
-
-### Chuyển sang `exp_m1_002` làm official M1 candidate nếu
-
-- `sub_m1_v2_phase3_best.csv` hơn main candidate `> 0.002` trên Public LB
-- hoặc main candidate có hành vi rất bất thường so với CV story, trong khi backup bám sát kỳ vọng hơn
+- `sub_m1_v4_phase7_modernbert_blend.csv` đang là submission M1 có Public LB cao nhất
+- hoặc lexical backup chỉ hơn rất ít, trong khoảng `<= 0.002`
 
 Lý do:
 
-- khoảng chênh kiểu này đủ đáng kể để cân nhắc rằng leaderboard thích decision boundary của single-model hơn
-- backup vẫn đủ mạnh để đại diện cho M1 mà không làm yếu branch quá nhiều
+- main candidate có bằng chứng tổng thể tốt nhất của branch sau phase transformer upgrade
+- nếu chênh lệch LB nhỏ, nên ưu tiên candidate có trần CV cao hơn thay vì quay lại fallback quá sớm
 
-### Chưa nên đụng tới reserve nếu
+### Chuyển sang `exp_m1_014` làm official M1 candidate nếu
 
-- main và backup đang chênh không lớn
-- nhóm chưa có dấu hiệu rằng leaderboard ưu ái low-variance candidate hơn
+- `sub_m1_v3_phase4_text_ensemble.csv` hơn main candidate `> 0.002` trên Public LB
+- hoặc main candidate có hành vi bất thường, còn lexical backup bám sát kỳ vọng hơn
 
-`exp_m1_011` chủ yếu dùng để giải thích thiết kế của ensemble winner và làm reserve chiến thuật, không phải default Kaggle choice.
+Lý do:
 
-## Tại sao M1 vẫn nộp ensemble trước
+- phase-4 backup là candidate đã được kiểm chứng kỹ nhất trên hold-out nội bộ
+- nếu leaderboard reject semantic blend, lexical fallback là nước đi an toàn nhất
 
-- `exp_m1_014` là candidate tốt nhất của M1 trên cả ba lớp bằng chứng:
-  - mean CV
-  - CV stability
-  - OOF error analysis
-- Nếu không nộp ensemble trước, M1 sẽ không đo được đúng “ceiling” hiện tại của branch.
-- Backup single-model nên được dùng như một phép sanity-check của leaderboard, không nên đảo vai trò với main candidate ngay từ đầu.
+### Chỉ materialize `exp_m1_018` nếu
+
+- cả main candidate và lexical backup đều cho tín hiệu LB không tốt
+- hoặc nhóm còn slot đủ để test semantic-only candidate như một hedge cuối
+
+`exp_m1_018` hiện là reserve chiến thuật, không phải default Kaggle choice.
+
+## Tại sao M1 nộp ModernBERT blend trước
+
+- `exp_m1_019` là candidate mạnh nhất của M1 theo shared CV.
+- Nó sửa đúng một vấn đề thật của branch: sparse text cũ thiếu semantic signal.
+- Nếu không nộp candidate này trước, M1 sẽ không đo đúng trần điểm hiện tại sau phase transformer upgrade.
 
 ## Playbook thao tác sau mỗi lần submit
 
 1. Ghi `public_lb` vào `experiments/submission_log.csv`.
 2. Cập nhật `notes` theo format ngắn:
-   - `phase6 main candidate first wave`
-   - `phase6 backup hedge against ensemble`
-3. Nếu backup vượt main rõ rệt, cập nhật lại candidate order trong:
+   - `phase7 modernbert main first wave`
+   - `phase7 lexical fallback after blend`
+3. Nếu lexical backup vượt main rõ rệt, cập nhật lại candidate order trong:
    - `reports/battle_m1/final_comparison_sheet.md`
    - `reports/battle_m1/final_submission_strategy.md`
-4. Không đổi official candidate của M1 chỉ vì chênh rất nhỏ.
+4. Chỉ export semantic reserve khi top two thật sự không ổn.
 
 ## Recommendation cuối cùng
 
 - Submit first:
-  - `sub_m1_v3_phase4_text_ensemble.csv`
+  - `sub_m1_v4_phase7_modernbert_blend.csv`
 - Hold as Kaggle backup:
+  - `sub_m1_v3_phase4_text_ensemble.csv`
+- Keep as semantic reserve:
+  - `exp_m1_018`
+- Keep as legacy reference:
   - `sub_m1_v2_phase3_best.csv`
-- Keep as internal reserve:
-  - `exp_m1_011`
-- Keep only for sanity/reference:
-  - `sub_m1_v1_text_word12_ovr_lr.csv`

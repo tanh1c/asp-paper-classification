@@ -589,3 +589,80 @@ Sau mỗi phase, append thêm một block mới theo cấu trúc:
 
 - Giai đoạn cuối không chỉ là “có model nào mạnh nhất”, mà là “ra quyết định nộp bài như thế nào để không tự phá lợi thế của branch”.
 - M1 hiện đã có một submission strategy đủ rõ để đem đi Kaggle battle mà không bị dao động bởi các tín hiệu ngắn hạn.
+
+---
+
+## Phase 7 - ModernBERT upgrade sau khi Kaggle feedback quá thấp
+
+### Mục tiêu
+
+- nâng M1 lên một họ model text hiện đại hơn thay vì tiếp tục chỉ xoay quanh TF-IDF
+- tìm xem semantic encoder có bổ sung gì cho sparse ensemble hiện tại hay không
+- tạo submission mới đủ mạnh để thay luôn main candidate cũ nếu thắng rõ ràng
+
+### Việc đã làm
+
+- cập nhật dependency để repo chạy được `transformers` và `sentence-transformers`
+- thêm helper dựng structured text cho encoder
+- viết script:
+  - `scripts/run_m1_phase7_modernbert_upgrade.py`
+- benchmark trên cùng shared CV:
+  - `ModernBERT` title-only encoder
+  - `ModernBERT` structured encoder (`title + venue + year + authors`)
+  - blend giữa phase-4 lexical ensemble và structured `ModernBERT`
+- sinh:
+  - `reports/battle_m1/phase7_transformer_results.csv`
+  - `reports/battle_m1/phase7_transformer_summary.md`
+  - `data/submissions/sub_m1_v4_phase7_modernbert_blend.csv`
+- cập nhật tracker và submission log
+
+### Kết quả chính
+
+- Best standalone `ModernBERT` encoder:
+  - `exp_m1_018`
+  - CV Macro F1: `0.343358`
+  - CV std: `0.060626`
+- Best overall candidate:
+  - `exp_m1_019`
+  - `phase4_modernbert_structured_c2_0_w0_56`
+  - CV Macro F1: `0.355191`
+  - CV std: `0.032478`
+- Improvement so với phase-4 winner:
+  - `+0.017562`
+
+### Quyết định đã chốt
+
+- Main candidate mới của M1 là:
+  - `exp_m1_019`
+  - `sub_m1_v4_phase7_modernbert_blend.csv`
+- Lexical backup mới là:
+  - `exp_m1_014`
+  - `sub_m1_v3_phase4_text_ensemble.csv`
+- Semantic reserve là:
+  - `exp_m1_018`
+
+### Vì sao chọn hướng này
+
+- User feedback từ Kaggle cho thấy branch cần một text method hiện đại hơn.
+- Trong điều kiện CPU-only, `frozen encoder + linear head` là cách nhanh nhất để lấy transformer signal đáng tin mà vẫn benchmark được công bằng trên 5-fold CV.
+- Kết quả mạnh nhất không đến từ việc bỏ sparse model cũ, mà từ việc blend:
+  - lexical precision của phase-4 ensemble
+  - semantic signal của `ModernBERT`
+- Điều này xác nhận giả thuyết quan trọng:
+  - sparse text của M1 vốn không tệ
+  - vấn đề là branch còn thiếu semantic smoothing cho các case wording khác nhau nhưng cùng chủ đề
+
+### Hướng đã cân nhắc nhưng chưa ưu tiên
+
+- fine-tune transformer end-to-end ngay trên CPU:
+  - khả thi nhưng chi phí thời gian cao hơn đáng kể
+  - với feedback Kaggle cần phản ứng nhanh, frozen encoder cho tỷ lệ hiệu quả / thời gian tốt hơn
+- semantic-only deployment:
+  - best standalone encoder vẫn yếu hơn best blend
+  - variance cũng cao hơn, nên chưa hợp lý để làm main candidate
+
+### Bài rút ra
+
+- “Hiện đại hơn” không nhất thiết phải là bỏ toàn bộ pipeline cũ; nhiều khi bước tốt nhất là ghép semantic encoder vào một lexical backbone đã chứng minh được giá trị.
+- Với dataset nhỏ, hướng transformer đúng nhất thường là hướng bổ sung tín hiệu cho model đang mạnh, không phải fine-tune nặng bằng mọi giá.
+- M1 hiện có một phase-7 winner đủ mạnh để thay đổi hẳn submission strategy của branch.

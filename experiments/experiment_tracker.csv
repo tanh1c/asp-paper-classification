@@ -19,3 +19,7 @@ exp_m1_013,M1,battle/m1-full-pipeline,title_clean_word12_binary,ovr_logistic_reg
 exp_m1_014,M1,battle/m1-full-pipeline,blend_binary_tfidf_c6__tfidf_min2_c2,probability_blend,0.337629,0.024355,,phase4 candidate text_only_ensemble
 exp_m1_015,M1,battle/m1-full-pipeline,blend_binary_tfidf_c6__tfidf_min2_c2,probability_blend,0.333967,0.022822,,phase4 candidate text_only_ensemble
 exp_m1_016,M1,battle/m1-full-pipeline,blend_binary_tfidf_c6__tfidf_min2_c2,probability_blend,0.336599,0.030157,,phase4 candidate text_only_ensemble
+exp_m1_017,M1,battle/m1-full-pipeline,title_only_modernbert_embeddings,modernbert_logistic_regression,0.32887,0.053246,,phase7 best title-only ModernBERT encoder
+exp_m1_018,M1,battle/m1-full-pipeline,structured_modernbert_embeddings,modernbert_logistic_regression,0.343358,0.060626,,phase7 best standalone structured ModernBERT encoder
+exp_m1_019,M1,battle/m1-full-pipeline,structured_modernbert_embeddings,modernbert_logreg_blend,0.355191,0.032478,,phase7 best lexical-semantic blend
+exp_m1_020,M1,battle/m1-full-pipeline,structured_modernbert_embeddings,modernbert_logreg_blend,0.35402,0.041322,,phase7 runner-up lexical-semantic blend

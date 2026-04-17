@@ -11,3 +11,7 @@ tqdm>=4.65
 catboost>=1.2
 lightgbm>=4.0
 xgboost>=2.0
+transformers>=4.48.0
+sentence-transformers>=3.4.1
+accelerate>=1.2.1
+safetensors>=0.5.2

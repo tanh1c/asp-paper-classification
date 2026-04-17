@@ -1,8 +1,8 @@
 branch:
   owner: M1
   name: battle/m1-full-pipeline
-  strategy: text-first
-  status: kaggle_submission_ready
+  strategy: lexical_semantic_blend
+  status: modernbert_submission_ready
 
 shared_rules:
   metric: macro_f1
@@ -113,41 +113,62 @@ phase_5_result:
     - reports/battle_m1/phase5_per_class_metrics.csv
 
 showdown_ready:
-  main_run_id: exp_m1_014
-  main_submission_id: sub_m1_003
-  single_backup_run_id: exp_m1_002
-  single_backup_submission_id: sub_m1_002
-  stability_backup_run_id: exp_m1_011
+  main_run_id: exp_m1_019
+  main_submission_id: sub_m1_004
+  lexical_backup_run_id: exp_m1_014
+  lexical_backup_submission_id: sub_m1_003
+  semantic_backup_run_id: exp_m1_018
+  legacy_single_run_id: exp_m1_002
+  legacy_single_submission_id: sub_m1_002
   baseline_reference_run_id: exp_m1_001
-  branch_strength: text_only_ensemble
-  branch_risk: label_5_tradeoff
-  comparison_status: ready_for_branch_showdown
+  branch_strength: modernbert_sparse_blend
+  branch_risk: variance_higher_than_lexical_backup
+  comparison_status: phase7_winner_ready_for_showdown
 
-phase_6_submission_strategy:
-  main_run_id: exp_m1_014
-  main_submission_id: sub_m1_003
-  main_submission_file: data/submissions/sub_m1_v3_phase4_text_ensemble.csv
-  primary_backup_run_id: exp_m1_002
-  primary_backup_submission_id: sub_m1_002
-  primary_backup_submission_file: data/submissions/sub_m1_v2_phase3_best.csv
-  reserve_run_id: exp_m1_011
-  baseline_reference_submission_id: sub_m1_001
+phase_7_result:
+  best_run_id: exp_m1_019
+  best_submission_id: sub_m1_004
+  best_candidate: phase4_modernbert_structured_c2_0_w0_56
+  best_direction: lexical_semantic_blend
+  best_feature_set: phase4_sparse_plus_structured_modernbert
+  best_model: modernbert_logreg_blend
+  cv_macro_f1: 0.355191
+  cv_std: 0.032478
+  improvement_vs_phase_4: 0.017562
+  lexical_backup_run_id: exp_m1_014
+  lexical_backup_cv_macro_f1: 0.337629
+  semantic_backup_run_id: exp_m1_018
+  semantic_backup_cv_macro_f1: 0.343358
+  submission_file: data/submissions/sub_m1_v4_phase7_modernbert_blend.csv
+  report_files:
+    - reports/battle_m1/phase7_transformer_results.csv
+    - reports/battle_m1/phase7_transformer_summary.md
+
+current_submission_strategy:
+  main_run_id: exp_m1_019
+  main_submission_id: sub_m1_004
+  main_submission_file: data/submissions/sub_m1_v4_phase7_modernbert_blend.csv
+  primary_backup_run_id: exp_m1_014
+  primary_backup_submission_id: sub_m1_003
+  primary_backup_submission_file: data/submissions/sub_m1_v3_phase4_text_ensemble.csv
+  semantic_reserve_run_id: exp_m1_018
+  legacy_single_submission_id: sub_m1_002
   submission_order:
     - priority: 1
       role: main_candidate
-      submission_id: sub_m1_003
+      submission_id: sub_m1_004
       rule: submit_first
     - priority: 2
-      role: primary_backup
-      submission_id: sub_m1_002
+      role: lexical_backup
+      submission_id: sub_m1_003
       rule: submit_if_main_underperforms_or_if_second_slot_is_available
   public_lb_rules:
     keep_main_if_backup_advantage_lte: 0.002
     promote_backup_if_advantage_gt: 0.002
   notes:
-    - main candidate has best CV mean, best OOF, and lower variance
-    - backup candidate is the strongest single-model hedge
-    - reserve candidate stays internal until top two disappoint
+    - main candidate adds semantic ModernBERT signal on top of the proven lexical ensemble
+    - lexical backup remains the safest low-variance fallback
+    - semantic reserve stays internal until top two candidates disappoint
 
 outputs:
   branch_notes: docs/branches/m1_full_pipeline.md
@@ -166,6 +187,9 @@ outputs:
   phase5_single_confusion_csv: reports/battle_m1/phase5_confusion_single.csv
   phase5_ensemble_confusion_csv: reports/battle_m1/phase5_confusion_ensemble.csv
   phase5_per_class_metrics_csv: reports/battle_m1/phase5_per_class_metrics.csv
+  phase7_results_csv: reports/battle_m1/phase7_transformer_results.csv
+  phase7_summary: reports/battle_m1/phase7_transformer_summary.md
+  phase7_submission_file: data/submissions/sub_m1_v4_phase7_modernbert_blend.csv
   final_comparison_sheet: reports/battle_m1/final_comparison_sheet.md
   final_comparison_candidates_csv: reports/battle_m1/final_comparison_candidates.csv
   final_submission_strategy: reports/battle_m1/final_submission_strategy.md
