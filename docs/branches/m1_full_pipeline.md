@@ -30,6 +30,7 @@
 
 ## Output của branch
 
+- Audit log theo phase: `reports/battle_m1/audit_log.md`
 - Quick EDA report: `reports/battle_m1/quick_eda.md`
 - Baseline summary: `reports/battle_m1/phase2_baseline_summary.md`
 - Submission đầu tiên: `data/submissions/sub_m1_v1_text_word12_ovr_lr.csv`
@@ -65,3 +66,4 @@
 - [x] có CV result đầu tiên
 - [x] có submission file đầu tiên
 - [x] tracker và submission log đã được cập nhật
+- [x] có audit log giải thích lựa chọn kỹ thuật theo phase

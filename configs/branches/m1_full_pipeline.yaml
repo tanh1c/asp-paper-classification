@@ -51,6 +51,7 @@ phase_2_result:
 
 outputs:
   branch_notes: docs/branches/m1_full_pipeline.md
+  audit_log: reports/battle_m1/audit_log.md
   quick_eda_report: reports/battle_m1/quick_eda.md
   baseline_summary: reports/battle_m1/phase2_baseline_summary.md
   submission_file: data/submissions/sub_m1_v1_text_word12_ovr_lr.csv
