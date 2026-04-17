@@ -18,9 +18,12 @@ Thư mục này chứa report và artifact nhẹ của branch `battle/m1-full-pi
 - `phase5_confusion_ensemble.csv`
 - `final_comparison_sheet.md`
 - `final_comparison_candidates.csv`
+- `final_submission_strategy.md`
+- `final_submission_queue.csv`
 
 ## Mục tiêu
 
 - giữ lại insight ngắn gọn của branch M1
 - giúp cuối kỳ so sánh M1 với các branch khác nhanh hơn
 - lưu lại reasoning theo từng phase để giải thích vì sao chọn hướng này thay vì hướng khác
+- khóa luôn playbook nộp Kaggle để M1 không bị đổi candidate theo cảm tính

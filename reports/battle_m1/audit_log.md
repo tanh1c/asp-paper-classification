@@ -520,3 +520,72 @@ Sau mỗi phase, append thêm một block mới theo cấu trúc:
 
 - M1 giờ đã ở trạng thái đủ tốt để đi vào “branch showdown”.
 - Comparison sheet giúp biến toàn bộ branch từ một chuỗi phase thành một “battle card” rõ ràng, dễ so sánh với các branch khác.
+
+---
+
+## Phase 6 - Final submission strategy cho Kaggle
+
+### Mục tiêu
+
+- chốt playbook nộp bài cuối cho M1
+- xác định bản nào nộp trước, bản nào giữ làm backup, bản nào chỉ giữ nội bộ
+- tránh việc đổi candidate theo cảm tính khi Public LB xuất hiện
+
+### Việc đã làm
+
+- tổng hợp lại bằng chứng từ:
+  - `final_comparison_sheet.md`
+  - `phase5_error_analysis.md`
+  - `submission_log.csv`
+- tạo:
+  - `reports/battle_m1/final_submission_strategy.md`
+  - `reports/battle_m1/final_submission_queue.csv`
+- cập nhật branch note và branch config để strategy này trở thành state chính thức của M1
+
+### Quyết định đã chốt
+
+- Submit first:
+  - `sub_m1_v3_phase4_text_ensemble.csv`
+- Primary Kaggle backup:
+  - `sub_m1_v2_phase3_best.csv`
+- Internal reserve:
+  - `exp_m1_011`
+- Baseline chỉ giữ cho sanity-check:
+  - `sub_m1_v1_text_word12_ovr_lr.csv`
+
+### Vì sao nộp ensemble trước
+
+- `exp_m1_014` đang là best overall candidate của M1 trên cả:
+  - mean CV
+  - CV variance
+  - OOF error analysis
+- Nếu M1 không nộp candidate này trước, branch sẽ không đo được trần điểm thật sự của hướng đang mạnh nhất.
+- Backup single-model nên được dùng như một hedge có chủ đích, không nên chiếm vị trí main candidate ngay từ đầu.
+
+### Vì sao giữ `exp_m1_002` làm backup chính
+
+- Đây là single-model mạnh nhất của M1.
+- Nó mang value chiến thuật rõ ràng:
+  - dễ giải thích
+  - đủ gần với main candidate về điểm
+  - phù hợp để test xem leaderboard có disagree với ensemble hay không
+- Giữ backup kiểu này giúp M1 có phương án phản ứng nhanh mà không cần quay về baseline yếu hơn.
+
+### Vì sao chưa dùng `exp_m1_011` làm submission mặc định
+
+- `exp_m1_011` rất hữu ích về mặt stability story, nhưng mean score vẫn thấp hơn hai candidate chính.
+- Value lớn nhất của nó hiện tại là:
+  - làm thành phần của winner Phase 4
+  - làm reserve nếu top candidates đều cho tín hiệu LB không tốt
+- Nộp reserve quá sớm sẽ làm loãng chiến lược submission mà chưa có đủ bằng chứng lợi ích.
+
+### Decision rule sau khi có LB
+
+- Nếu backup chỉ hơn main rất ít, trong khoảng `<= 0.002`, vẫn giữ main candidate.
+- Nếu backup hơn main `> 0.002`, promote backup thành official M1 candidate.
+- Không đổi candidate chính chỉ vì chênh lệch rất nhỏ, vì M1 đang có evidence tổng thể tốt hơn ở ensemble winner.
+
+### Bài rút ra
+
+- Giai đoạn cuối không chỉ là “có model nào mạnh nhất”, mà là “ra quyết định nộp bài như thế nào để không tự phá lợi thế của branch”.
+- M1 hiện đã có một submission strategy đủ rõ để đem đi Kaggle battle mà không bị dao động bởi các tín hiệu ngắn hạn.

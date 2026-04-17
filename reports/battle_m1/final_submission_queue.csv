@@ -1,0 +1,5 @@
+priority,role,action,run_id,submission_id,file_name,submit_timing,recommended_use,switch_rule
+1,main_candidate,submit_first,exp_m1_014,sub_m1_003,sub_m1_v3_phase4_text_ensemble.csv,first_wave,best overall M1 candidate from CV plus OOF evidence,keep official if it stays best on Public LB or backup is ahead by at most 0.002
+2,primary_backup,hold_then_submit,exp_m1_002,sub_m1_002,sub_m1_v2_phase3_best.csv,second_wave,single-model hedge if leaderboard disagrees with ensemble,promote if it beats main by more than 0.002 on Public LB
+3,stability_reserve,do_not_submit_yet,exp_m1_011,,not_exported_yet,reserve_only,low-variance reserve for extra slot or rescue scenario,only materialize if both top candidates disappoint
+4,baseline_reference,reference_only,exp_m1_001,sub_m1_001,sub_m1_v1_text_word12_ovr_lr.csv,emergency_only,use only for sanity-check or submission-format debugging,never official unless all later files are blocked

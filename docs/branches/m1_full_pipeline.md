@@ -182,3 +182,30 @@
 - Comparison sheet:
   - `reports/battle_m1/final_comparison_sheet.md`
   - `reports/battle_m1/final_comparison_candidates.csv`
+
+## Final submission strategy
+
+- Submit first on Kaggle:
+  - `sub_m1_v3_phase4_text_ensemble.csv`
+- Hold as primary Kaggle backup:
+  - `sub_m1_v2_phase3_best.csv`
+- Keep as internal reserve only:
+  - `exp_m1_011`
+- Keep baseline only for sanity check:
+  - `sub_m1_v1_text_word12_ovr_lr.csv`
+
+## Decision rule after Public LB appears
+
+- Giữ `exp_m1_014` làm official M1 candidate nếu:
+  - đang có LB tốt nhất trong các file của M1
+  - hoặc backup chỉ hơn không quá `0.002`
+- Promote `exp_m1_002` nếu:
+  - backup hơn main `> 0.002` trên Public LB
+- Chưa dùng `exp_m1_011` làm default submission nếu chưa có bằng chứng rõ rằng hai candidate chính đều underperform
+
+## Artifact của submission strategy
+
+- Strategy note:
+  - `reports/battle_m1/final_submission_strategy.md`
+- Submission queue:
+  - `reports/battle_m1/final_submission_queue.csv`
