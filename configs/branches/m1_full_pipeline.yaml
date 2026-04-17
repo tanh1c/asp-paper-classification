@@ -1,0 +1,48 @@
+branch:
+  owner: M1
+  name: battle/m1-full-pipeline
+  strategy: text-first
+  status: phase_1_ready
+
+shared_rules:
+  metric: macro_f1
+  cv:
+    n_splits: 5
+    shuffle: true
+    random_state: 42
+
+phase_1:
+  objective:
+    - lock branch-specific plan
+    - reserve run ids and submission ids
+    - define output files for baseline phase
+  checklist:
+    - branch created from main
+    - shared rules reviewed
+    - output locations reserved
+    - candidate baseline chosen
+
+phase_2_plan:
+  run_id: exp_m1_001
+  submission_id: sub_m1_001
+  model_family: text_baseline
+  baseline_name: tfidf_word_1_2_ovr_logreg
+  vectorizer:
+    analyzer: word
+    ngram_range: [1, 2]
+    min_df: 1
+    max_df: 1.0
+    sublinear_tf: true
+  model:
+    type: ovr_logistic_regression
+    C: 4.0
+    max_iter: 5000
+    solver: liblinear
+    class_weight: balanced
+    random_state: 42
+
+outputs:
+  branch_notes: docs/branches/m1_full_pipeline.md
+  quick_eda_report: reports/battle_m1/quick_eda.md
+  baseline_summary: reports/battle_m1/phase2_baseline_summary.md
+  submission_file: data/submissions/sub_m1_v1_text_word12_ovr_lr.csv
