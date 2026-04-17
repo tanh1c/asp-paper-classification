@@ -2,3 +2,4 @@ submission_id,owner,branch_name,file_name,model_family,cv_macro_f1,public_lb,not
 sub_001,M1,battle/m1-full-pipeline,sub_m1_v1_baseline.csv,text_baseline,,,placeholder log row
 sub_m1_001,M1,battle/m1-full-pipeline,sub_m1_v1_text_word12_ovr_lr.csv,text_baseline,0.327027,,phase2 baseline generated locally
 sub_m1_002,M1,battle/m1-full-pipeline,sub_m1_v2_phase3_best.csv,text_tuned_binary,0.334261,,phase3 best candidate word12_binary_c6
+sub_m1_003,M1,battle/m1-full-pipeline,sub_m1_v3_phase4_text_ensemble.csv,text_only_ensemble,0.337629,,phase4 best candidate ens_best_backup_50_50

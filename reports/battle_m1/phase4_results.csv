@@ -1,0 +1,6 @@
+run_id,candidate_name,candidate_type,direction,feature_set,model,cv_macro_f1,cv_std,fold_scores
+exp_m1_014,ens_best_backup_50_50,ensemble,text_only_ensemble,blend_binary_tfidf_c6__tfidf_min2_c2,probability_blend,0.3376286824210063,0.024355003710397168,"[0.37116, 0.357089, 0.301315, 0.32771, 0.330869]"
+exp_m1_016,ens_best_backup_55_45,ensemble,text_only_ensemble,blend_binary_tfidf_c6__tfidf_min2_c2,probability_blend,0.33659944315797774,0.030156731503708126,"[0.367294, 0.376431, 0.301315, 0.32771, 0.310247]"
+exp_m1_015,ens_best_backup_40_60,ensemble,text_only_ensemble,blend_binary_tfidf_c6__tfidf_min2_c2,probability_blend,0.3339668989249332,0.022821753796669054,"[0.369621, 0.343031, 0.300608, 0.334348, 0.322226]"
+exp_m1_013,binary_tfidf_c4,single_model,text_representation_variant,title_clean_word12_binary,ovr_logistic_regression,0.3330865830447534,0.04116272449684571,"[0.337553, 0.411344, 0.304789, 0.301089, 0.310658]"
+exp_m1_012,binary_count_c6,single_model,text_representation_variant,title_clean_word12_binary_count,ovr_logistic_regression,0.32145676017607644,0.027737900790790335,"[0.329802, 0.372084, 0.298477, 0.307847, 0.299075]"

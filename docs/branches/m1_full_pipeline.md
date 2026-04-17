@@ -102,3 +102,32 @@
 - Kết quả đầy đủ: `reports/battle_m1/phase3_results.csv`
 - Tóm tắt phase: `reports/battle_m1/phase3_experiment_summary.md`
 - Audit log: `reports/battle_m1/audit_log.md`
+
+## Phase 4 optimization result
+
+- Phase 4 winner: `exp_m1_014`
+- Candidate tốt nhất: `ens_best_backup_50_50`
+- Hướng tốt nhất hiện tại: `text_only_ensemble`
+- Model đã khóa sau Phase 4:
+  - `50% phase3_best_binary_tfidf_c6`
+  - `50% phase3_backup_tfidf_min2_c2`
+- CV Macro F1: `0.337629`
+- CV std: `0.024355`
+- Cải thiện so với Phase 3: `+0.003368`
+- Submission mới: `data/submissions/sub_m1_v3_phase4_text_ensemble.csv`
+
+## Insight sau Phase 4
+
+- Text-only vẫn là hướng đúng của M1, nhưng best candidate hiện tại đã chuyển từ `single model` sang `ensemble`.
+- Blend giữa model mạnh nhất và model backup ổn định vừa tăng mean score vừa giảm variance rất rõ.
+- `binary count` không thắng `binary+idf`, nên representation đơn lẻ tốt nhất vẫn là hướng phase 3.
+- Nếu tiếp tục tiến tiếp, M1 nên:
+  - giữ `exp_m1_014` làm candidate chính
+  - giữ `exp_m1_002` làm single-model reference
+  - dùng `exp_m1_011` như backup ổn định nếu cần fallback
+
+## Artifact của Phase 4
+
+- Kết quả đầy đủ: `reports/battle_m1/phase4_results.csv`
+- Tóm tắt phase: `reports/battle_m1/phase4_experiment_summary.md`
+- Audit log: `reports/battle_m1/audit_log.md`

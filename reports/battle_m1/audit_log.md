@@ -292,3 +292,93 @@ Sau mỗi phase, append thêm một block mới theo cấu trúc:
   - giữ `word12_tfidf_c2_min2` làm backup ổn định
   - thử 1-2 hướng cuối có chủ đích quanh nhóm text-only mạnh nhất
   - chỉ thử hybrid tiếp nếu có giả thuyết feature rất cụ thể
+
+---
+
+## Phase 4 - Tối ưu tiếp quanh nhóm text-only mạnh nhất
+
+### Mục tiêu
+
+- không rẽ sang hybrid nữa
+- chỉ tập trung vào text-only quanh nhóm candidate tốt nhất của Phase 3
+- kiểm tra xem có nên giữ single model hay chuyển sang text-only ensemble
+
+### Việc đã làm
+
+- viết script:
+  - `scripts/run_m1_phase4_text_optimization.py`
+- thử hai hướng chính:
+  - representation variant quanh single model mạnh nhất
+  - probability blend giữa các model text mạnh nhất
+- sinh:
+  - `reports/battle_m1/phase4_results.csv`
+  - `reports/battle_m1/phase4_experiment_summary.md`
+  - `data/submissions/sub_m1_v3_phase4_text_ensemble.csv`
+- cập nhật tracker và submission log
+
+### Candidate đã thử trong Phase 4
+
+| Run ID | Candidate | Type | CV Macro F1 | Std |
+|---|---|---|---:|---:|
+| exp_m1_014 | ens_best_backup_50_50 | ensemble | 0.337629 | 0.024355 |
+| exp_m1_016 | ens_best_backup_55_45 | ensemble | 0.336599 | 0.030157 |
+| exp_m1_015 | ens_best_backup_40_60 | ensemble | 0.333967 | 0.022822 |
+| exp_m1_013 | binary_tfidf_c4 | single_model | 0.333087 | 0.041163 |
+| exp_m1_012 | binary_count_c6 | single_model | 0.321457 | 0.027738 |
+
+### Quyết định đã chốt
+
+- Winner của Phase 4 là:
+  - `exp_m1_014`
+  - `ens_best_backup_50_50`
+- Cấu hình winner:
+  - `50% phase3_best_binary_tfidf_c6`
+  - `50% phase3_backup_tfidf_min2_c2`
+- Kết quả chính:
+  - Phase 3 best: `0.334261`
+  - Phase 4 best: `0.337629`
+  - Gain: `+0.003368`
+- Đây là candidate mới mạnh nhất của branch M1 tính đến hiện tại.
+
+### Vì sao chọn text-only ensemble này
+
+- Đây là candidate có `CV mean` cao nhất trong toàn bộ Phase 4.
+- Quan trọng hơn, nó không chỉ tăng mean mà còn giảm `std` xuống `0.024355`, tức ổn định hơn đáng kể so với single best model của Phase 3.
+- Blend này tận dụng được hai tính chất bổ sung:
+  - `phase3_best_binary_tfidf_c6` có peak score cao hơn
+  - `phase3_backup_tfidf_min2_c2` ổn định hơn
+- Khi trộn 50/50, hai model bù cho nhau tốt hơn nhiều so với việc tiếp tục chỉ tune một model đơn lẻ.
+
+### Hướng nào bị loại và vì sao
+
+- `binary_count_c6`:
+  - xác nhận rằng pure binary count không mạnh bằng hướng `binary + idf`
+- `binary_tfidf_c4`:
+  - gần tốt nhưng không vượt được best single model của Phase 3
+- `ensemble 40/60`:
+  - khá ổn định nhưng mean chưa bằng winner
+- `ensemble 55/45`:
+  - tốt nhưng vẫn thấp hơn 50/50
+
+### Insight quan trọng nhất rút ra từ Phase 4
+
+- Hướng text-only của M1 đã đủ mạnh để bước sang giai đoạn “kết hợp các model text tốt nhất với nhau”, không cần phải kéo metadata vào.
+- Blend giữa model mean-strong và model variance-stable là một chiến lược rất hợp với dataset nhỏ.
+- Phase 4 cũng cho thấy:
+  - representation đơn lẻ tốt nhất vẫn là `binary word presence + OVR Logistic Regression`
+  - nhưng candidate tổng thể tốt nhất hiện tại lại là `ensemble` của hai model text-only
+
+### Bài rút ra
+
+- Không phải lúc nào bước tiếp theo sau tuning cũng là đổi feature; đôi khi blend các candidate đã tốt sẵn cho hiệu quả cao hơn.
+- Với dataset nhỏ, giảm variance có giá trị thực tế gần như tăng mean.
+- Việc giữ lại candidate backup từ Phase 3 là quyết định đúng, vì nó đã trở thành một nửa của winner Phase 4.
+
+### Bước tiếp theo
+
+- Sang phase tiếp theo, M1 nên:
+  - giữ `exp_m1_014` làm candidate chính
+  - kiểm tra error analysis giữa ensemble winner và single-model winner
+  - nếu cần nộp nhiều bản, dùng:
+    - `sub_m1_v3_phase4_text_ensemble.csv` làm candidate chính
+    - `sub_m1_v2_phase3_best.csv` làm single-model backup

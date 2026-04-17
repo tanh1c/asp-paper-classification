@@ -14,3 +14,8 @@ exp_m1_008,M1,battle/m1-full-pipeline,title_clean_word12_tfidf,linear_svc,0.3163
 exp_m1_009,M1,battle/m1-full-pipeline,title_clean_word13_tfidf,ridge_classifier,0.317129,0.038716,,phase3 candidate ridge_text
 exp_m1_010,M1,battle/m1-full-pipeline,title_clean_char46_tfidf,ovr_logistic_regression,0.299349,0.03252,,phase3 candidate char_model
 exp_m1_011,M1,battle/m1-full-pipeline,title_clean_word12_tfidf_min2,ovr_logistic_regression,0.33042,0.023573,,phase3 candidate text_stability_backup
+exp_m1_012,M1,battle/m1-full-pipeline,title_clean_word12_binary_count,ovr_logistic_regression,0.321457,0.027738,,phase4 candidate text_representation_variant
+exp_m1_013,M1,battle/m1-full-pipeline,title_clean_word12_binary,ovr_logistic_regression,0.333087,0.041163,,phase4 candidate text_representation_variant
+exp_m1_014,M1,battle/m1-full-pipeline,blend_binary_tfidf_c6__tfidf_min2_c2,probability_blend,0.337629,0.024355,,phase4 candidate text_only_ensemble
+exp_m1_015,M1,battle/m1-full-pipeline,blend_binary_tfidf_c6__tfidf_min2_c2,probability_blend,0.333967,0.022822,,phase4 candidate text_only_ensemble
+exp_m1_016,M1,battle/m1-full-pipeline,blend_binary_tfidf_c6__tfidf_min2_c2,probability_blend,0.336599,0.030157,,phase4 candidate text_only_ensemble

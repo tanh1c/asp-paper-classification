@@ -2,7 +2,7 @@ branch:
   owner: M1
   name: battle/m1-full-pipeline
   strategy: text-first
-  status: phase_3_experiments_complete
+  status: phase_4_text_optimization_complete
 
 shared_rules:
   metric: macro_f1
@@ -68,6 +68,28 @@ phase_3_result:
     - reports/battle_m1/phase3_results.csv
     - reports/battle_m1/phase3_experiment_summary.md
 
+phase_4_result:
+  best_run_id: exp_m1_014
+  best_submission_id: sub_m1_003
+  best_candidate: ens_best_backup_50_50
+  best_direction: text_only_ensemble
+  best_feature_set: blend_binary_tfidf_c6__tfidf_min2_c2
+  best_model: probability_blend
+  cv_macro_f1: 0.337629
+  cv_std: 0.024355
+  improvement_vs_phase_3: 0.003368
+  ensemble_members:
+    - model: phase3_best_binary_tfidf_c6
+      weight: 0.5
+    - model: phase3_backup_tfidf_min2_c2
+      weight: 0.5
+  single_model_reference_run_id: exp_m1_002
+  single_model_reference_cv_macro_f1: 0.334261
+  submission_file: data/submissions/sub_m1_v3_phase4_text_ensemble.csv
+  report_files:
+    - reports/battle_m1/phase4_results.csv
+    - reports/battle_m1/phase4_experiment_summary.md
+
 outputs:
   branch_notes: docs/branches/m1_full_pipeline.md
   audit_log: reports/battle_m1/audit_log.md
@@ -77,3 +99,6 @@ outputs:
   phase3_results_csv: reports/battle_m1/phase3_results.csv
   phase3_summary: reports/battle_m1/phase3_experiment_summary.md
   phase3_submission_file: data/submissions/sub_m1_v2_phase3_best.csv
+  phase4_results_csv: reports/battle_m1/phase4_results.csv
+  phase4_summary: reports/battle_m1/phase4_experiment_summary.md
+  phase4_submission_file: data/submissions/sub_m1_v3_phase4_text_ensemble.csv
