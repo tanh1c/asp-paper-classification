@@ -4,3 +4,13 @@ exp_002,M2,battle/m2-full-pipeline,metadata_basic,catboost,,,,venue year author_
 exp_003,M3,battle/m3-full-pipeline,tfidf_title_char_3_5,linear_svm,,,,text-first candidate
 exp_004,M4,battle/m4-full-pipeline,title_plus_metadata,linear_svm,,,,hybrid candidate
 exp_m1_001,M1,battle/m1-full-pipeline,title_clean_tfidf_word_1_2,ovr_logistic_regression,0.327027,0.032543,,phase2 text-first baseline
+exp_m1_002,M1,battle/m1-full-pipeline,title_clean_word12_binary,ovr_logistic_regression,0.334261,0.041403,,phase3 candidate text_tuned_binary
+exp_m1_003,M1,battle/m1-full-pipeline,title_clean_word12_binary,ovr_logistic_regression,0.333087,0.041163,,phase3 candidate text_tuned_binary
+exp_m1_004,M1,battle/m1-full-pipeline,title_clean_word12_binary,ovr_logistic_regression,0.332389,0.043238,,phase3 candidate text_tuned_binary
+exp_m1_005,M1,battle/m1-full-pipeline,title_clean_word13_binary,ovr_logistic_regression,0.326444,0.049116,,phase3 candidate text_trigram
+exp_m1_006,M1,battle/m1-full-pipeline,title_plus_venue_word12_binary,ovr_logistic_regression,0.307499,0.034316,,phase3 candidate text_plus_metadata_tokens
+exp_m1_007,M1,battle/m1-full-pipeline,title_word13_plus_venue_numeric,ovr_logistic_regression,0.300849,0.029817,,phase3 candidate hybrid_sparse
+exp_m1_008,M1,battle/m1-full-pipeline,title_clean_word12_tfidf,linear_svc,0.316379,0.036987,,phase3 candidate linear_svm
+exp_m1_009,M1,battle/m1-full-pipeline,title_clean_word13_tfidf,ridge_classifier,0.317129,0.038716,,phase3 candidate ridge_text
+exp_m1_010,M1,battle/m1-full-pipeline,title_clean_char46_tfidf,ovr_logistic_regression,0.299349,0.03252,,phase3 candidate char_model
+exp_m1_011,M1,battle/m1-full-pipeline,title_clean_word12_tfidf_min2,ovr_logistic_regression,0.33042,0.023573,,phase3 candidate text_stability_backup

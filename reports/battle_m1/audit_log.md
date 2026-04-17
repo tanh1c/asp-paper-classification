@@ -184,3 +184,111 @@ Sau mỗi phase, append thêm một block mới theo cấu trúc:
   - kiểm tra `min_df`
   - thử char feature có kiểm soát hơn
   - chỉ quay lại hybrid khi có bằng chứng cải thiện CV
+
+---
+
+## Phase 3 - Thử nhiều hướng và chọn hướng tốt nhất
+
+### Mục tiêu
+
+- thử nhiều hướng khác nhau nhưng vẫn giữ cùng CV để so sánh công bằng
+- tìm xem có hướng nào thắng baseline Phase 2 hay không
+- nếu có cải thiện, chốt luôn candidate mạnh nhất cho branch M1
+
+### Việc đã làm
+
+- viết script benchmark có cấu trúc:
+  - `scripts/run_m1_phase3_experiments.py`
+- thử nhiều hướng lớn:
+  - text tuned với `binary word presence`
+  - text trigram
+  - text + metadata token
+  - hybrid sparse
+  - Linear SVM
+  - Ridge
+  - char model
+  - một candidate backup thiên về ổn định
+- sinh:
+  - `reports/battle_m1/phase3_results.csv`
+  - `reports/battle_m1/phase3_experiment_summary.md`
+  - `data/submissions/sub_m1_v2_phase3_best.csv`
+- cập nhật tracker và submission log
+
+### Kết quả đầy đủ của Phase 3
+
+| Run ID | Candidate | Direction | CV Macro F1 | Std |
+|---|---|---|---:|---:|
+| exp_m1_002 | word12_binary_c6 | text_tuned_binary | 0.334261 | 0.041403 |
+| exp_m1_003 | word12_binary_c4 | text_tuned_binary | 0.333087 | 0.041163 |
+| exp_m1_004 | word12_binary_c8 | text_tuned_binary | 0.332389 | 0.043238 |
+| exp_m1_011 | word12_tfidf_c2_min2 | text_stability_backup | 0.330420 | 0.023573 |
+| exp_m1_005 | word13_binary_c6 | text_trigram | 0.326444 | 0.049116 |
+| exp_m1_009 | word13_ridge | ridge_text | 0.317129 | 0.038716 |
+| exp_m1_008 | word12_svm_none_c05 | linear_svm | 0.316379 | 0.036987 |
+| exp_m1_006 | title_venue_binary_c6 | text_plus_metadata_tokens | 0.307499 | 0.034316 |
+| exp_m1_007 | hybrid_word13_venue_lr | hybrid_sparse | 0.300849 | 0.029817 |
+| exp_m1_010 | char46_lr_c4 | char_model | 0.299349 | 0.032520 |
+
+### Quyết định đã chốt
+
+- Winner của Phase 3 là:
+  - `exp_m1_002`
+  - `word12_binary_c6`
+- Hướng tốt nhất hiện tại của M1:
+  - `text-first` được tune tiếp theo hướng `binary word presence`
+- Kết quả chính:
+  - Phase 2 baseline: `0.327027`
+  - Phase 3 best: `0.334261`
+  - Gain: `+0.007234`
+
+### Vì sao chọn hướng này là tốt nhất
+
+- Đây là candidate có `CV mean` cao nhất trong toàn bộ Phase 3.
+- Cải thiện là có thật chứ không chỉ xê dịch rất nhỏ quanh baseline.
+- Insight kỹ thuật rõ ràng:
+  - với stage 1 hiện tại, sự hiện diện của từ (`binary word presence`) có vẻ hữu ích hơn TF-IDF chuẩn
+  - title vẫn là tín hiệu mạnh nhất
+- Pipeline vẫn còn tương đối đơn giản, nên dễ giữ cho Phase 4 và dễ giải thích trong báo cáo.
+
+### Hướng nào bị loại và vì sao
+
+- `text trigram`:
+  - thêm trigram không giúp tăng điểm
+  - có dấu hiệu tăng variance
+- `text + metadata tokens`:
+  - ghép `venue` vào text không giúp vượt baseline text tuned
+- `hybrid sparse`:
+  - chưa khai thác metadata đủ mạnh để thắng text-only
+- `char model`:
+  - yếu hơn khá rõ
+- `Linear SVM` và `Ridge`:
+  - không vượt được logistic tuned
+
+### Insight quan trọng nhất rút ra từ Phase 3
+
+- Hướng đúng của M1 không phải là “hybrid nhiều hơn”, mà là “text-first nhưng tune đúng kiểu”.
+- Một thay đổi seemingly nhỏ ở representation (`binary=True`) lại cho hiệu quả hơn hẳn việc thêm metadata hoặc tăng độ phức tạp pipeline.
+- Phase 3 cũng cho thấy cần tách bạch:
+  - candidate tốt nhất theo mean score
+  - candidate backup tốt hơn về độ ổn định
+
+### Backup candidate đáng giữ lại
+
+- `exp_m1_011` không phải winner, nhưng là candidate backup tốt:
+  - CV Macro F1: `0.330420`
+  - CV std: `0.023573`
+- Nếu Phase 4 hoặc Public LB cho thấy candidate winner quá dao động, đây là hướng fallback hợp lý.
+
+### Bài rút ra
+
+- Không nên mặc định metadata sẽ giúp khi dataset còn nhỏ và text đã mang tín hiệu chính.
+- Tuning representation thường hiệu quả hơn thay model quá sớm.
+- Có một backup ổn định là rất đáng giá trong branch battle.
+
+### Bước tiếp theo
+
+- Sang Phase 4, M1 nên:
+  - giữ `word12_binary_c6` làm candidate chính
+  - giữ `word12_tfidf_c2_min2` làm backup ổn định
+  - thử 1-2 hướng cuối có chủ đích quanh nhóm text-only mạnh nhất
+  - chỉ thử hybrid tiếp nếu có giả thuyết feature rất cụ thể

@@ -2,7 +2,7 @@ branch:
   owner: M1
   name: battle/m1-full-pipeline
   strategy: text-first
-  status: phase_2_baseline_complete
+  status: phase_3_experiments_complete
 
 shared_rules:
   metric: macro_f1
@@ -49,9 +49,31 @@ phase_2_result:
     - reports/battle_m1/quick_eda.md
     - reports/battle_m1/phase2_baseline_summary.md
 
+phase_3_result:
+  best_run_id: exp_m1_002
+  best_submission_id: sub_m1_002
+  best_candidate: word12_binary_c6
+  best_direction: text_tuned_binary
+  best_feature_set: title_clean_word12_binary
+  best_model: ovr_logistic_regression
+  cv_macro_f1: 0.334261
+  cv_std: 0.041403
+  improvement_vs_phase_2: 0.007234
+  backup_run_id: exp_m1_011
+  backup_candidate: word12_tfidf_c2_min2
+  backup_cv_macro_f1: 0.330420
+  backup_cv_std: 0.023573
+  submission_file: data/submissions/sub_m1_v2_phase3_best.csv
+  report_files:
+    - reports/battle_m1/phase3_results.csv
+    - reports/battle_m1/phase3_experiment_summary.md
+
 outputs:
   branch_notes: docs/branches/m1_full_pipeline.md
   audit_log: reports/battle_m1/audit_log.md
   quick_eda_report: reports/battle_m1/quick_eda.md
   baseline_summary: reports/battle_m1/phase2_baseline_summary.md
   submission_file: data/submissions/sub_m1_v1_text_word12_ovr_lr.csv
+  phase3_results_csv: reports/battle_m1/phase3_results.csv
+  phase3_summary: reports/battle_m1/phase3_experiment_summary.md
+  phase3_submission_file: data/submissions/sub_m1_v2_phase3_best.csv

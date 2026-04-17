@@ -67,3 +67,38 @@
 - [x] có submission file đầu tiên
 - [x] tracker và submission log đã được cập nhật
 - [x] có audit log giải thích lựa chọn kỹ thuật theo phase
+
+## Phase 3 experiment result
+
+- Phase 3 winner: `exp_m1_002`
+- Candidate tốt nhất: `word12_binary_c6`
+- Hướng tốt nhất hiện tại: `text_tuned_binary`
+- Model đã khóa sau Phase 3: `TF word presence (1,2) + OneVsRest Logistic Regression`
+- CV Macro F1: `0.334261`
+- CV std: `0.041403`
+- Cải thiện so với Phase 2: `+0.007234`
+- Submission mới: `data/submissions/sub_m1_v2_phase3_best.csv`
+
+## Backup candidate đáng giữ lại
+
+- Run ID: `exp_m1_011`
+- Candidate: `word12_tfidf_c2_min2`
+- CV Macro F1: `0.330420`
+- CV std: `0.023573`
+- Ý nghĩa: thấp điểm hơn winner nhưng ổn định hơn, phù hợp làm backup nếu Phase 4 cần cân bằng giữa mean và variance
+
+## Insight sau Phase 3
+
+- Hướng tốt nhất của M1 vẫn là `text-first`, nhưng không phải TF-IDF chuẩn mà là `binary word presence`.
+- Metadata token augmentation và hybrid sparse chưa giúp vượt text tuned.
+- Tăng `ngram` lên `(1,3)` hoặc chuyển hẳn sang char model đều không mang lại lợi ích thực sự.
+- Nếu tiếp tục tối ưu ở Phase 4, M1 nên đi theo:
+  - fine-tune quanh `binary word (1,2)`
+  - thử thêm 1-2 biến thể ensemble nhỏ quanh nhóm text-only mạnh nhất
+  - chỉ quay lại hybrid nếu có một giả thuyết feature rất cụ thể
+
+## Artifact của Phase 3
+
+- Kết quả đầy đủ: `reports/battle_m1/phase3_results.csv`
+- Tóm tắt phase: `reports/battle_m1/phase3_experiment_summary.md`
+- Audit log: `reports/battle_m1/audit_log.md`
