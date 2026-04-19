@@ -1,0 +1,511 @@
+id,Label,structured_text
+299,1,title: tabled clp for reasoning over stream data. [SEP] venue: iclp [SEP] year: 2016 [SEP] doi publisher: 10.1109 [SEP] doi source: icsc
+92,5,title: xai-law: a logic programming tool for modeling explaining and learning legal decisions. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+311,1,title: workshop proceedings of the 40th international conference on logic programming iclp-ws 2024 co-located with the 40th international conference on logic programming iclp 2024 dallas tx usa october 12th and 13th 2024. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+136,5,title: probabilistic active goal recognition. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+41,1,title: heuristic strategies for accelerating multi-agent epistemic planning. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+235,3,title: succinctness and complexity of alc with counting perceptrons. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+518,2,title: action languages and covid-19: lessons learned. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.1515 [SEP] doi source: none
+403,4,title: flexible lifelong explainable and robust solutions for multi-agent path finding problems. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1609 [SEP] doi source: aaai
+569,1,title: planning domain model acquisition from state traces without action parameters. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+342,1,title: chrvis: syntax and semantics. [SEP] venue: iclp [SEP] year: 2018 [SEP] doi publisher: 10.1016 [SEP] doi source: s
+510,5,title: exploring neurosymbolic systems in answer set programming with an application to waste water monitoring. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.5220 [SEP] doi source: none
+451,4,title: on simple expectations and observations of intelligent agents: a complexity study. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+29,1,title: proceedings 38th international conference on logic programming iclp 2022 technical communications / doctoral consortium haifa israel 31st july 2022 - 6th august 2022. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+134,1,title: testing of concurrent programs. [SEP] venue: iclp [SEP] year: 2016 [SEP] doi publisher: 10.14711 [SEP] doi source: thesis
+321,3,title: determining action reversibility in strips using answer set programming. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.1017 [SEP] doi source: s
+171,5,title: domain-independent instance generation for classical planning. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+357,4,title: on teaching constraint-based modeling and algorithms for decision support in prolog. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.1016 [SEP] doi source: s
+13,4,title: relational graph convolutional networks do not learn sound rules. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+417,4,title: on the correspondence between monotonic max-sum gnns and datalog. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+404,3,title: contracted temporal equilibrium logic. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+481,3,title: improving candidate quality of probabilistic logic models. [SEP] venue: iclp [SEP] year: 2018 [SEP] doi publisher: 10.1108 [SEP] doi source: k
+74,5,title: extracting policies from quantified answer set programs. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+361,3,title: on combining collective entity resolution and repairing extended abstract . [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: ijcai
+409,5,title: navigating and querying answer sets: how hard is it really and why [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+56,2,title: explanations for unrealizability of infinite-state safety shields. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+203,1,title: emerson-lei and manna-pnueli games for ltlf+ and ppltl+ synthesis. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+103,1,title: commonsense reasoning-aided autonomous vehicle systems. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+448,3,title: precise exponential-time complexity of non-monotonic reasoning. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.7551 [SEP] doi source: mitpress
+269,2,title: semantically guided scene generation via contextual reasoning and algebraic measures. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.1109 [SEP] doi source: tits
+3,1,title: cumulative scoring-based induction of default theories. [SEP] venue: iclp [SEP] year: 2018 [SEP] doi publisher: 10.1002 [SEP] doi source: eng
+424,5,title: theory revision with goal-directed asp. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.1017 [SEP] doi source: cbo
+263,4,title: lazy stream programming in prolog. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+320,5,title: asp chef: draw and expand. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+172,4,title: product configuration in answer set programming. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+579,2,title: an implementation of a non-monotonic logic in an embedded computer for a motor-glider. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+493,3,title: aspmc: an algebraic answer set counter. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.1016 [SEP] doi source: j
+326,4,title: a category-theoretic perspective on approximation fixpoint theory. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+543,1,title: dialectical reconciliation via structured argumentative dialogues. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+582,4,title: exploring digital twins integration with asp and asp chef. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4000 [SEP] doi source: c
+552,4,title: reasoning with restricted statistical statements in probabilistic answer set programming: complexity and algorithms. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+512,1,title: fixpoint characterizations of disjunctive hybrid mknf knowledge bases. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+48,5,title: natural language generation for non-expert users. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+376,2,title: treewidth in non-ground answer set solving and alliance problems in graphs. [SEP] venue: iclp [SEP] year: 2017 [SEP] doi publisher: 10.1613 [SEP] doi source: jair
+590,1,title: proceedings of the 21st international conference on principles of knowledge representation and reasoning kr 2024 hanoi vietnam. november 2-8 2024. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+523,3,title: knowledge authoring with factual english. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+426,5,title: explaining image classifiers. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+212,5,title: entity set expansion from the web via asp. [SEP] venue: iclp [SEP] year: 2017 [SEP] doi publisher: 10.5220 [SEP] doi source: none
+317,4,title: encoding choice logics in asp. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+390,1,title: front matter table of contents preface conference organization. [SEP] venue: iclp [SEP] year: 2018 [SEP] doi publisher: 10.1484 [SEP] doi source: m
+502,2,title: generalizing platform-aware mission planning for infinite-state timed transition systems. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+479,5,title: bridging logic programming and deep learning for explainability through ilasp. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+308,2,title: total preorders vs ranking functions under belief revision - the dynamics of empty layers. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+359,3,title: asp chef creates surveys. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1002 [SEP] doi source: fsat
+296,4,title: answer set programming with epistemic defaults. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.1017 [SEP] doi source: cbo
+28,5,title: dynamic multi-agent path finding based on conflict resolution using answer set programming. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+243,4,title: causally constrained counterfactual generation using asp. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+141,4,title: group responsibility for exceeding risk threshold. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+15,3,title: a new proof-theoretical linear semantics for chr. [SEP] venue: iclp [SEP] year: 2018 [SEP] doi publisher: 10.1016 [SEP] doi source: none
+84,2,title: legal compliance checking of autonomous driving with formalized traffic rule exceptions. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.1109 [SEP] doi source: tse
+396,5,title: assumable answer set programming. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.1017 [SEP] doi source: cbo
+232,2,title: induction of non-monotonic logic programs to explain statistical learning models. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+586,5,title: the simple generative logic grammar: a tool for teaching logical thinking through visual research in art and design. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.23943 [SEP] doi source: princeton
+192,5,title: tools and methodologies for verifying answer set programs. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+265,1,title: lad-based feature selection for optimal decision trees and other classifiers. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+268,1,title: international conference on logic programming 2020 workshop proceedings co-located with 36th international conference on logic programming iclp 2020 rende italy september 18-19 2020. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.1017 [SEP] doi source: s
+291,5,title: automata techniques for temporal answer set programming. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+173,5,title: quot would life be more interesting if i were in ai quot answering counterfactuals based on probabilistic inductive logic programming. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+96,3,title: an experiment with llm in contract extraction. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.1088 [SEP] doi source: ae
+556,1,title: determining action reversibility in strips using epistemic logic programs. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.1017 [SEP] doi source: s
+195,1,title: proceedings of the international conference on logic programming 2023 workshops co-located with the 39th international conference on logic programming iclp 2023 london united kingdom july 9th and 10th 2023. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+230,1,title: run-based semantics for rpqs. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+588,4,title: a temporal module for logical frameworks. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+166,4,title: how to split a logic program. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+225,4,title: ltl model checking using coinductive answer set programming. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.1109 [SEP] doi source: apsec
+384,2,title: a dataflow analysis for comparing and reordering predicate arguments. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+53,2,title: do repeat yourself: understanding sufficient conditions for restricted chase non-termination. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+532,3,title: reasoning about medical triage optimization with logic programming. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+345,1,title: investigating the grounding bottleneck for a large-scale configuration problem: existing tools and constraint-aware guessing. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+318,1,title: solving unification in the description logic fl bottom. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.25368 [SEP] doi source: none
+54,2,title: a comparative study of text representations for french real-estate classified advertisements information extraction. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.1109 [SEP] doi source: kse
+322,3,title: contestable ai needs computational argumentation. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+187,4,title: description logics with abstraction and refinement: from alc to el. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+52,4,title: sampling and probabilistic inference in d/slps. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.1093 [SEP] doi source: oso
+401,3,title: distributed answer set coloring: stable models computation via graph coloring. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+97,1,title: counting solutions under cardinality constraints: structure counts in counting. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+252,4,title: google vs ibm: a constraint solving challenge on the job-shop scheduling problem. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+128,3,title: an analysis of the role of syntax in inductive inference. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+435,1,title: ce-qarg: counterfactual explanations for quantitative bipolar argumentation frameworks. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+421,4,title: introspecting preferences in answer set programming. [SEP] venue: iclp [SEP] year: 2018 [SEP] doi publisher: 10.1017 [SEP] doi source: cbo
+319,2,title: modelling and verification of timed systems with the event calculus and s casp . [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.1017 [SEP] doi source: cbo
+298,1,title: apia: an architecture for policy-aware intentional agents. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+441,2,title: design of a solver for multi-agent epistemic planning. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+119,5,title: computational methods for dynamic answer set programming. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+457,5,title: graph based answer set programming solver systems. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+460,5,title: splitting a hybrid asp program. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+488,3,title: logical foundations of smart contracts. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+431,3,title: pushdown reward machines for reinforcement learning. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+369,5,title: beyond logic programming for legal reasoning. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+514,1,title: proceedings 41st international conference on logic programming iclp 2025 rende italy 12-19th september 2025. [SEP] venue: iclp [SEP] year: 2026 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+290,5,title: operationalizing declarative and procedural knowledge: a benchmark on logic programming petri nets lppns . [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+266,5,title: enhancing compilation-based asp solving with postponed atom discovery. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+542,2,title: preferential reasoning with typicality in asp over weighted argumentation graphs in a gradual semantics. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.3233 [SEP] doi source: ia
+366,1,title: adapting approximation fixpoint theory to nondeterministic hybrid reasoning. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.1609 [SEP] doi source: aaai
+305,5,title: llasp: fine-tuning large language models for answer set programming. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+151,1,title: fastfound: easing the asp bottleneck via predicate-decoupled grounding. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+0,4,title: automated playing of survival video games with commonsense reasoning. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+371,3,title: a framework for combining entity resolution and query answering in knowledge bases. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+444,5,title: relating answer set programming and many-sorted logics for formal verification. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+67,1,title: methods for solving extremal problems in practice. [SEP] venue: iclp [SEP] year: 2016 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+561,5,title: categorical explaining functors: ensuring coherence in logical explanations. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+259,4,title: answer set counting and its applications to network reliability and system biology. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+80,3,title: enhancing linear algebraic computation of logic programs using sparse representation. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.1007 [SEP] doi source: s
+449,2,title: inferring compensatory kinase networks in yeast using prolog. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+132,1,title: automated aggregator - rewriting with the counting aggregate. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+553,1,title: the combined problem of online task assignment and lifelong path finding in logistics warehouses: a case study. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+79,1,title: a human-centered data-driven planner-actor-critic architecture via logic programming. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+43,1,title: geometric reasoning on the traveling salesperson problem: comparing answer set programming and constraint logic programming approaches. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.1093 [SEP] doi source: logcom
+153,5,title: exploiting the full power of pearl apos s causality in probabilistic logic programming. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.1017 [SEP] doi source: cbo
+19,2,title: counterexample-guided abstraction refinement for assumption-based argumentation. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+526,4,title: tractable responsibility measures for ontology-mediated query answering. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+459,3,title: demonstrating hybrid active logic documents and the ciao prolog playground and an application to verification tutorials. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+400,2,title: counterfactual reasoning via grounded distance. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+497,2,title: pearce apos s characterisation in an epistemic domain. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+447,4,title: reasoning about qualitative direction and distance between extended objects using answer set programming. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+495,2,title: learning effect axioms via probabilistic logic programming. [SEP] venue: iclp [SEP] year: 2017 [SEP] doi publisher: 10.1201 [SEP] doi source: none
+452,5,title: on the independencies hidden in the structure of a probabilistic logic program. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+513,1,title: explaining decisions in ml models: a parameterized complexity analysis. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+20,1,title: repairing general game descriptions. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+234,5,title: xdnn asp : explanation generation system for deep neural networks powered by answer set programming. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+467,4,title: teaching prolog through grammars. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+416,2,title: on model reconciliation: how to reconcile when robot does not know human apos s model [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+150,2,title: concerning measures in a first-order logic with actions and meta-beliefs. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+158,3,title: omega-completeness of the logic of here-and-there and strong equivalence of logic programs. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+117,5,title: justifications for goal-directed constraint answer set programming. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+244,2,title: a report on sequential kr-approaches as cognitive logic. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.21236 [SEP] doi source: ada
+343,2,title: compactness and preservation in logical argumentation frameworks. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.1177 [SEP] doi source: none
+420,4,title: an asp-based approach for attractor enumeration in synchronous and asynchronous boolean networks. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+336,3,title: constructionist co-design for the learning experience: a work-in-progress on engaging teachers to integrate logic programming in primary school. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.21125 [SEP] doi source: edulearn
+149,2,title: variant-based equational unification under constructor symbols. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+220,5,title: formalisation of action with durations in answer set programming. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+423,5,title: autonomous task completion based on goal-directed answer set programming. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+581,1,title: non-monotone fixpoint theory based on the structure of weak bilattices. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+537,2,title: adding circumscription to decidable fragments of first-order logic: a complexity rollercoaster. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+583,2,title: two-variable logic for hierarchically partitioned and ordered data. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+427,3,title: general game playing - killer app for logic programming. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+365,4,title: recursive aggregates as intensional functions. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.1609 [SEP] doi source: aaai
+214,2,title: generative logic: teaching prolog as generative ai in art and design. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4018 [SEP] doi source: ch
+524,1,title: credible models of belief update. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+464,1,title: geospatial trajectory generation via efficient abduction: deployment for independent testing. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+46,2,title: streamlining input/output logics with sequent calculi. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+240,2,title: democratising access to logic programming: a web application design tool for querying prolog code. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.7551 [SEP] doi source: mitpress
+461,1,title: reliable conversational agents under asp control that understand natural language. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+55,2,title: learning commonsense knowledge through interactive dialogue. [SEP] venue: iclp [SEP] year: 2018 [SEP] doi publisher: 10.29007 [SEP] doi source: lrph
+346,3,title: argumentative causal discovery. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+27,2,title: architecture for simulating behavior mode changes in norm-aware autonomous agents. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+175,1,title: mtlearn: extracting temporal rules using datalog rule learners. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+412,4,title: solving gossip problems using answer set programming: an epistemic planning approach. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+595,3,title: inductive first-order formula synthesis by asp: a case study in invariant inference. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+470,1,title: towards parallelising extension construction for serialisable semantics in abstract argumentation. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+162,4,title: ontology-based query answering over datalog-expressible rule sets is undecidable. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+348,5,title: reasoning about study regulations in answer set programming preliminary report . [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.1017 [SEP] doi source: s
+330,1,title: proceedings 36th international conference on logic programming technical communications iclp technical communications 2020 technical communications unical rende cs italy 18-24th september 2020. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.1109 [SEP] doi source: cscc
+85,2,title: reasoning about knowledge on regular expressions is 2exptime-complete. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+309,1,title: weighted merging operators: product utility-based operators and egalitarianism. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+167,3,title: revising boolean logical models of biological regulatory networks. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+545,3,title: can llms solve asp problems insights from a benchmarking study. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+453,1,title: contractions based on optimal repairs. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.25368 [SEP] doi source: none
+112,1,title: early validation of high-level requirements on cyber-physical systems. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+18,4,title: deep inductive logic programming meets reinforcement learning. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.32657 [SEP] doi source: none
+389,5,title: a neurosymbolic approach to fraud detection on financial data in the public administration. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1002 [SEP] doi source: ch
+379,1,title: value awareness and process automation: a reflection through school place allocation models. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+571,2,title: advancing algorithmic approaches to probabilistic argumentation under the constellation approach. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+287,1,title: early validation of high-level requirements on cyber-physical systems. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+218,4,title: reasoning about probability via continuous functions. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+363,3,title: propositional abduction via only-knowing: a non-monotonic approach. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+306,5,title: visual graph question answering with asp and llms for language parsing. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+245,5,title: how to manage a budget with atl+. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+163,5,title: automating disease management using answer set programming. [SEP] venue: iclp [SEP] year: 2016 [SEP] doi publisher: 10.1017 [SEP] doi source: cbo
+233,3,title: natural language generation from ontologies using grammatical framework. [SEP] venue: iclp [SEP] year: 2018 [SEP] doi publisher: 10.21236 [SEP] doi source: ada
+16,2,title: explanations generation for web service workflow. [SEP] venue: iclp [SEP] year: 2018 [SEP] doi publisher: 10.1109 [SEP] doi source: nwesp
+405,2,title: incentive design for rational agents. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+72,4,title: semantics for hybrid probabilistic logic programs with function symbols: technical summary. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.1201 [SEP] doi source: none
+540,4,title: nexsim: a system for explaining nexus of similarities. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.18356 [SEP] doi source: a
+98,1,title: unified foundations of team semantics via semirings. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+521,4,title: a query evaluation method for asp with abduction. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.1007 [SEP] doi source: bfb
+94,1,title: modelling cyber defenses using s casp . [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.1057 [SEP] doi source: none
+111,5,title: explaining reasoning results for owl ontologies with evee. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+40,1,title: consistent query answering over shacl constraints. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+559,4,title: data2concept2text: an explainable multilingual framework for data analysis narration. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+237,1,title: argument analysis using answer set programming and semantics-guided large language models. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.1201 [SEP] doi source: none
+370,5,title: answer set solving with generalized learned constraints. [SEP] venue: iclp [SEP] year: 2016 [SEP] doi publisher: 10.5220 [SEP] doi source: none
+200,3,title: visualizing kripke models in logikey: the case of sdl. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1016 [SEP] doi source: b
+437,1,title: s casp for swi-prolog. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.32614 [SEP] doi source: cran
+446,1,title: a preliminary evaluation of open-source llms for datalog-based semantic parsing in the asvin project. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1109 [SEP] doi source: es
+95,2,title: fixpoint semantics for datalogmtl with negation. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+127,4,title: when is a program an actual cause [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.1017 [SEP] doi source: cbo
+327,2,title: resource allocation with cooperative agents. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1017 [SEP] doi source: cbo
+395,4,title: a causal perspective on ai deception in games. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.4135 [SEP] doi source: n
+538,3,title: queries with exact truth values in paraconsistent description logics. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.1613 [SEP] doi source: jair
+222,1,title: proceedings 40th international conference on logic programming iclp 2024 university of texas at dallas dallas texas usa october 14-17 2024. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.26615 [SEP] doi source: none
+572,2,title: shacl validation under the well-founded semantics. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+544,1,title: logical judges challenge human judges on the strange case of b.c.-valjean. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+550,1,title: the pyglaf argumentation reasoner. [SEP] venue: iclp [SEP] year: 2017 [SEP] doi publisher: 10.3233 [SEP] doi source: fi
+184,3,title: decomposition strategies for solving scheduling problems in industrial applications. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+190,5,title: explanations for answer set programming. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.1017 [SEP] doi source: cbo
+176,3,title: a neurosymbolic framework for bias correction in convolutional neural networks. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.1017 [SEP] doi source: s
+407,1,title: dmapf: a decentralized and distributed solver for multi-agent path finding problem with obstacles. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+186,5,title: a prolog program for bottom-up evaluation. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+285,1,title: computing diverse optimal stable models. [SEP] venue: iclp [SEP] year: 2016 [SEP] doi publisher: 10.7551 [SEP] doi source: mitpress
+102,2,title: from vision to execution: enabling knowledge representation and reasoning in hybrid intelligent robots playing mobile games. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+253,2,title: machine learning model integration with open world temporal logic for process automation. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+362,2,title: first order logic and commonsense reasoning: a path less travelled. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.1302 [SEP] doi source: none
+584,4,title: representing and evaluating sbvr specification via asp. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4018 [SEP] doi source: ijossp
+316,1,title: a planning compilation to reason about goal achievement at planning time. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+198,1,title: cost-optimal delete-free classical planning via maximum satisfiability. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+33,2,title: verification of general games with imperfect information using strategy logic. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+197,4,title: conflict handling in product configuration using answer set programming. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+489,2,title: llm+reasoning+planning for supporting incomplete user queries in presence of apis. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+434,4,title: neuro-symbolic agent with asp for robust exception learning in text-based games. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.21236 [SEP] doi source: ad
+292,3,title: causes for changing profiles preliminary report . [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.3133 [SEP] doi source: b
+555,5,title: prolog coding guidelines: status and tool support. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+182,4,title: an llm + asp workflow for joint entity-relation extraction. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+351,3,title: comprehensive multi-agent epistemic planning. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+157,1,title: front matter table of contents preface conference organization. [SEP] venue: iclp [SEP] year: 2017 [SEP] doi publisher: 10.1484 [SEP] doi source: m
+86,3,title: constraint cnf: sat and csp language under one roof. [SEP] venue: iclp [SEP] year: 2016 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+506,3,title: a scalable approach to probabilistic compliance in declarative process mining. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.5220 [SEP] doi source: none
+42,2,title: reasoning in shiq with axiom- and concept-level standpoint modalities. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+352,4,title: bringing logic programming to primary school: a teacher training course. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.12968 [SEP] doi source: prtu
+419,1,title: on the strong equivalences of lpmln programs. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.23638 [SEP] doi source: lmcs
+68,4,title: pruning with belief traps in multi-agent epistemic planning. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+188,3,title: deontic paradoxes in asp with weak constraints. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+332,1,title: joint proceedings of the joint workshop on knowledge diversity and cognitive aspects of kr and the workshop on symbolic and neuro-symbolic architectures for intelligent robotics technology kodis-cakr-synergy 2024 co-located with the 21st international conference on principles of knowledge representation and reasoning kr 2024 hanoi vietnam november 2-8 2024. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.1145 [SEP] doi source: none
+105,3,title: guarded fragments meet dynamic logic: the story of regular guards. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+60,5,title: correct causal inference in probabilistic logic programming. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.1098 [SEP] doi source: rsos
+224,3,title: some enhancements to the prolog playground and ald notebooks for the modern prolog classroom. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1515 [SEP] doi source: none
+381,1,title: cost-based semantics for querying inconsistent weighted knowledge bases. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+30,4,title: a hitchhiker apos s guide to reinventing a prolog machine. [SEP] venue: iclp [SEP] year: 2017 [SEP] doi publisher: 10.17398 [SEP] doi source: none
+69,1,title: agentified argumentative learning short paper . [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1075 [SEP] doi source: aic
+174,1,title: leveraging decision-dnnf compilation for enumerating disjoint partial models. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+271,1,title: proceedings 35th international conference on logic programming technical communications iclp 2019 technical communications las cruces nm usa september 20-25 2019. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+491,5,title: tackling the air traffic flow and capacity management problem with explainable answer set programming. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+159,2,title: the sticky path to expressive querying: decidability of navigational queries under existential rules. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+574,1,title: diagnosis for post concept drift decision trees repair. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+517,5,title: neurosymbolic ai in digital forensics: commonsense and qualitative reasoning. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1002 [SEP] doi source: ch
+121,1,title: capturing non-flat assumption-based argumentation with bipolar setafs. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+196,1,title: an iterative fixpoint semantics for mknf hybrid knowledge bases with function symbols. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+462,3,title: inference in probabilistic logic programs using lifted explanations. [SEP] venue: iclp [SEP] year: 2016 [SEP] doi publisher: 10.1201 [SEP] doi source: none
+8,1,title: refining the semantics of epistemic specifications. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+335,2,title: proportional dependencies and asymptotics of probabilistic representations. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.1093 [SEP] doi source: obo
+505,4,title: natlog: a lightweight logic programming language with a neuro-symbolic touch. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+289,4,title: on the effects of adding assignments in linear-time temporal logics modulo theories. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+257,3,title: mind the gaps: logical english prolog and multi-agent systems for autonomous vehicles. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+231,4,title: automata for dynamic answer set solving: preliminary report. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.5220 [SEP] doi source: none
+560,4,title: scalable and ethical medical scheduling: an asp-based framework with patient-centered experimental validation. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1016 [SEP] doi source: j
+522,5,title: generating explainable rule sets from tree-ensemble learning methods by answer set programming. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+593,5,title: a uniform language to explain decision trees. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+337,3,title: from probabilistic programming to probabilistic argumentation. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+533,4,title: an epistemic logic for reasoning about strategies in general auctions. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.1016 [SEP] doi source: b
+504,1,title: a refined operational semantics for freechr. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+248,5,title: an xai approach for data-to-text processing with asp. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+492,1,title: deontic reasoning based on inconsistency measures. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+557,4,title: default logic as a species of causal reasoning. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+152,3,title: aspen: asp-based system for collective entity resolution. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+168,4,title: boolean nearest neighbor language in the knowledge compilation map. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+1,1,title: lost in the crowd: k-unmatchability in anonymized knowledge graphs. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+90,5,title: learning general policies from examples. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+24,1,title: joint proceedings of the workshops and doctoral consortium of the 41st international conference on logic programming iclp-ws-dc 2025 co-located with 41st international conference on logic programming iclp 2025 rende italy september 9-13 2025. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+282,2,title: the realizability of revision and contraction operators in epistemic spaces. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+239,3,title: complexity results and algorithms for preferential argumentative reasoning in aspic+. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+261,2,title: minimal model reasoning in description logics: don apos t try this at home [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+34,4,title: benchmarking for integrating logic rules with everything else. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+507,5,title: when prolog meets generative models: a new approach for managing knowledge and planning in robotic applications - abstract. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1109 [SEP] doi source: icra
+66,5,title: abductive reasoning in a paraconsistent framework. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+530,2,title: about the multi-head linear restricted chase termination. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+238,2,title: a preliminary data-driven analysis of common errors encountered by novice sparc programmers. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+410,3,title: expressive description logics with rich yet affordable numeric constraints. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+23,1,title: representing perfect saturated cost partitioning heuristics in classical planning. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+374,4,title: on the subtlety of causal reasoning in probabilistic logic programming: a bug report about the causal interpretation of annotated disjunctions. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.1098 [SEP] doi source: rsos
+565,1,title: advances in big data bio analytics. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+228,3,title: pushing the envelope in numeric pattern planning. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+314,5,title: a representation theorem for causal decision making. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.1017 [SEP] doi source: cbo
+301,4,title: global type inference for java using answer set programming. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1201 [SEP] doi source: none
+62,4,title: reasoning in assumption-based argumentation via sat. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+258,3,title: bottom-up stratified probabilistic logic programming with fusemate. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+38,4,title: constraint propagation and explanation over novel types by abstract compilation. [SEP] venue: iclp [SEP] year: 2016 [SEP] doi publisher: 10.51202 [SEP] doi source: none
+558,1,title: f rdxel: an expert system for danish traffic law. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+31,3,title: logic tensor network-enhanced generative adversarial network. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+356,2,title: towards incremental and modular context-sensitive analysis. [SEP] venue: iclp [SEP] year: 2018 [SEP] doi publisher: 10.1017 [SEP] doi source: s
+580,2,title: implementing the first-order logic of here and there. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+433,3,title: automating defeasible reasoning in law with answer set programming. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.31219 [SEP] doi source: osf
+104,4,title: quantification and aggregation over concepts of the ontology. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+353,1,title: intelligent instantiation and supersafe rules. [SEP] venue: iclp [SEP] year: 2016 [SEP] doi publisher: 10.1007 [SEP] doi source: s
+75,4,title: knowledge-based stable roommates problems. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1609 [SEP] doi source: aaai
+4,1,title: fixpoint semantics for recursive shacl. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+350,3,title: logic programming with extensible types. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+135,1,title: graphical conditions for the existence unicity and number of regular models. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+585,2,title: logic-based composition of business process models. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+466,3,title: an answer set programming framework for reasoning about truthfulness of statements by agents. [SEP] venue: iclp [SEP] year: 2016 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+10,4,title: re integration of logical english and s casp . [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.3403 [SEP] doi source: none
+528,4,title: on the trap space semantics of normal logic programs. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+283,3,title: a principle-based framework for analyzing dialogue game-based semantics. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+430,2,title: compilation of aggregates in asp. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+440,5,title: exploring desirable configurations in global logistics with heuristic search in answer set programming. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+202,5,title: translating definitions into the language of logic programming: a case study. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.1093 [SEP] doi source: oso
+49,1,title: context-based belief revision. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.1017 [SEP] doi source: cbo
+490,1,title: a family of decidable bi-intuitionistic modal logics. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+393,1,title: picat through the lens of advent of code. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+516,5,title: tutorial: automating commonsense reasoning. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.1016 [SEP] doi source: b
+250,2,title: probabilistic htn planning: formalization and computational complexity analysis. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+392,5,title: a simple complete search for logic programming. [SEP] venue: iclp [SEP] year: 2017 [SEP] doi publisher: 10.1145 [SEP] doi source: none
+206,3,title: formalizing informal logic and natural language deductivism. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.22329 [SEP] doi source: il
+483,1,title: counterfactual explanations as plans. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+508,3,title: declarative algorithms in datalog with extrema: their formal semantics simplified. [SEP] venue: iclp [SEP] year: 2018 [SEP] doi publisher: 10.1007 [SEP] doi source: s
+216,5,title: planning and scheduling in digital health with answer set programming. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+474,2,title: sorting strategies for interactive conflict resolution in asp. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+118,3,title: restkb: a library of commonsense knowledge about dining at a restaurant. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+50,5,title: nesyfold: extracting logic programs from convolutional neural networks. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.1007 [SEP] doi source: s
+180,3,title: interactive explanations by conflict resolution via argumentative exchanges. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+100,3,title: probabilistic synthesis and verification for ltl on finite traces. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+279,4,title: nemo: your friendly and versatile rule reasoning toolkit. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+213,1,title: on computing universal plans for partially observable multi-agent path finding. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+264,2,title: correcting autonomous driving object detection misclassifications with automated commonsense reasoning. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+478,3,title: simple contrapositive assumption-based argumentation with partially-ordered preferences. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+32,2,title: structural decompositions of epistemic logic programs. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.1609 [SEP] doi source: aaai
+458,5,title: exp aspc : explaining asp programs with choice atoms and constraint rules. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+501,1,title: conditional splittings of belief bases and nonmonotonic inference with c-representations. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+312,1,title: towards structure learning under the credal semantics. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.4324 [SEP] doi source: none
+91,1,title: proceedings of the 9th workshop on advances in argumentation in artificial intelligence ai3 2025 co-located with the 41st international conference on logic programming iclp 2025 rende italy september 13 2025. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1007 [SEP] doi source: bfb
+476,3,title: a tractable logic for molecular biology. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+9,3,title: cognitively adequate complexity of reasoning in a description logic. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.1017 [SEP] doi source: cbo
+280,2,title: an analysis of gibbs sampling for probabilistic logic programs. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.7551 [SEP] doi source: mitpress
+429,5,title: rule based temporal inference. [SEP] venue: iclp [SEP] year: 2017 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+455,1,title: the janus system: multi-paradigm programming in prolog and python. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+77,5,title: value of information in probabilistic logic programs. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+387,1,title: axiomatization of approximate exclusion. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+408,1,title: ltl synthesis under multi-agent environment assumptions. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+278,4,title: towards one-shot learning for text classification using inductive logic programming. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+227,1,title: an s casp in-browser playground based on ciao prolog. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+480,5,title: a machine learning guided rewriting approach for asp logic programs. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+486,5,title: how lucky are you to know your way a probabilistic approach to knowing how logics. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+246,1,title: probabilistic action language pbc+. [SEP] venue: iclp [SEP] year: 2018 [SEP] doi publisher: 10.29007 [SEP] doi source: fmn
+123,1,title: finest syntax splittings of ranking functions and total preorders on worlds. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+386,5,title: trace-cs: a hybrid logic-llm system for explainable course scheduling. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+300,2,title: proof-relevant resolution for elaboration of programming languages. [SEP] venue: iclp [SEP] year: 2018 [SEP] doi publisher: 10.1145 [SEP] doi source: none
+534,4,title: controlled natural language models. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.20944 [SEP] doi source: preprints
+469,1,title: pushing the boundaries of tractable multiperspective reasoning: a deduction calculus for standpoint el+. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+340,3,title: extended magic for negation: efficient demand-driven evaluation of stratified datalog with precise complexity guarantees. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+551,1,title: logic programming and machine ethics. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+554,1,title: explainable and trustworthy traffic sign detection for safe autonomous driving: an inductive logic programming approach. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+354,1,title: equilibrium description logics: results on complexity and relations to circumscription. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+576,4,title: model revision of logical regulatory networks using logic-based tools. [SEP] venue: iclp [SEP] year: 2018 [SEP] doi publisher: 10.4018 [SEP] doi source: ch
+334,5,title: a tool set for converting controlled natural languages into ai formalisms. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.7551 [SEP] doi source: mitpress
+454,3,title: logical lease litigation: prolog and llms for rental law compliance in new york. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+500,5,title: a three-valued semantics for typed logic programming. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+139,5,title: beyond traditional neural networks: toward adding reasoning and learning capabilities through computational logic techniques. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+578,1,title: less manual work for safety engineers: towards an automated safety reasoning with safety patterns. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+273,3,title: efficient compliance computation in probabilistic declarative specifications. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.2139 [SEP] doi source: ssrn
+549,4,title: unique characterisability and learnability of temporal queries mediated by an ontology. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+37,3,title: operator-based semantics for choice programs: is choosing losing [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+391,2,title: scalable robotic intra-logistics with answer set programming. [SEP] venue: iclp [SEP] year: 2018 [SEP] doi publisher: 10.1017 [SEP] doi source: cbo
+99,3,title: semantic analysis of assurance cases using s casp . [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4018 [SEP] doi source: ch
+25,4,title: computational thinking with logic programming. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.1017 [SEP] doi source: cbo
+138,2,title: complexity of abduction in ukasiewicz logic. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+155,1,title: leasing the cloud-edge continuum la carte. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+183,3,title: a logic-based framework for database repairs. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+496,1,title: memory management in resource-bounded agents. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+201,5,title: advances in logic-based entity resolution: enhancing aspen with local merges and optimality criteria. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+450,5,title: modeling administrative discretion using goal-directed answer set programming. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+286,3,title: an asp multi-shot encoding for the aircraft routing and maintenance planning problem. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+199,5,title: from acceptance to rejection in abstract argumentation. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+254,3,title: the asp-based nurse scheduling system at the university of yamanashi hospital. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+223,5,title: controlled natural languages for knowledge representation and reasoning. [SEP] venue: iclp [SEP] year: 2016 [SEP] doi publisher: 10.1016 [SEP] doi source: b
+64,1,title: towards static performance guarantees for programs with run-time checks. [SEP] venue: iclp [SEP] year: 2018 [SEP] doi publisher: 10.1145 [SEP] doi source: none
+383,5,title: theory solving made easy with clingo 5. [SEP] venue: iclp [SEP] year: 2016 [SEP] doi publisher: 10.1097 [SEP] doi source: none
+573,2,title: explaining agent behaviour via causal analysis of mental states. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.5040 [SEP] doi source: none
+272,3,title: constraint programming algorithms for route planning exploiting geometrical information. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+249,4,title: search-guided generation of properties for program analyzers. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.54985 [SEP] doi source: peeref
+358,1,title: blawx: web-based user-friendly rules as code. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.1016 [SEP] doi source: j
+82,5,title: kalm: a rule-based approach for knowledge authoring and question answering. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+178,1,title: on strong and weak admissibility in non-flat assumption-based argumentation. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+130,1,title: aba learning via asp. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+236,3,title: a gaze into the internal logic of graph neural networks with logic. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+415,4,title: a model-oriented approach for lifting symmetries in answer set programming. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+511,2,title: assessing drivers apos situation awareness in semi-autonomous vehicles: asp based characterisations of driving dynamics for modelling scene interpretation and projection. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+12,2,title: modelling infectious disease dynamics with probabilistic logic programming. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.1201 [SEP] doi source: none
+525,5,title: knowledge base embeddings: semantics and theoretical properties. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+372,2,title: complexity of weighted first-order model counting in the two-variable fragment with counting quantifiers: a bound to beat. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+344,2,title: top-down splitting property for epistemic logic programs. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.24963 [SEP] doi source: ijcai
+106,1,title: most general variant unifiers. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+108,4,title: extending description logics with generic concepts - the tale of two semantics. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+487,5,title: an information-flow perspective on explainability requirements: specification and verification. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+536,1,title: proceedings of the international conference on logic programming 2022 workshops co-located with the 38th international conference on logic programming iclp 2022 haifa israel july 31st - august 1st 2022. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.1017 [SEP] doi source: s
+177,2,title: a framework for inconsistency-tolerant reasoning with sets of models. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+131,3,title: towards run-time checks simplification via term hiding. [SEP] venue: iclp [SEP] year: 2017 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+394,2,title: modeling clique coloring via asp q . [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.33915 [SEP] doi source: etd
+87,5,title: research summary: explainable artificial intelligence in answer set programming and machine learning. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1016 [SEP] doi source: s
+339,1,title: front matter table of contents preface list of authors. [SEP] venue: iclp [SEP] year: 2016 [SEP] doi publisher: 10.1484 [SEP] doi source: m
+567,5,title: interpretable hybrid machine learning models using fold-r++ and answer set programming. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+161,5,title: distance-restricted explanations: theoretical underpinnings amp efficient implementation. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+324,5,title: a system for explainable answer set programming. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+347,1,title: modelling human mental-states in an action language following the theory of planned behavior. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4324 [SEP] doi source: none
+475,5,title: grounding rule-based argumentation using datalog. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+425,2,title: on the complexity and properties of preferential propositional dependence logic. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+251,4,title: generating concurrent programs from sequential data structure knowledge using answer set programming. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+436,3,title: automated theorem proving for prolog verification. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.29007 [SEP] doi source: c
+11,2,title: actual causality in contextual abduction. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.1109 [SEP] doi source: icacsis
+377,4,title: understanding problog as probabilistic argumentation. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+47,1,title: faithful differentiable reasoning with reshuffled region-based embeddings. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+338,2,title: action language ma with higher-order action observability. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+388,3,title: dynamic epistemic logic with asp updates: application to conditional planning. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+445,5,title: using ontology to analyze sentiment of comments on vietnamese social media. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.53796 [SEP] doi source: hnsj
+592,1,title: generalizing level ranking constraints for monotone and convex aggregates. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+399,4,title: a framework for conditional reasoning in answer set programming. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+331,5,title: lp2pb: translating answer set programs into pseudo-boolean theories. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+413,5,title: enhancing compilation-based asp solving. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+241,2,title: quantified constraint handling rules. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.1145 [SEP] doi source: none
+165,1,title: masp-reduce: a proposal for distributed computation of stable models. [SEP] venue: iclp [SEP] year: 2018 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+143,3,title: embedding s casp in prolog. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.24124 [SEP] doi source: bpgub
+519,2,title: learning robust reward machines from noisy labels. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+443,1,title: strong equivalence for lpmln programs. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+65,4,title: a dataset of contractual events in court decisions. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.1037 [SEP] doi source: e
+398,1,title: modeling and solving graph synthesis problems using sat-encoded reachability constraints in picat. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+39,2,title: smt-based constraint answer set solver ezsmt system description . [SEP] venue: iclp [SEP] year: 2016 [SEP] doi publisher: 10.14711 [SEP] doi source: thesis
+456,2,title: a speech about generative datalog and non-measurable sets. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.1017 [SEP] doi source: none
+57,2,title: knowledge graphs amp reasoning in concert: automating regulation in corporate economics. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1049 [SEP] doi source: pbpc
+535,2,title: copredication and ontological mutability. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+547,5,title: fitting ontologies and constraints to relational structures. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+44,2,title: translating p-log lpmln lpod and cr-prolog2 into standard answer set programs. [SEP] venue: iclp [SEP] year: 2018 [SEP] doi publisher: 10.29007 [SEP] doi source: d
+247,2,title: property directed reachability for planning revisited. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+471,4,title: abstractions of queries in ontology-based data access. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+276,1,title: mutex graphs and multicliques: reducing grounding size for planning. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+541,2,title: grounded fixpoints and active integrity constraints. [SEP] venue: iclp [SEP] year: 2016 [SEP] doi publisher: 10.1609 [SEP] doi source: aaai
+520,3,title: computing h-partitions in asp and datalog. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.1007 [SEP] doi source: bf
+503,5,title: mathematical foundations for joining only knowing and common knowledge. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+147,5,title: a normative model of explanation for binary classification legal ai and its implementation on causal explanations of answer set programming. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.14711 [SEP] doi source: thesis
+189,2,title: solving assembly line workload smoothing problem via answer set programming. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.1109 [SEP] doi source: csci
+113,5,title: extending answer set programs with neural networks. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+515,1,title: a singly exponential transformation of ltl x f into pure past ltl. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+125,5,title: an epistemic theory of deductive arguments. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+58,2,title: statistical syllogistic tableaux. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+442,1,title: empowering public interest communication with argumentation - project report short paper . [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.59350 [SEP] doi source: yvcg
+215,5,title: hybrid answer set programming: foundations and applications. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+267,5,title: natlog: embedding logic programming into the python deep-learning ecosystem. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+204,3,title: probkanren: a simple probabilistic extension for microkanren. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.20944 [SEP] doi source: preprints
+146,5,title: a brief discussion about the credal semantics for probabilistic answer set programs. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+209,4,title: inductive learning of declarative domain-specific heuristics for asp. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+148,2,title: qiana: a first-order formalism to quantify over contexts and formulas. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.1613 [SEP] doi source: jair
+472,2,title: on verifying and generating robust plans for planning tasks with exogenous events. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+563,4,title: probabilistic declarative process mining. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1016 [SEP] doi source: j
+484,4,title: revisiting inferential benchmarks for knowledge graph completion. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+355,1,title: platform for introducing logic programming in bulgarian secondary schools - ideas intelligent data educational analysis system . [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.18421 [SEP] doi source: tem
+277,5,title: automated planning with ontologies under coherence update semantics. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+137,4,title: blending grounding and compilation for efficient asp solving. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+270,4,title: quantitative and stream extensions of answer set programming. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+164,3,title: preference-based abstract argumentation for case-based reasoning. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+323,5,title: exp aspc : explaining asp programs with choice atoms and constraint rules. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+589,2,title: symmetries and expressive requirements for learning general policies. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+422,1,title: routing and scheduling in different ways: abridged preliminary report. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.1021 [SEP] doi source: acs
+229,5,title: advancing interactive explainable ai via belief change theory. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+14,2,title: inconsistency handling in prioritized databases with universal constraints: complexity analysis and links with active integrity constraints. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+349,3,title: tabling optimization for contextual abduction. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+564,5,title: formally explaining decision tree models with answer set programming. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+70,2,title: on feasibility of declarative diagnosis. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+303,5,title: learning asp domain-specific heuristics using transformers. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.3233 [SEP] doi source: aic
+382,1,title: // efficient declarative solutions in picat for optimal multi-agent pathfinding. [SEP] venue: iclp [SEP] year: 2017 [SEP] doi publisher: 10.1109 [SEP] doi source: ictai
+539,1,title: tree-like justification systems are consistent. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+288,1,title: depth-bounded epistemic planning. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+482,4,title: link prediction in knowledge graphs with probabilistic logic programming: work in progress. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.1017 [SEP] doi source: s
+179,2,title: nemo: first glimpse of a new rule engine. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+133,1,title: proceedings 39th international conference on logic programming iclp 2023 imperial college london uk 9th july 2023 - 15th july 2023. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.31256 [SEP] doi source: hsmr
+191,2,title: a low-level index for distributed logic programming. [SEP] venue: iclp [SEP] year: 2020 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+304,2,title: learning and contesting assumption-based argumentation frameworks invited talk . [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.2139 [SEP] doi source: ssrn
+78,4,title: imperative program synthesis from answer set programs. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+122,5,title: generating local search neighborhood with synthesized logic programs. [SEP] venue: iclp [SEP] year: 2019 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+36,3,title: a reduct-based approach to skeptical preferred reasoning in abstract argumentation. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+208,5,title: on conflict-free labellings - realizability construction and patterns of redundancy. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+333,3,title: lp-lm: no hallucinations in question answering with logic programming. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+154,1,title: order-sorted intensional logic: expressing subtyping polymorphism with typing assertions and quantification over concepts. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+310,3,title: optimisation and approximation in abstract argumentation: the case of admissibility. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+594,2,title: a logic-based multi-agent system for ethical monitoring and evaluation of dialogues. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+61,3,title: strategy logic imperfect information and hyperproperties. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+463,2,title: halting recurrent gnns and the graded mu-calculus. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+494,4,title: constrained default logic programming. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.1093 [SEP] doi source: oso
+302,2,title: on the potential of clip for compositional logical reasoning. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+170,4,title: integration of logical english and s casp . [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.3403 [SEP] doi source: none
+5,4,title: iterative asp pipelines: enhancements for robots playing mobile games. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1201 [SEP] doi source: b
+375,4,title: on the translation of asp rules to controlled natural language sentences. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1017 [SEP] doi source: s
+499,2,title: a methodology for incompleteness-tolerant and modular gradual semantics for argumentative statement graphs. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+6,4,title: gradient-based supported model computation in vector spaces. [SEP] venue: iclp [SEP] year: 2021 [SEP] doi publisher: 10.5220 [SEP] doi source: none
+194,5,title: abstraction in assumption-based argumentation. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+477,2,title: model checking linear temporal logic with standpoint modalities. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+546,1,title: communication with individuals with disabilities and the role of llms: progress report. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.58445 [SEP] doi source: rars
+120,1,title: a coq formalization of unification modulo exclusive-or. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+73,2,title: axiomatic characterisations of argumentation semantics. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+275,1,title: from infinite to finite traces and back: linear temporal logic in sequential decision making. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: ijcai
+169,3,title: temporal conditional reasoning with weighted knowledge bases. [SEP] venue: iclp [SEP] year: 2025 [SEP] doi publisher: 10.1007 [SEP] doi source: none
+378,5,title: reliable natural language understanding with large language models and answer set programming. [SEP] venue: iclp [SEP] year: 2023 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+107,4,title: neuro-symbolic contrastive learning for cross-domain inference. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+284,2,title: counterfactual scenarios for automated planning. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+325,2,title: presburger functional synthesis: complexity and tractable normal forms. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+397,2,title: justifications and blocking sets in a rule-based answer set computation. [SEP] venue: iclp [SEP] year: 2016 [SEP] doi publisher: 10.1017 [SEP] doi source: cbo
+531,2,title: proper linear-time specifications of environment behaviors in nondeterministic planning and reactive synthesis. [SEP] venue: kr [SEP] year: 2024 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+341,1,title: a fixpoint characterization of three-valued disjunctive hybrid mknf knowledge bases. [SEP] venue: iclp [SEP] year: 2022 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+116,2,title: efficient volume computation for smt formulas. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+83,3,title: extended abstract: a reliable common-sense reasoning socialbot built using llms and goal-directed asp. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.1017 [SEP] doi source: s
+373,4,title: extending abstract argumentation frameworks with knowledge bases. [SEP] venue: kr [SEP] year: 2025 [SEP] doi publisher: 10.24963 [SEP] doi source: kr
+380,5,title: on llm-generated logic programs and their inference execution methods. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+364,5,title: modular stochastic rewritable petri nets. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.1002 [SEP] doi source: ch
+575,1,title: regular typed unification. [SEP] venue: iclp [SEP] year: 2024 [SEP] doi publisher: 10.4204 [SEP] doi source: eptcs
+71,1,title: approximating weakly preferred semantics in abstract argumentation through vacuous reduct semantics. [SEP] venue: kr [SEP] year: 2023 [SEP] doi publisher: 10.24963 [SEP] doi source: kr

@@ -1,0 +1,509 @@
+title,count,percent
+"Front Matter, Table of Contents, Preface, Conference Organization.",2,0.39215686274509803
+Early Validation of High-level Requirements on Cyber-Physical Systems.,2,0.39215686274509803
+Tabled CLP for Reasoning Over Stream Data.,1,0.19607843137254902
+"XAI-LAW: A Logic Programming Tool for Modeling, Explaining, and Learning Legal Decisions.",1,0.19607843137254902
+"Workshop Proceedings of the 40th International Conference on Logic Programming (ICLP-WS 2024) co-located with the 40th International Conference on Logic Programming (ICLP 2024), Dallas, TX, USA, October 12th and 13th, 2024.",1,0.19607843137254902
+Probabilistic Active Goal Recognition.,1,0.19607843137254902
+Heuristic Strategies for Accelerating Multi-Agent Epistemic Planning.,1,0.19607843137254902
+Succinctness and Complexity of ALC with Counting Perceptrons.,1,0.19607843137254902
+Action Languages and COVID-19: Lessons Learned.,1,0.19607843137254902
+"Flexible, Lifelong, Explainable, and Robust Solutions for Multi-Agent Path Finding Problems.",1,0.19607843137254902
+Planning Domain Model Acquisition from State Traces without Action Parameters.,1,0.19607843137254902
+CHRvis: Syntax and Semantics.,1,0.19607843137254902
+Exploring Neurosymbolic Systems in Answer Set Programming with an Application to Waste Water Monitoring.,1,0.19607843137254902
+On Simple Expectations and Observations of Intelligent Agents: A Complexity Study.,1,0.19607843137254902
+"Proceedings 38th International Conference on Logic Programming, ICLP 2022 Technical Communications / Doctoral Consortium, Haifa, Israel, 31st July 2022 - 6th August 2022.",1,0.19607843137254902
+Testing of Concurrent Programs.,1,0.19607843137254902
+Determining Action Reversibility in STRIPS Using Answer Set Programming.,1,0.19607843137254902
+Domain-Independent Instance Generation for Classical Planning.,1,0.19607843137254902
+On Teaching Constraint-based Modeling and Algorithms for Decision Support in Prolog.,1,0.19607843137254902
+Relational Graph Convolutional Networks Do Not Learn Sound Rules.,1,0.19607843137254902
+On the Correspondence Between Monotonic Max-Sum GNNs and Datalog.,1,0.19607843137254902
+Contracted Temporal Equilibrium Logic.,1,0.19607843137254902
+Improving Candidate Quality of Probabilistic Logic Models.,1,0.19607843137254902
+Extracting Policies from Quantified Answer Set Programs.,1,0.19607843137254902
+On Combining Collective Entity Resolution and Repairing (Extended Abstract).,1,0.19607843137254902
+Navigating and Querying Answer Sets: How Hard Is It Really and Why?,1,0.19607843137254902
+Explanations for Unrealizability of Infinite-State Safety Shields.,1,0.19607843137254902
+Emerson-Lei and Manna-Pnueli Games for LTLf+ and PPLTL+ Synthesis.,1,0.19607843137254902
+Commonsense Reasoning-Aided Autonomous Vehicle Systems.,1,0.19607843137254902
+Precise Exponential-Time Complexity of Non-Monotonic Reasoning.,1,0.19607843137254902
+Semantically Guided Scene Generation via Contextual Reasoning and Algebraic Measures.,1,0.19607843137254902
+Cumulative Scoring-Based Induction of Default Theories.,1,0.19607843137254902
+Theory Revision with Goal-directed ASP.,1,0.19607843137254902
+Lazy Stream Programming in Prolog.,1,0.19607843137254902
+ASP Chef: Draw and Expand.,1,0.19607843137254902
+Product Configuration in Answer Set Programming.,1,0.19607843137254902
+An Implementation of a Non-monotonic Logic in an Embedded Computer for a Motor-glider.,1,0.19607843137254902
+aspmc: An Algebraic Answer Set Counter.,1,0.19607843137254902
+A Category-Theoretic Perspective on Approximation Fixpoint Theory.,1,0.19607843137254902
+Dialectical Reconciliation via Structured Argumentative Dialogues.,1,0.19607843137254902
+Exploring Digital Twins integration with ASP and ASP Chef.,1,0.19607843137254902
+Reasoning with Restricted Statistical Statements in Probabilistic Answer Set Programming: Complexity and Algorithms.,1,0.19607843137254902
+Fixpoint Characterizations of Disjunctive Hybrid MKNF Knowledge Bases.,1,0.19607843137254902
+Natural Language Generation for Non-Expert Users.,1,0.19607843137254902
+Treewidth in Non-Ground Answer Set Solving and Alliance Problems in Graphs.,1,0.19607843137254902
+"Proceedings of the 21st International Conference on Principles of Knowledge Representation and Reasoning, KR 2024, Hanoi, Vietnam. November 2-8, 2024.",1,0.19607843137254902
+Knowledge Authoring with Factual English.,1,0.19607843137254902
+Explaining Image Classifiers.,1,0.19607843137254902
+Entity set expansion from the Web via ASP.,1,0.19607843137254902
+Encoding Choice Logics in ASP.,1,0.19607843137254902
+Generalizing Platform-Aware Mission Planning for Infinite-State Timed Transition Systems.,1,0.19607843137254902
+Bridging Logic Programming and Deep Learning for Explainability through ILASP.,1,0.19607843137254902
+Total Preorders vs Ranking Functions under Belief Revision - the Dynamics of Empty Layers.,1,0.19607843137254902
+ASP Chef Creates Surveys.,1,0.19607843137254902
+Answer Set Programming with Epistemic Defaults.,1,0.19607843137254902
+Dynamic Multi-Agent Path Finding based on Conflict Resolution using Answer Set Programming.,1,0.19607843137254902
+Causally Constrained Counterfactual Generation using ASP.,1,0.19607843137254902
+Group Responsibility for Exceeding Risk Threshold.,1,0.19607843137254902
+A New Proof-Theoretical Linear Semantics for CHR.,1,0.19607843137254902
+Legal Compliance Checking of Autonomous Driving with Formalized Traffic Rule Exceptions.,1,0.19607843137254902
+Assumable Answer Set Programming.,1,0.19607843137254902
+Induction of Non-monotonic Logic Programs To Explain Statistical Learning Models.,1,0.19607843137254902
+The Simple Generative Logic Grammar: A Tool for Teaching Logical Thinking Through Visual Research in Art and Design.,1,0.19607843137254902
+Tools and Methodologies for Verifying Answer Set Programs.,1,0.19607843137254902
+LAD-based Feature Selection for Optimal Decision Trees and Other Classifiers.,1,0.19607843137254902
+"International Conference on Logic Programming 2020 Workshop Proceedings co-located with 36th International Conference on Logic Programming (ICLP 2020), Rende, Italy, September 18-19, 2020.",1,0.19607843137254902
+Automata Techniques for Temporal Answer Set Programming.,1,0.19607843137254902
+&quot;Would life be more interesting if I were in AI?&quot; Answering Counterfactuals based on Probabilistic Inductive Logic Programming.,1,0.19607843137254902
+An Experiment with LLM in Contract Extraction.,1,0.19607843137254902
+Determining Action Reversibility in STRIPS Using Epistemic Logic Programs.,1,0.19607843137254902
+"Proceedings of the International Conference on Logic Programming 2023 Workshops co-located with the 39th International Conference on Logic Programming (ICLP 2023), London, United Kingdom, July 9th and 10th, 2023.",1,0.19607843137254902
+Run-Based Semantics for RPQs.,1,0.19607843137254902
+A Temporal Module for Logical Frameworks.,1,0.19607843137254902
+How to Split a Logic Program.,1,0.19607843137254902
+LTL Model Checking using Coinductive Answer Set Programming.,1,0.19607843137254902
+A Dataflow Analysis for Comparing and Reordering Predicate Arguments.,1,0.19607843137254902
+Do Repeat Yourself: Understanding Sufficient Conditions for Restricted Chase Non-Termination.,1,0.19607843137254902
+Reasoning about Medical Triage Optimization with Logic Programming.,1,0.19607843137254902
+Investigating the Grounding Bottleneck for a Large-Scale Configuration Problem: Existing Tools and Constraint-Aware Guessing.,1,0.19607843137254902
+Solving Unification in the Description Logic FL_bottom.,1,0.19607843137254902
+A Comparative Study of Text Representations for French Real-Estate Classified Advertisements Information Extraction.,1,0.19607843137254902
+Contestable AI Needs Computational Argumentation.,1,0.19607843137254902
+Description Logics with Abstraction and Refinement: From ALC to EL.,1,0.19607843137254902
+Sampling and probabilistic inference in D/Slps.,1,0.19607843137254902
+Distributed Answer Set Coloring: Stable Models Computation via Graph Coloring.,1,0.19607843137254902
+Counting Solutions Under Cardinality Constraints: Structure Counts in Counting.,1,0.19607843137254902
+Google vs IBM: A Constraint Solving Challenge on the Job-Shop Scheduling Problem.,1,0.19607843137254902
+An Analysis of the Role of Syntax in Inductive Inference.,1,0.19607843137254902
+CE-QArg: Counterfactual Explanations for Quantitative Bipolar Argumentation Frameworks.,1,0.19607843137254902
+Introspecting Preferences in Answer Set Programming.,1,0.19607843137254902
+Modelling and Verification of Timed Systems with the Event Calculus and s(CASP).,1,0.19607843137254902
+APIA: An Architecture for Policy-Aware Intentional Agents.,1,0.19607843137254902
+Design of a Solver for Multi-Agent Epistemic Planning.,1,0.19607843137254902
+Computational methods for Dynamic Answer Set Programming.,1,0.19607843137254902
+Graph Based Answer Set Programming Solver Systems.,1,0.19607843137254902
+Splitting a Hybrid ASP Program.,1,0.19607843137254902
+Logical foundations of Smart Contracts.,1,0.19607843137254902
+Pushdown Reward Machines for Reinforcement Learning.,1,0.19607843137254902
+Beyond Logic Programming for Legal Reasoning.,1,0.19607843137254902
+"Proceedings 41st International Conference on Logic Programming, ICLP 2025, Rende, Italy, 12-19th September 2025.",1,0.19607843137254902
+Operationalizing Declarative and Procedural Knowledge: a Benchmark on Logic Programming Petri Nets (LPPNs).,1,0.19607843137254902
+Enhancing Compilation-based ASP Solving with Postponed Atom Discovery.,1,0.19607843137254902
+Preferential Reasoning with Typicality in ASP over Weighted Argumentation Graphs in a Gradual Semantics.,1,0.19607843137254902
+Adapting Approximation Fixpoint Theory to Nondeterministic Hybrid Reasoning.,1,0.19607843137254902
+LLASP: Fine-tuning Large Language Models for Answer Set Programming.,1,0.19607843137254902
+FastFound: Easing the ASP Bottleneck via Predicate-Decoupled Grounding.,1,0.19607843137254902
+Automated Playing of Survival Video Games with Commonsense Reasoning.,1,0.19607843137254902
+A Framework for Combining Entity Resolution and Query Answering in Knowledge Bases.,1,0.19607843137254902
+Relating Answer Set Programming and Many-sorted Logics for Formal Verification.,1,0.19607843137254902
+Methods for Solving Extremal Problems in Practice.,1,0.19607843137254902
+Categorical Explaining Functors: Ensuring Coherence in Logical Explanations.,1,0.19607843137254902
+Answer Set Counting and its Applications to Network Reliability and System Biology.,1,0.19607843137254902
+Enhancing Linear Algebraic Computation of Logic Programs Using Sparse Representation.,1,0.19607843137254902
+Inferring Compensatory Kinase Networks in Yeast using Prolog.,1,0.19607843137254902
+Automated Aggregator - Rewriting with the Counting Aggregate.,1,0.19607843137254902
+The Combined Problem of Online Task Assignment and Lifelong Path Finding in Logistics Warehouses: A Case Study.,1,0.19607843137254902
+A Human-Centered Data-Driven Planner-Actor-Critic Architecture via Logic Programming.,1,0.19607843137254902
+Geometric reasoning on the Traveling Salesperson Problem: comparing Answer Set Programming and Constraint Logic Programming Approaches.,1,0.19607843137254902
+Exploiting the Full Power of Pearl&apos;s Causality in Probabilistic Logic Programming.,1,0.19607843137254902
+Counterexample-Guided Abstraction Refinement for Assumption-based Argumentation.,1,0.19607843137254902
+Tractable Responsibility Measures for Ontology-Mediated Query Answering.,1,0.19607843137254902
+"Demonstrating (Hybrid) Active Logic Documents and the Ciao Prolog Playground, and an Application to Verification Tutorials.",1,0.19607843137254902
+Counterfactual Reasoning via Grounded Distance.,1,0.19607843137254902
+Pearce&apos;s Characterisation in an Epistemic Domain.,1,0.19607843137254902
+Reasoning about Qualitative Direction and Distance between Extended Objects using Answer Set Programming.,1,0.19607843137254902
+Learning Effect Axioms via Probabilistic Logic Programming.,1,0.19607843137254902
+On the Independencies Hidden in the Structure of a Probabilistic Logic Program.,1,0.19607843137254902
+Explaining Decisions in ML Models: A Parameterized Complexity Analysis.,1,0.19607843137254902
+Repairing General Game Descriptions.,1,0.19607843137254902
+xDNN(ASP): Explanation Generation System for Deep Neural Networks powered by Answer Set Programming.,1,0.19607843137254902
+Teaching Prolog through Grammars.,1,0.19607843137254902
+On Model Reconciliation: How to Reconcile When Robot Does not Know Human&apos;s Model?,1,0.19607843137254902
+Concerning Measures in a First-order Logic with Actions and Meta-beliefs.,1,0.19607843137254902
+Omega-Completeness of the Logic of Here-and-There and Strong Equivalence of Logic Programs.,1,0.19607843137254902
+Justifications for Goal-Directed Constraint Answer Set Programming.,1,0.19607843137254902
+A Report on Sequential KR-Approaches as Cognitive Logic.,1,0.19607843137254902
+Compactness and Preservation in Logical Argumentation Frameworks.,1,0.19607843137254902
+An ASP-based Approach for Attractor Enumeration in Synchronous and Asynchronous Boolean Networks.,1,0.19607843137254902
+Constructionist Co-Design for the Learning Experience: A Work-in-Progress on Engaging Teachers to Integrate Logic Programming in Primary School.,1,0.19607843137254902
+Variant-based Equational Unification under Constructor Symbols.,1,0.19607843137254902
+Formalisation of Action with Durations in Answer Set Programming.,1,0.19607843137254902
+Autonomous Task Completion Based on Goal-directed Answer Set Programming.,1,0.19607843137254902
+Non-monotone Fixpoint Theory Based on the Structure of Weak Bilattices.,1,0.19607843137254902
+Adding Circumscription to Decidable Fragments of First-Order Logic: A Complexity Rollercoaster.,1,0.19607843137254902
+Two-Variable Logic for Hierarchically Partitioned and Ordered Data.,1,0.19607843137254902
+General Game Playing - Killer App for Logic Programming.,1,0.19607843137254902
+Recursive Aggregates as Intensional Functions.,1,0.19607843137254902
+Generative Logic: Teaching Prolog as Generative AI in Art and Design.,1,0.19607843137254902
+Credible Models of Belief Update.,1,0.19607843137254902
+Geospatial Trajectory Generation via Efficient Abduction: Deployment for Independent Testing.,1,0.19607843137254902
+Streamlining Input/Output Logics with Sequent Calculi.,1,0.19607843137254902
+Democratising Access to Logic Programming: A Web Application Design Tool for Querying Prolog Code.,1,0.19607843137254902
+Reliable Conversational Agents under ASP Control that Understand Natural Language.,1,0.19607843137254902
+Learning Commonsense Knowledge Through Interactive Dialogue.,1,0.19607843137254902
+Argumentative Causal Discovery.,1,0.19607843137254902
+Architecture for Simulating Behavior Mode Changes in Norm-Aware Autonomous Agents.,1,0.19607843137254902
+MTLearn: Extracting Temporal Rules Using Datalog Rule Learners.,1,0.19607843137254902
+Solving Gossip Problems using Answer Set Programming: An Epistemic Planning Approach.,1,0.19607843137254902
+Inductive First-Order Formula Synthesis by ASP: A Case Study in Invariant Inference.,1,0.19607843137254902
+Towards Parallelising Extension Construction for Serialisable Semantics in Abstract Argumentation.,1,0.19607843137254902
+Ontology-Based Query Answering over Datalog-Expressible Rule Sets is Undecidable.,1,0.19607843137254902
+Reasoning about Study Regulations in Answer Set Programming (Preliminary Report).,1,0.19607843137254902
+"Proceedings 36th International Conference on Logic Programming (Technical Communications), ICLP Technical Communications 2020, (Technical Communications) UNICAL, Rende (CS), Italy, 18-24th September 2020.",1,0.19607843137254902
+Reasoning About Knowledge on Regular Expressions Is 2EXPTIME-Complete.,1,0.19607843137254902
+"Weighted Merging Operators: Product, Utility-based Operators and Egalitarianism.",1,0.19607843137254902
+Revising Boolean Logical Models of Biological Regulatory Networks.,1,0.19607843137254902
+Can LLMs Solve ASP Problems? Insights from a Benchmarking Study.,1,0.19607843137254902
+Contractions Based on Optimal Repairs.,1,0.19607843137254902
+Deep Inductive Logic Programming meets Reinforcement Learning.,1,0.19607843137254902
+A Neurosymbolic Approach to Fraud Detection on Financial Data in the Public Administration.,1,0.19607843137254902
+Value awareness and process automation: a reflection through school place allocation models.,1,0.19607843137254902
+Advancing Algorithmic Approaches to Probabilistic Argumentation under the Constellation Approach.,1,0.19607843137254902
+Reasoning about Probability via Continuous Functions.,1,0.19607843137254902
+Propositional Abduction via Only-Knowing: A Non-Monotonic Approach.,1,0.19607843137254902
+Visual Graph Question Answering with ASP and LLMs for Language Parsing.,1,0.19607843137254902
+How to Manage a Budget with ATL+.,1,0.19607843137254902
+Automating Disease Management Using Answer Set Programming.,1,0.19607843137254902
+Natural Language Generation From Ontologies Using Grammatical Framework.,1,0.19607843137254902
+Explanations Generation For Web Service Workflow.,1,0.19607843137254902
+Incentive Design for Rational Agents.,1,0.19607843137254902
+Semantics for Hybrid Probabilistic Logic Programs with Function Symbols: Technical Summary.,1,0.19607843137254902
+neXSim: A System for Explaining Nexus of Similarities.,1,0.19607843137254902
+Unified Foundations of Team Semantics via Semirings.,1,0.19607843137254902
+A Query Evaluation Method for ASP with Abduction.,1,0.19607843137254902
+Modelling Cyber Defenses using s(CASP).,1,0.19607843137254902
+Explaining Reasoning Results for OWL Ontologies with Evee.,1,0.19607843137254902
+Consistent Query Answering over SHACL Constraints.,1,0.19607843137254902
+Data2Concept2Text: An Explainable Multilingual Framework for Data Analysis Narration.,1,0.19607843137254902
+Argument analysis using Answer Set Programming and Semantics-guided Large Language Models.,1,0.19607843137254902
+Answer Set Solving with Generalized Learned Constraints.,1,0.19607843137254902
+Visualizing Kripke Models in LogiKEy: the Case of SDL.,1,0.19607843137254902
+s(CASP) for SWI-Prolog.,1,0.19607843137254902
+A Preliminary Evaluation of Open-Source LLMs for Datalog-Based Semantic Parsing in the ASVIN Project.,1,0.19607843137254902
+Fixpoint Semantics for DatalogMTL with Negation.,1,0.19607843137254902
+When is a Program an Actual Cause?,1,0.19607843137254902
+Resource Allocation with Cooperative Agents.,1,0.19607843137254902
+A Causal Perspective on AI Deception in Games.,1,0.19607843137254902
+Queries With Exact Truth Values in Paraconsistent Description Logics.,1,0.19607843137254902
+"Proceedings 40th International Conference on Logic Programming, ICLP 2024, University of Texas at Dallas, Dallas Texas, USA, October 14-17 2024.",1,0.19607843137254902
+SHACL Validation under the Well-founded Semantics.,1,0.19607843137254902
+Logical Judges Challenge Human Judges on the Strange Case of B.C.-Valjean.,1,0.19607843137254902
+The Pyglaf Argumentation Reasoner.,1,0.19607843137254902
+Decomposition Strategies for Solving Scheduling Problems in Industrial Applications.,1,0.19607843137254902
+Explanations for Answer Set Programming.,1,0.19607843137254902
+A Neurosymbolic Framework for Bias Correction in Convolutional Neural Networks.,1,0.19607843137254902
+DMAPF: A Decentralized and Distributed Solver for Multi-Agent Path Finding Problem with Obstacles.,1,0.19607843137254902
+A Prolog Program for Bottom-up Evaluation.,1,0.19607843137254902
+Computing Diverse Optimal Stable Models.,1,0.19607843137254902
+From Vision to Execution: Enabling Knowledge Representation and Reasoning in Hybrid Intelligent Robots Playing Mobile Games.,1,0.19607843137254902
+Machine Learning Model Integration with Open World Temporal Logic for Process Automation.,1,0.19607843137254902
+First Order Logic and Commonsense Reasoning: A Path Less Travelled.,1,0.19607843137254902
+Representing and Evaluating SBVR Specification via ASP.,1,0.19607843137254902
+A Planning Compilation to Reason About Goal Achievement at Planning Time.,1,0.19607843137254902
+Cost-Optimal Delete-Free Classical Planning via Maximum Satisfiability.,1,0.19607843137254902
+Verification of General Games with Imperfect Information Using Strategy Logic.,1,0.19607843137254902
+Conflict Handling in Product Configuration using Answer Set Programming.,1,0.19607843137254902
+LLM+Reasoning+Planning for supporting incomplete user queries in presence of APIs.,1,0.19607843137254902
+Neuro-Symbolic Agent with ASP for Robust Exception Learning in Text-Based Games.,1,0.19607843137254902
+Causes for Changing Profiles (Preliminary Report).,1,0.19607843137254902
+Prolog Coding Guidelines: Status and Tool Support.,1,0.19607843137254902
+An LLM + ASP Workflow for Joint Entity-Relation Extraction.,1,0.19607843137254902
+Comprehensive Multi-Agent Epistemic Planning.,1,0.19607843137254902
+Constraint CNF: SAT and CSP Language Under One Roof.,1,0.19607843137254902
+A Scalable Approach to Probabilistic Compliance in Declarative Process Mining.,1,0.19607843137254902
+Reasoning in SHIQ with Axiom- and Concept-Level Standpoint Modalities.,1,0.19607843137254902
+Bringing Logic Programming to primary school: a teacher training course.,1,0.19607843137254902
+On the Strong Equivalences of LPMLN Programs.,1,0.19607843137254902
+Pruning with Belief Traps in Multi-agent Epistemic Planning.,1,0.19607843137254902
+Deontic Paradoxes in ASP with Weak Constraints.,1,0.19607843137254902
+"Joint Proceedings of the Joint Workshop on Knowledge Diversity and Cognitive Aspects of KR and the Workshop on Symbolic and Neuro-Symbolic Architectures for Intelligent Robotics Technology (KoDis-CAKR-SYNERGY 2024) co-located with the 21st International Conference on Principles of Knowledge Representation and Reasoning (KR 2024), Hanoi, Vietnam, November 2-8, 2024.",1,0.19607843137254902
+Guarded Fragments Meet Dynamic Logic: The Story of Regular Guards.,1,0.19607843137254902
+Correct Causal Inference in Probabilistic Logic Programming.,1,0.19607843137254902
+Some Enhancements to the Prolog Playground and ALD Notebooks for the Modern Prolog Classroom.,1,0.19607843137254902
+Cost-Based Semantics for Querying Inconsistent Weighted Knowledge Bases.,1,0.19607843137254902
+A Hitchhiker&apos;s Guide to Reinventing a Prolog Machine.,1,0.19607843137254902
+Agentified Argumentative Learning (short paper).,1,0.19607843137254902
+Leveraging Decision-DNNF Compilation for Enumerating Disjoint Partial Models.,1,0.19607843137254902
+"Proceedings 35th International Conference on Logic Programming (Technical Communications), ICLP 2019 Technical Communications, Las Cruces, NM, USA, September 20-25, 2019.",1,0.19607843137254902
+Tackling the Air Traffic Flow and Capacity Management Problem with Explainable Answer Set Programming.,1,0.19607843137254902
+The Sticky Path to Expressive Querying: Decidability of Navigational Queries under Existential Rules.,1,0.19607843137254902
+Diagnosis for Post Concept Drift Decision Trees Repair.,1,0.19607843137254902
+Neurosymbolic AI in Digital Forensics: Commonsense and Qualitative Reasoning.,1,0.19607843137254902
+Capturing Non-flat Assumption-based Argumentation with Bipolar SETAFs.,1,0.19607843137254902
+An Iterative Fixpoint Semantics for MKNF Hybrid Knowledge Bases with Function Symbols.,1,0.19607843137254902
+Inference in Probabilistic Logic Programs Using Lifted Explanations.,1,0.19607843137254902
+Refining the Semantics of Epistemic Specifications.,1,0.19607843137254902
+Proportional dependencies and asymptotics of probabilistic representations.,1,0.19607843137254902
+Natlog: a Lightweight Logic Programming Language with a Neuro-symbolic Touch.,1,0.19607843137254902
+On the Effects of Adding Assignments in Linear-Time Temporal Logics Modulo Theories.,1,0.19607843137254902
+"Mind the Gaps: Logical English, Prolog, and Multi-agent Systems for Autonomous Vehicles.",1,0.19607843137254902
+Automata for Dynamic Answer Set Solving: Preliminary Report.,1,0.19607843137254902
+Scalable and Ethical Medical Scheduling: An ASP-Based Framework with Patient-Centered Experimental Validation.,1,0.19607843137254902
+Generating Explainable Rule Sets from Tree-Ensemble Learning Methods by Answer Set Programming.,1,0.19607843137254902
+A Uniform Language to Explain Decision Trees.,1,0.19607843137254902
+From Probabilistic Programming to Probabilistic Argumentation.,1,0.19607843137254902
+An Epistemic Logic for Reasoning about Strategies in General Auctions.,1,0.19607843137254902
+A refined operational semantics for FreeCHR.,1,0.19607843137254902
+An xAI Approach for Data-to-Text Processing with ASP.,1,0.19607843137254902
+Deontic Reasoning Based on Inconsistency Measures.,1,0.19607843137254902
+Default Logic as a Species of Causal Reasoning.,1,0.19607843137254902
+ASPEN: ASP-Based System for Collective Entity Resolution.,1,0.19607843137254902
+Boolean Nearest Neighbor Language in the Knowledge Compilation Map.,1,0.19607843137254902
+Lost in the Crowd: k-unmatchability in Anonymized Knowledge Graphs.,1,0.19607843137254902
+Learning General Policies from Examples.,1,0.19607843137254902
+"Joint Proceedings of the Workshops and Doctoral Consortium of the 41st International Conference on Logic Programming (ICLP-WS-DC 2025) co-located with 41st International Conference on Logic Programming (ICLP 2025), Rende, Italy, September 9-13, 2025.",1,0.19607843137254902
+The Realizability of Revision and Contraction Operators in Epistemic Spaces.,1,0.19607843137254902
+Complexity Results and Algorithms for Preferential Argumentative Reasoning in ASPIC+.,1,0.19607843137254902
+Minimal Model Reasoning in Description Logics: Don&apos;t Try This at Home!,1,0.19607843137254902
+Benchmarking for Integrating Logic Rules with Everything Else.,1,0.19607843137254902
+When Prolog Meets Generative Models: a New Approach for Managing Knowledge and Planning in Robotic Applications - Abstract.,1,0.19607843137254902
+Abductive Reasoning in a Paraconsistent Framework.,1,0.19607843137254902
+About the Multi-Head Linear Restricted Chase Termination.,1,0.19607843137254902
+A Preliminary Data-driven Analysis of Common Errors Encountered by Novice SPARC Programmers.,1,0.19607843137254902
+Expressive Description Logics with Rich Yet Affordable Numeric Constraints.,1,0.19607843137254902
+Representing Perfect Saturated Cost Partitioning Heuristics in Classical Planning.,1,0.19607843137254902
+On the Subtlety of Causal Reasoning in Probabilistic Logic Programming: A Bug Report about the Causal Interpretation of Annotated Disjunctions.,1,0.19607843137254902
+Advances in Big Data Bio Analytics.,1,0.19607843137254902
+Pushing the Envelope in Numeric Pattern Planning.,1,0.19607843137254902
+A Representation Theorem for Causal Decision Making.,1,0.19607843137254902
+Global Type Inference for Java using Answer Set Programming.,1,0.19607843137254902
+Reasoning in Assumption-Based Argumentation via SAT.,1,0.19607843137254902
+Bottom-Up Stratified Probabilistic Logic Programming with Fusemate.,1,0.19607843137254902
+Constraint Propagation and Explanation over Novel Types by Abstract Compilation.,1,0.19607843137254902
+færdXel: An Expert System for Danish Traffic Law.,1,0.19607843137254902
+Logic Tensor Network-Enhanced Generative Adversarial Network.,1,0.19607843137254902
+Towards Incremental and Modular Context-Sensitive Analysis.,1,0.19607843137254902
+Implementing the First-Order Logic of Here and There.,1,0.19607843137254902
+Automating Defeasible Reasoning in Law with Answer Set Programming.,1,0.19607843137254902
+Quantification and aggregation over concepts of the ontology.,1,0.19607843137254902
+Intelligent Instantiation and Supersafe Rules.,1,0.19607843137254902
+Knowledge-Based Stable Roommates Problems.,1,0.19607843137254902
+Fixpoint Semantics for Recursive SHACL.,1,0.19607843137254902
+Logic Programming with Extensible Types.,1,0.19607843137254902
+"Graphical Conditions for the Existence, Unicity and Number of Regular Models.",1,0.19607843137254902
+Logic-based Composition of Business Process Models.,1,0.19607843137254902
+An Answer Set Programming Framework for Reasoning About Truthfulness of Statements by Agents.,1,0.19607843137254902
+(Re)Integration of Logical English and s(CASP).,1,0.19607843137254902
+On the Trap Space Semantics of Normal Logic Programs.,1,0.19607843137254902
+A Principle-based Framework for Analyzing Dialogue Game-based Semantics.,1,0.19607843137254902
+Compilation of Aggregates in ASP.,1,0.19607843137254902
+Exploring Desirable Configurations in Global Logistics with Heuristic Search in Answer Set Programming.,1,0.19607843137254902
+Translating Definitions into the Language of Logic Programming: A Case Study.,1,0.19607843137254902
+Context-Based Belief Revision.,1,0.19607843137254902
+A Family of Decidable Bi-intuitionistic Modal Logics.,1,0.19607843137254902
+Picat Through the Lens of Advent of Code.,1,0.19607843137254902
+Tutorial: Automating Commonsense Reasoning.,1,0.19607843137254902
+Probabilistic HTN Planning: Formalization and Computational Complexity Analysis.,1,0.19607843137254902
+A Simple Complete Search for Logic Programming.,1,0.19607843137254902
+Formalizing Informal Logic and Natural Language Deductivism.,1,0.19607843137254902
+Counterfactual Explanations as Plans.,1,0.19607843137254902
+Declarative Algorithms in Datalog with Extrema: Their Formal Semantics Simplified.,1,0.19607843137254902
+Planning and Scheduling in Digital Health with Answer Set Programming.,1,0.19607843137254902
+Sorting Strategies for Interactive Conflict Resolution in ASP.,1,0.19607843137254902
+RestKB: A Library of Commonsense Knowledge about Dining at a Restaurant.,1,0.19607843137254902
+NeSyFOLD: Extracting Logic Programs from Convolutional Neural Networks.,1,0.19607843137254902
+Interactive Explanations by Conflict Resolution via Argumentative Exchanges.,1,0.19607843137254902
+Probabilistic Synthesis and Verification for LTL on Finite Traces.,1,0.19607843137254902
+Nemo: Your Friendly and Versatile Rule Reasoning Toolkit.,1,0.19607843137254902
+On Computing Universal Plans for Partially Observable Multi-Agent Path Finding.,1,0.19607843137254902
+Correcting Autonomous Driving Object Detection Misclassifications with Automated Commonsense Reasoning.,1,0.19607843137254902
+Simple Contrapositive Assumption-Based Argumentation with Partially-Ordered Preferences.,1,0.19607843137254902
+Structural Decompositions of Epistemic Logic Programs.,1,0.19607843137254902
+exp(ASPc): Explaining ASP Programs with Choice Atoms and Constraint Rules.,1,0.19607843137254902
+Conditional Splittings of Belief Bases and Nonmonotonic Inference with c-Representations.,1,0.19607843137254902
+Towards Structure Learning under the Credal Semantics.,1,0.19607843137254902
+"Proceedings of the 9th Workshop on Advances in Argumentation in Artificial Intelligence (AI3 2025) co-located with the 41st International Conference on Logic Programming (ICLP 2025), Rende, Italy, September 13, 2025.",1,0.19607843137254902
+A Tractable Logic for Molecular Biology.,1,0.19607843137254902
+Cognitively Adequate Complexity of Reasoning in a Description Logic.,1,0.19607843137254902
+An Analysis of Gibbs Sampling for Probabilistic Logic Programs.,1,0.19607843137254902
+Rule Based Temporal Inference.,1,0.19607843137254902
+The Janus System: Multi-paradigm Programming in Prolog and Python.,1,0.19607843137254902
+Value of Information in Probabilistic Logic Programs.,1,0.19607843137254902
+Axiomatization of Approximate Exclusion.,1,0.19607843137254902
+LTL Synthesis Under Multi-Agent Environment Assumptions.,1,0.19607843137254902
+Towards One-Shot Learning for Text Classification using Inductive Logic Programming.,1,0.19607843137254902
+An s(CASP) In-Browser Playground based on Ciao Prolog.,1,0.19607843137254902
+A Machine Learning guided Rewriting Approach for ASP Logic Programs.,1,0.19607843137254902
+How Lucky Are You to Know Your Way? A Probabilistic Approach to Knowing How Logics.,1,0.19607843137254902
+Probabilistic Action Language pBC+.,1,0.19607843137254902
+Finest Syntax Splittings of Ranking Functions and Total Preorders on Worlds.,1,0.19607843137254902
+TRACE-CS: A Hybrid Logic-LLM System for Explainable Course Scheduling.,1,0.19607843137254902
+Proof-Relevant Resolution for Elaboration of Programming Languages.,1,0.19607843137254902
+Controlled Natural Language Models.,1,0.19607843137254902
+Pushing the Boundaries of Tractable Multiperspective Reasoning: A Deduction Calculus for Standpoint EL+.,1,0.19607843137254902
+Extended Magic for Negation: Efficient Demand-Driven Evaluation of Stratified Datalog with Precise Complexity Guarantees.,1,0.19607843137254902
+Logic Programming and Machine Ethics.,1,0.19607843137254902
+Explainable and Trustworthy Traffic Sign Detection for Safe Autonomous Driving: An Inductive Logic Programming Approach.,1,0.19607843137254902
+Equilibrium Description Logics: Results on Complexity and Relations to Circumscription.,1,0.19607843137254902
+Model Revision of Logical Regulatory Networks Using Logic-Based Tools.,1,0.19607843137254902
+A Tool Set for Converting Controlled Natural Languages into AI Formalisms.,1,0.19607843137254902
+Logical Lease Litigation: Prolog and LLMs for Rental Law Compliance in New York.,1,0.19607843137254902
+A Three-Valued Semantics for Typed Logic Programming.,1,0.19607843137254902
+Beyond Traditional Neural Networks: Toward adding Reasoning and Learning Capabilities through Computational Logic Techniques.,1,0.19607843137254902
+Less Manual Work for Safety Engineers: Towards an Automated Safety Reasoning with Safety Patterns.,1,0.19607843137254902
+Efficient Compliance Computation in Probabilistic Declarative Specifications.,1,0.19607843137254902
+Unique Characterisability and Learnability of Temporal Queries Mediated by an Ontology.,1,0.19607843137254902
+Operator-Based Semantics for Choice Programs: Is Choosing Losing?,1,0.19607843137254902
+Scalable Robotic Intra-Logistics with Answer Set Programming.,1,0.19607843137254902
+Semantic Analysis of Assurance Cases using s(CASP).,1,0.19607843137254902
+Computational Thinking with Logic Programming.,1,0.19607843137254902
+Complexity of Abduction in Łukasiewicz Logic.,1,0.19607843137254902
+"Leasing the Cloud-Edge Continuum, à la Carte.",1,0.19607843137254902
+A Logic-Based Framework for Database Repairs.,1,0.19607843137254902
+Memory Management in Resource-Bounded Agents.,1,0.19607843137254902
+Advances in Logic-Based Entity Resolution: Enhancing ASPEN with Local Merges and Optimality Criteria.,1,0.19607843137254902
+Modeling Administrative Discretion using Goal-Directed Answer Set Programming.,1,0.19607843137254902
+An ASP Multi-Shot Encoding for the Aircraft Routing and Maintenance Planning Problem.,1,0.19607843137254902
+From Acceptance to Rejection in Abstract Argumentation.,1,0.19607843137254902
+The ASP-based Nurse Scheduling System at the University of Yamanashi Hospital.,1,0.19607843137254902
+Controlled Natural Languages for Knowledge Representation and Reasoning.,1,0.19607843137254902
+Towards Static Performance Guarantees for Programs with Run-Time Checks.,1,0.19607843137254902
+Theory Solving Made Easy with Clingo 5.,1,0.19607843137254902
+Explaining Agent Behaviour via Causal Analysis of Mental States.,1,0.19607843137254902
+Constraint Programming Algorithms for Route Planning Exploiting Geometrical Information.,1,0.19607843137254902
+Search-Guided Generation of Properties for Program Analyzers.,1,0.19607843137254902
+Blawx: Web-based User-Friendly Rules as Code.,1,0.19607843137254902
+KALM: A Rule-based Approach for Knowledge Authoring and Question Answering.,1,0.19607843137254902
+On Strong and Weak Admissibility in Non-Flat Assumption-Based Argumentation.,1,0.19607843137254902
+ABA Learning via ASP.,1,0.19607843137254902
+"A Gaze into the Internal Logic of Graph Neural Networks, with Logic.",1,0.19607843137254902
+A Model-Oriented Approach for Lifting Symmetries in Answer Set Programming.,1,0.19607843137254902
+Assessing Drivers&apos; Situation Awareness in Semi-Autonomous Vehicles: ASP based Characterisations of Driving Dynamics for Modelling Scene Interpretation and Projection.,1,0.19607843137254902
+Modelling Infectious Disease Dynamics with Probabilistic Logic Programming.,1,0.19607843137254902
+Knowledge Base Embeddings: Semantics and Theoretical Properties.,1,0.19607843137254902
+Complexity of Weighted First-Order Model Counting in the Two-Variable Fragment with Counting Quantifiers: A Bound to Beat.,1,0.19607843137254902
+Top-down Splitting Property for Epistemic Logic Programs.,1,0.19607843137254902
+Most General Variant Unifiers.,1,0.19607843137254902
+Extending Description Logics with Generic Concepts - the Tale of Two Semantics.,1,0.19607843137254902
+An Information-Flow Perspective on Explainability Requirements: Specification and Verification.,1,0.19607843137254902
+"Proceedings of the International Conference on Logic Programming 2022 Workshops co-located with the 38th International Conference on Logic Programming (ICLP 2022), Haifa, Israel, July 31st - August 1st, 2022.",1,0.19607843137254902
+A Framework for Inconsistency-tolerant Reasoning with Sets of Models.,1,0.19607843137254902
+Towards Run-time Checks Simplification via Term Hiding.,1,0.19607843137254902
+Modeling Clique Coloring via ASP(Q).,1,0.19607843137254902
+Research Summary: Explainable Artificial Intelligence in Answer Set Programming and Machine Learning.,1,0.19607843137254902
+"Front Matter, Table of Contents, Preface, List of Authors.",1,0.19607843137254902
+Interpretable Hybrid Machine Learning Models Using FOLD-R++ and Answer Set Programming.,1,0.19607843137254902
+Distance-Restricted Explanations: Theoretical Underpinnings &amp; Efficient Implementation.,1,0.19607843137254902
+A System for Explainable Answer Set Programming.,1,0.19607843137254902
+Modelling Human Mental-States in an Action Language following the Theory of Planned Behavior.,1,0.19607843137254902
+Grounding Rule-Based Argumentation Using Datalog.,1,0.19607843137254902
+On the Complexity and Properties of Preferential Propositional Dependence Logic.,1,0.19607843137254902
+Generating Concurrent Programs From Sequential Data Structure Knowledge Using Answer Set Programming.,1,0.19607843137254902
+Automated Theorem Proving for Prolog Verification.,1,0.19607843137254902
+Actual Causality in Contextual Abduction.,1,0.19607843137254902
+Understanding ProbLog as Probabilistic Argumentation.,1,0.19607843137254902
+Faithful Differentiable Reasoning with Reshuffled Region-based Embeddings.,1,0.19607843137254902
+Action Language mA* with Higher-Order Action Observability.,1,0.19607843137254902
+Dynamic Epistemic Logic with ASP Updates: Application to Conditional Planning.,1,0.19607843137254902
+Using Ontology to Analyze Sentiment of Comments on Vietnamese Social Media.,1,0.19607843137254902
+Generalizing Level Ranking Constraints for Monotone and Convex Aggregates.,1,0.19607843137254902
+A framework for Conditional Reasoning in Answer Set Programming.,1,0.19607843137254902
+LP2PB: Translating Answer Set Programs into Pseudo-Boolean Theories.,1,0.19607843137254902
+Enhancing Compilation-based ASP Solving.,1,0.19607843137254902
+Quantified Constraint Handling Rules.,1,0.19607843137254902
+MASP-Reduce: A Proposal for Distributed Computation of Stable Models.,1,0.19607843137254902
+Embedding s(CASP) in Prolog.,1,0.19607843137254902
+Learning Robust Reward Machines from Noisy Labels.,1,0.19607843137254902
+Strong Equivalence for LPMLN Programs.,1,0.19607843137254902
+A Dataset of Contractual Events in Court Decisions.,1,0.19607843137254902
+Modeling and Solving Graph Synthesis Problems Using SAT-Encoded Reachability Constraints in Picat.,1,0.19607843137254902
+SMT-Based Constraint Answer Set Solver EZSMT (System Description).,1,0.19607843137254902
+A Speech about Generative Datalog and Non-measurable Sets.,1,0.19607843137254902
+Knowledge Graphs &amp; Reasoning in Concert: Automating Regulation in Corporate Economics.,1,0.19607843137254902
+Copredication and Ontological Mutability.,1,0.19607843137254902
+Fitting Ontologies and Constraints to Relational Structures.,1,0.19607843137254902
+"Translating P-log, LPMLN, LPOD, and CR-Prolog2 into Standard Answer Set Programs.",1,0.19607843137254902
+Property Directed Reachability for Planning Revisited.,1,0.19607843137254902
+Abstractions of Queries in Ontology-Based Data Access.,1,0.19607843137254902
+Mutex Graphs and Multicliques: Reducing Grounding Size for Planning.,1,0.19607843137254902
+Grounded Fixpoints and Active Integrity Constraints.,1,0.19607843137254902
+Computing H-Partitions in ASP and Datalog.,1,0.19607843137254902
+Mathematical Foundations for Joining Only Knowing and Common Knowledge.,1,0.19607843137254902
+A Normative Model of Explanation for Binary Classification Legal AI and Its Implementation on Causal Explanations of Answer Set Programming.,1,0.19607843137254902
+Solving Assembly Line Workload Smoothing Problem via Answer Set Programming.,1,0.19607843137254902
+Extending Answer Set Programs with Neural Networks.,1,0.19607843137254902
+"A Singly Exponential Transformation of LTL[X, F] into Pure Past LTL.",1,0.19607843137254902
+An Epistemic Theory of Deductive Arguments.,1,0.19607843137254902
+Statistical Syllogistic Tableaux.,1,0.19607843137254902
+Empowering Public Interest Communication with Argumentation - Project Report (short paper).,1,0.19607843137254902
+Hybrid Answer Set Programming: Foundations and Applications.,1,0.19607843137254902
+Natlog: Embedding Logic Programming into the Python Deep-Learning Ecosystem.,1,0.19607843137254902
+probKanren: A Simple Probabilistic Extension for microKanren.,1,0.19607843137254902
+A Brief Discussion about the Credal Semantics for Probabilistic Answer Set Programs.,1,0.19607843137254902
+Inductive Learning of Declarative Domain-Specific Heuristics for ASP.,1,0.19607843137254902
+Qiana: A First-Order Formalism to Quantify over Contexts and Formulas.,1,0.19607843137254902
+On Verifying and Generating Robust Plans for Planning Tasks with Exogenous Events.,1,0.19607843137254902
+Probabilistic Declarative Process Mining.,1,0.19607843137254902
+Revisiting Inferential Benchmarks for Knowledge Graph Completion.,1,0.19607843137254902
+Platform for Introducing Logic Programming in Bulgarian Secondary Schools - IDEAS (Intelligent Data Educational Analysis System).,1,0.19607843137254902
+Automated Planning with Ontologies Under Coherence Update Semantics.,1,0.19607843137254902
+Blending Grounding and Compilation for Efficient ASP Solving.,1,0.19607843137254902
+Quantitative and Stream Extensions of Answer Set Programming.,1,0.19607843137254902
+Preference-Based Abstract Argumentation for Case-Based Reasoning.,1,0.19607843137254902
+exp(ASPc) : Explaining ASP Programs with Choice Atoms and Constraint Rules.,1,0.19607843137254902
+Symmetries and Expressive Requirements for Learning General Policies.,1,0.19607843137254902
+Routing and Scheduling in different ways: Abridged Preliminary Report.,1,0.19607843137254902
+Advancing Interactive Explainable AI via Belief Change Theory.,1,0.19607843137254902
+Inconsistency Handling in Prioritized Databases with Universal Constraints: Complexity Analysis and Links with Active Integrity Constraints.,1,0.19607843137254902
+Tabling Optimization for Contextual Abduction.,1,0.19607843137254902
+Formally Explaining Decision Tree Models with Answer Set Programming.,1,0.19607843137254902
+On Feasibility of Declarative Diagnosis.,1,0.19607843137254902
+Learning ASP Domain-specific Heuristics using Transformers.,1,0.19607843137254902
+// Efficient Declarative Solutions in Picat for Optimal Multi-Agent Pathfinding.,1,0.19607843137254902
+Tree-Like Justification Systems are Consistent.,1,0.19607843137254902
+Depth-Bounded Epistemic Planning.,1,0.19607843137254902
+Link Prediction in Knowledge Graphs with Probabilistic Logic Programming: Work in Progress.,1,0.19607843137254902
+Nemo: First Glimpse of a New Rule Engine.,1,0.19607843137254902
+"Proceedings 39th International Conference on Logic Programming, ICLP 2023, Imperial College London, UK, 9th July 2023 - 15th July 2023.",1,0.19607843137254902
+A Low-Level Index for Distributed Logic Programming.,1,0.19607843137254902
+Learning and Contesting Assumption-based Argumentation Frameworks (Invited Talk).,1,0.19607843137254902
+Imperative Program Synthesis from Answer Set Programs.,1,0.19607843137254902
+Generating Local Search Neighborhood with Synthesized Logic Programs.,1,0.19607843137254902
+A Reduct-based Approach to Skeptical Preferred Reasoning in Abstract Argumentation.,1,0.19607843137254902
+"On Conflict-free Labellings - Realizability, Construction and Patterns of Redundancy.",1,0.19607843137254902
+LP-LM: No Hallucinations in Question Answering with Logic Programming.,1,0.19607843137254902
+Order-Sorted Intensional Logic: Expressing Subtyping Polymorphism with Typing Assertions and Quantification over Concepts.,1,0.19607843137254902
+Optimisation and Approximation in Abstract Argumentation: The Case of Admissibility.,1,0.19607843137254902
+A Logic-based Multi-agent System for Ethical Monitoring and Evaluation of Dialogues.,1,0.19607843137254902
+"Strategy Logic, Imperfect Information, and Hyperproperties.",1,0.19607843137254902
+Halting Recurrent GNNs and the Graded mu-Calculus.,1,0.19607843137254902
+Constrained Default Logic Programming.,1,0.19607843137254902
+On the Potential of CLIP for Compositional Logical Reasoning.,1,0.19607843137254902
+Integration of Logical English and s(CASP).,1,0.19607843137254902
+Iterative ASP Pipelines: Enhancements for Robots Playing Mobile Games.,1,0.19607843137254902
+On the Translation of ASP Rules to (Controlled) Natural Language Sentences.,1,0.19607843137254902
+A Methodology for Incompleteness-Tolerant and Modular Gradual Semantics for Argumentative Statement Graphs.,1,0.19607843137254902
+Gradient-Based Supported Model Computation in Vector Spaces.,1,0.19607843137254902
+Abstraction in Assumption-based Argumentation.,1,0.19607843137254902
+Model Checking Linear Temporal Logic with Standpoint Modalities.,1,0.19607843137254902
+Communication with Individuals with Disabilities and the Role of LLMs: Progress Report.,1,0.19607843137254902
+A Coq Formalization of Unification Modulo Exclusive-Or.,1,0.19607843137254902
+Axiomatic Characterisations of Argumentation Semantics.,1,0.19607843137254902
+From Infinite to Finite Traces and Back: Linear Temporal Logic in Sequential Decision Making.,1,0.19607843137254902
+Temporal Conditional Reasoning with Weighted Knowledge Bases.,1,0.19607843137254902
+Reliable Natural Language Understanding with Large Language Models and Answer Set Programming.,1,0.19607843137254902
+Neuro-Symbolic Contrastive Learning for Cross-domain Inference.,1,0.19607843137254902
+Counterfactual Scenarios for Automated Planning.,1,0.19607843137254902
+Presburger Functional Synthesis: Complexity and Tractable Normal Forms.,1,0.19607843137254902
+Justifications and Blocking Sets in a Rule-Based Answer Set Computation.,1,0.19607843137254902
+Proper Linear-time Specifications of Environment Behaviors in Nondeterministic Planning and Reactive Synthesis.,1,0.19607843137254902
+A Fixpoint Characterization of Three-Valued Disjunctive Hybrid MKNF Knowledge Bases.,1,0.19607843137254902
+Efficient Volume Computation for SMT Formulas.,1,0.19607843137254902
+Extended Abstract: A Reliable Common-Sense Reasoning Socialbot Built Using LLMs and Goal-Directed ASP.,1,0.19607843137254902
+Extending Abstract Argumentation Frameworks with Knowledge Bases.,1,0.19607843137254902
+On LLM-generated Logic Programs and their Inference Execution Methods.,1,0.19607843137254902
+Modular Stochastic Rewritable Petri Nets.,1,0.19607843137254902
+Regular Typed Unification.,1,0.19607843137254902
+Approximating Weakly Preferred Semantics in Abstract Argumentation through Vacuous Reduct Semantics.,1,0.19607843137254902

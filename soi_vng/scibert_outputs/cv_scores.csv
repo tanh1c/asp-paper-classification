@@ -1,0 +1,6 @@
+fold,model,macro_f1
+1,scibert_sequence_classifier,0.24309716924064545
+2,scibert_sequence_classifier,0.3183896940418679
+3,scibert_sequence_classifier,0.20802275960170696
+4,scibert_sequence_classifier,0.2531815044858523
+5,scibert_sequence_classifier,0.20097359456913005

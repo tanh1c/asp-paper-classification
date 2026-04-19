@@ -1,0 +1,3 @@
+id,Label,title_raw,title_clean,venue_raw,venue_clean,authors_raw,authors_parsed,doi_raw,doi_prefix,doi_suffix_head,doi_suffix_head_missing
+299,1,Tabled CLP for Reasoning Over Stream Data.,tabled clp for reasoning over stream data.,iclp,iclp,"Edmond Jajaga, Lule Ahmedi",edmond jajaga | lule ahmedi,10.1109/icsc.2017.64,10.1109,icsc,0
+92,5,"XAI-LAW: A Logic Programming Tool for Modeling, Explaining, and Learning Legal Decisions.",xai-law: a logic programming tool for modeling explaining and learning legal decisions.,iclp,iclp,"Agostino Dovier, Talissa Dreossi, Andrea Formisano, Benedetta Strizzolo",agostino dovier | talissa dreossi | andrea formisano | benedetta strizzolo,10.4204/eptcs.439.28,10.4204,eptcs,0

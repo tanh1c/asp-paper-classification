@@ -1,0 +1,506 @@
+{
+  "10.1002/seup.v12:1": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "resolved_url": "https://doi.org/10.1002/seup.v12%3A1"
+  },
+  "10.1007/978-3-031-43619-2_53": {
+    "abstract": "Extensions of Answer Set Programming with language constructs from temporal logics, such as temporal equilibrium logic over finite traces ( $$\\text {TEL}_{\\!f}$$...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://link.springer.com/chapter/10.1007/978-3-031-43619-2_53?error=cookies_not_supported&code=94a31ccf-b1f1-4d67-847b-afd30f18a1ed"
+  },
+  "10.1007/978-3-540-74610-2": {
+    "abstract": "",
+    "abstract_source": "not_found",
+    "error": "",
+    "resolved_url": "https://link.springer.com/book/10.1007/978-3-540-74610-2?error=cookies_not_supported&code=39e3e0f5-c656-4c5c-81a3-463f2b3a2ee4"
+  },
+  "10.1007/978-3-642-14418-9_3": {
+    "abstract": "Anaphora resolution in current computer-processable controlled natural languages relies mainly on syntactic information, accessibility constraints and the distance of the anaphoric expression to its antecedent. This design decision has the advantage that a text can...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://link.springer.com/chapter/10.1007/978-3-642-14418-9_3?error=cookies_not_supported&code=c047ebca-6cc6-4d5f-a5b7-0fe745a03a8d"
+  },
+  "10.1007/978-3-642-60085-2_14": {
+    "abstract": "The state-of-the-art in inductive logic programming is surveyed by analyzing the approach taken by this field over the past 8 years. The analysis investigates the roles of 1) logic programming and machine learning, 2) theory, techniques and applications, and 3)...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://link.springer.com/chapter/10.1007/978-3-642-60085-2_14?error=cookies_not_supported&code=6d33b0b5-c87e-4258-976e-4f435510eb2a"
+  },
+  "10.1007/bfb0054794": {
+    "abstract": "We study the relationship between argumentation (abduction) and disjunctive logic programming. Based on the paradigm of argumentation, an abductive semantic framework for disjunctive logic programming is presented, in which the disjunctions of negative literals are...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://link.springer.com/chapter/10.1007/BFb0054794?error=cookies_not_supported&code=b7675bf0-23f8-4dd0-92e1-21ecc71a60d0"
+  },
+  "10.1007/s10107-006-0026-z": {
+    "abstract": "The semidefinite programming formulation of the Lovász theta number does not only give one of the best polynomial simultaneous bounds on the chromatic number χ(G) or the clique number ω(G) of a graph, but also leads to heuristics for graph coloring and extracting large cliques. This semidefinite programming formulation can be tightened toward either χ(G) or ω(G) by adding several types of cutting planes. We explore several such strengthenings, and show that some of them can be computed with the same effort as the theta number. We also investigate computational simplifications for graphs with rich automorphism groups.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://link.springer.com/article/10.1007/s10107-006-0026-z?error=cookies_not_supported&code=42ee7cf4-aaff-45d1-9259-4e95c632f440"
+  },
+  "10.1016/b978-1-4832-1452-8.50151-2": {
+    "abstract": "",
+    "abstract_source": "not_found",
+    "error": "",
+    "resolved_url": "https://linkinghub.elsevier.com/retrieve/pii/B9781483214528501512"
+  },
+  "10.1016/s0743-1066(00)00004-2": {
+    "abstract": "",
+    "abstract_source": "not_found",
+    "error": "",
+    "resolved_url": "https://linkinghub.elsevier.com/retrieve/pii/S0743106600000042"
+  },
+  "10.1017/cbo9781139021326.006": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests",
+    "resolved_url": "https://doi.org/10.1017/cbo9781139021326.006"
+  },
+  "10.1017/s1471068414000118": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests",
+    "resolved_url": "https://doi.org/10.1017/s1471068414000118"
+  },
+  "10.1017/s1471068419000048": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests",
+    "resolved_url": "https://doi.org/10.1017/s1471068419000048"
+  },
+  "10.1017/s1471068419000474": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests",
+    "resolved_url": "https://doi.org/10.1017/s1471068419000474"
+  },
+  "10.1017/s1471068424000280": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests",
+    "resolved_url": "https://doi.org/10.1017/s1471068424000280"
+  },
+  "10.1017/s1471068425100161": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests",
+    "resolved_url": "https://doi.org/10.1017/s1471068425100161"
+  },
+  "10.1093/med/9780190912925.003.0005": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "resolved_url": "https://doi.org/10.1093/med/9780190912925.003.0005"
+  },
+  "10.1109/ictai.2012.87": {
+    "abstract": "<unknown>",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 420: ",
+    "resolved_url": "https://doi.org/10.1109/ictai.2012.87"
+  },
+  "10.1126/science.1662-b": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "resolved_url": "https://doi.org/10.1126/science.1662-b"
+  },
+  "10.1145/3291621": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "resolved_url": "https://doi.org/10.1145/3291621"
+  },
+  "10.1145/3340531.3411911": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "resolved_url": "https://doi.org/10.1145/3340531.3411911"
+  },
+  "10.1145/3479394.3479416": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "resolved_url": "https://doi.org/10.1145/3479394.3479416"
+  },
+  "10.1145/375735.376404": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "resolved_url": "https://doi.org/10.1145/375735.376404"
+  },
+  "10.1201/9781003427421-6": {
+    "abstract": "In Section 2.2 we considered only sound programs, those for which every world has a two-valued WFM. In this way, we avoid non-monotonic aspects of the program",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://www.taylorfrancis.com/chapters/mono/10.1201/9781003427421-6/probabilistic-answer-set-programming-fabrizio-riguzzi"
+  },
+  "10.12681/eadd/36568": {
+    "abstract": "Ο αριθμός των βιβλιογραφικών αναφορών είναι 215. Το τεκμήριο περιέχει ευρετήριο.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://www.didaktorika.gr/eadd/handle/10442/36568"
+  },
+  "10.1609/aaai.v33i01.33013003": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "resolved_url": "https://doi.org/10.1609/aaai.v33i01.33013003"
+  },
+  "10.1609/aaai.v39i14.33628": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "resolved_url": "https://doi.org/10.1609/aaai.v39i14.33628"
+  },
+  "10.1609/socs.v18i1.36005": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "resolved_url": "https://doi.org/10.1609/socs.v18i1.36005"
+  },
+  "10.17918/kp1w-ma77": {
+    "abstract": "",
+    "abstract_source": "not_found",
+    "error": "",
+    "resolved_url": "https://researchdiscovery.drexel.edu/esploro/outputs/doctoral/991014632328204721"
+  },
+  "10.18653/v1/2023.nlrse-1.7": {
+    "abstract": "Jinheon Baek, Alham Fikri Aji, Amir Saffari. Proceedings of the 1st Workshop on Natural Language Reasoning and Structured Explanations (NLRSE). 2023.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://aclanthology.org/2023.nlrse-1.7/"
+  },
+  "10.2307/jj.30297486.9": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "resolved_url": "https://doi.org/10.2307/jj.30297486.9"
+  },
+  "10.24963/kr.2023/34": {
+    "abstract": "Answer Set Programming is a widely used paradigm in knowledge representation and reasoning, which strongly relates to the satisfiability (SAT) of propositional formulas. While in the area of SAT th...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2023/34/"
+  },
+  "10.24963/kr.2023/4": {
+    "abstract": "Aging societies, labor shortages and increasing wage costs call for assistance robots capable of autonomously performing a wide array of real-world tasks. Such open-ended robotic manipulation requi...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2023/4/"
+  },
+  "10.24963/kr.2024/11": {
+    "abstract": "We study the interaction of views, queries, and background knowledge in the form of existential rules. The motivating questions concern monotonic determinacy of a query using views w.r.t. rules,...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2024/11/"
+  },
+  "10.24963/kr.2024/2": {
+    "abstract": "Explainable Artificial Intelligence and Formal Argumentation have received significant attention in recent years. Argumentation frameworks are useful for representing knowledge and reasoning on ...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2024/2/"
+  },
+  "10.24963/kr.2024/24": {
+    "abstract": "Answer Set Programming (ASP) is a declarative programming approach that captures many problems in knowledge representation and reasoning. To certify an ASP solver's decision, whether the program ...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2024/24/"
+  },
+  "10.24963/kr.2024/33": {
+    "abstract": "Intuitionistic linear temporal logic (iLTL) has been studied extensively, especially in the last decade. It enjoys natural semantics over intuitionistic Kripke frames equipped with an order-preserv...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2024/33/"
+  },
+  "10.24963/kr.2024/72": {
+    "abstract": "We propose Large Neighborhood Prioritized Search (LNPS) for solving combinatorial optimization problems in Answer Set Programming (ASP). LNPS is a metaheuristic that starts with an initial solution...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2024/72/"
+  },
+  "10.24963/kr.2024/75": {
+    "abstract": "This paper studies the problem of action model learning with full observability. Following the learning by search paradigm by Mitchell, we develop a theory for action model learning based on vers...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2024/75/"
+  },
+  "10.24963/kr.2024/8": {
+    "abstract": "Definite descriptions, such as ‘the General Chair of KR 2024’, are a semantically transparent device for object identification in knowledge representation. In first-order modal logic, definite desc...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2024/8/"
+  },
+  "10.24963/kr.2024/80": {
+    "abstract": "Goal instructions for autonomous AI agents cannot assume that objects have unique names. Instead, objects in goals must be referred to by providing suitable descriptions. However, this raises probl...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2024/80/"
+  },
+  "10.24963/kr.2024/86": {
+    "abstract": "We present a logic based interpretable model for learning on graphs and an algorithm to distill this model from a Graph Neural Network (GNN). Recent results have shown connections between the expre...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2024/86/"
+  },
+  "10.24963/kr.2025": {
+    "abstract": "Proceedings of the 2025 edition of the KR conference. All papers are open access and can be downloaded from this page.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2025/"
+  },
+  "10.24963/kr.2025/12": {
+    "abstract": "We consider abstract argumentation and explanations for the acceptance of arguments. Based on the notion of serialisability, we introduce sequence explanations as a procedural form of explanatio...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2025/12/"
+  },
+  "10.24963/kr.2025/17": {
+    "abstract": "Repair-based semantics have been extensively studied as a means of obtaining meaningful answers to queries posed over inconsistent knowledge bases (KBs). While several works have considered how to ...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2025/17/"
+  },
+  "10.24963/kr.2025/19": {
+    "abstract": "Multi-Agent Systems (MAS) are essential for modelling strategic interactions between multiple agents, often involving partial information. Managing this partial information is crucial for accurate ...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2025/19/"
+  },
+  "10.24963/kr.2025/20": {
+    "abstract": "Rule-based languages lie at the core of several areas of central importance to databases and artificial intelligence such as deductive databases and knowledge representation and reasoning. Disjunct...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2025/20/"
+  },
+  "10.24963/kr.2025/21": {
+    "abstract": "Explainable AI has garnered considerable attention in recent years, as understanding the reasons behind decisions made by AI systems is crucial for their successful adoption. Explaining classifiers...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2025/21/"
+  },
+  "10.24963/kr.2025/22": {
+    "abstract": "Description Logics (DLs) are widely applied in AI and database systems. However, like other classical logics, they cannot adequately handle defeasible information. Building on the notion of rationa...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2025/22/"
+  },
+  "10.24963/kr.2025/36": {
+    "abstract": "Standpoint extensions of KR formalisms have been recently introduced to incorporate multi-perspective modelling and reasoning capabilities. In such modal extensions, the integration of conceptual...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2025/36/"
+  },
+  "10.24963/kr.2025/50": {
+    "abstract": "In computational argumentation, gradual semantics are fine-grained alternatives to extension-based and labelling-based semantics. They ascribe a dialectical strength to (components of) arguments sa...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2025/50/"
+  },
+  "10.24963/kr.2025/62": {
+    "abstract": "Complex Event Recognition (CER) systems receive as input a stream of time-stamped events and identify situations of interest that satisfy a given pattern. Streaming environments are characterize...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2025/62/"
+  },
+  "10.24963/kr.2025/65": {
+    "abstract": "Model counting (also known as #SAT) is a fundamental problem in knowledge representation and reasoning, with applications ranging from probabilistic inference to formal verification. However, st...",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://proceedings.kr.org/2025/65/"
+  },
+  "10.29007/dt1r": {
+    "abstract": "Speeding Up Lazy-Grounding Answer Set Solving EasyChair Preprint 383 9 pages • Date: July 30, 2018 Richard Taupe Abstract The grounding bottleneck is an important open issue in Answer Set Programming. Lazy grounding addresses it by interleaving grounding and search. The performance of current lazy-grounding solvers is not yet comparable to that of ground-and-solve systems, however. The aim of this thesis is to extend prior work on lazy grounding by novel heuristics and other techniques like non-ground conflict learning in order to speed up solving. Parts of expected results will be beneficial for ground-and-solve systems as well. Keyphrases : Answer Set Programming , Heuristics , lazy grounding Links: https://easychair.org/publications/preprint/XGtK https://doi.org/10.29007/dt1r BibTeX entry BibTeX does not have the right entry for preprints. This is a hack for producing the correct reference: @booklet{EasyChair:383, author = {Richard Taupe}, title = {Speeding Up Lazy-Grounding Answer Set Solving}, doi = {10.29007/dt1r}, howpublished = {EasyChair Preprint 383}, year = {EasyChair, 2018}}",
+    "abstract_source": "html_block",
+    "error": "",
+    "resolved_url": "https://easychair.org/publications/preprint/XGtK"
+  },
+  "10.29007/g6ph": {
+    "abstract": "Specifying and Verbalising Answer Set Programs in Controlled Natural Language EasyChair Preprint 194 15 pages • Date: May 31, 2018 Rolf Schwitter Abstract We show how a bi-directional grammar can be used to specify and verbalise answer set programs in controlled natural language. We start from a program specification in controlled natural language and translate this specification automatically into an executable answer set program. The resulting answer set program can be modified following certain naming conventions and the revised version of the program can then be verbalised in the same subset of natural language that was used as specification language. The bi-directional grammar is parametrised for processing and generation, deals with referring expressions, and exploits symmetries in the data structure of the grammar rules whenever these grammar rules need to be duplicated. We demonstrate that verbalisation requires sentence planning in order to aggregate similar structures with the aim to improve the readability of the generated specification. Without modifications, the generated specification is always semantically equivalent to the original one; our bi-directional grammar is the first one that allows for semantic round-tripping in the context of controlled natural language processing. Keyphrases : Answer Set Programming , Bi-directional Grammars , Controlled Natural Languages , executable specifications , sentence planning Links: https://easychair.org/publications/preprint/Zc3g https://doi.org/10.29007/g6ph BibTeX entry BibTeX does not have the right entry for preprints. This is a hack for producing the correct reference: @booklet{EasyChair:194, author = {Rolf Schwitter}, title = {Specifying and Verbalising Answer Set Programs in Controlled Natural Language}, doi = {10.29007/g6ph}, howpublished = {EasyChair Preprint 194}, year = {EasyChair, 2018}}",
+    "abstract_source": "html_block",
+    "error": "",
+    "resolved_url": "https://easychair.org/publications/preprint/Zc3g"
+  },
+  "10.29007/sclq": {
+    "abstract": "Epistemic Logic Programs with World View Constraints EasyChair Preprint 231 15 pages • Date: June 4, 2018 Patrick Kahl and Anthony Leclerc Abstract An epistemic logic program is a set of rules written in the language of Epistemic Specifications, an extension of the language of answer set programming that provides for more powerful introspective reasoning through the use of modal operators K and M. We propose adding a new construct to Epistemic Specifications called a world view constraint that provides a universal device for expressing global constraints in the various versions of the language. We further propose the use of subjective literals (literals preceded by K or M) in rule heads as syntactic sugar for world view constraints. Additionally, we provide an algorithm for finding the world views of such programs. Keyphrases : Answer Set Programming , Epistemic Logic Programs , Epistemic Specifications , WV Facts , World View Constraints , World View Rules , constraints , logic programming Links: https://easychair.org/publications/preprint/mcBS https://doi.org/10.29007/sclq BibTeX entry BibTeX does not have the right entry for preprints. This is a hack for producing the correct reference: @booklet{EasyChair:231, author = {Patrick Kahl and Anthony Leclerc}, title = {Epistemic Logic Programs with World View Constraints}, doi = {10.29007/sclq}, howpublished = {EasyChair Preprint 231}, year = {EasyChair, 2018}}",
+    "abstract_source": "html_block",
+    "error": "",
+    "resolved_url": "https://easychair.org/publications/preprint/mcBS"
+  },
+  "10.3233/978-1-58603-891-5-99": {
+    "abstract": "With the advent of the Semantic Web, the question becomes important how to best combine open-world based ontology languages, like OWL, with closed-world rules paradigms. One of the most mature proposals for this combination is known as Hybrid MKNF knowledge bases [11], which is based on an adaptation of the stable model semantics to knowledge bases consisting of ontology axioms and rules. In this paper, we propose a well-founded semantics for such knowledge bases which promises to provide better efficiency of reasoning, which is compatible both with the OWL-based semantics and the traditional well-founded semantics for logic programs, and which surpasses previous proposals for such a well-founded semantics by avoiding some issues related to inconsistency handling.",
+    "abstract_source": "html_block",
+    "error": "",
+    "resolved_url": "https://ebooks.iospress.nl/publication/4337"
+  },
+  "10.3233/978-1-61499-645-3-100": {
+    "abstract": "The Austrian electronic health record (EHR) system ELGA went live in December 2016. It is a document oriented EHR system and is based on the HL7 Clinical Document Architecture (CDA). The HL7 Fast Healthcare Interoperability Resources (FHIR) is a relatively new standard that combines the advantages of HL7 messages and CDA Documents. In order to offer easier access to information stored in ELGA we present a method based on adapted FHIR resources to map CDA documents to FHIR resources. A proof-of-concept tool using Java, the open-source FHIR framework HAPI-FHIR and publicly available FHIR servers was created to evaluate the presented mapping. In contrast to other approaches the close resemblance of the mapping file to the FHIR specification allows existing FHIR infrastructure to be reused. In order to reduce information overload and facilitate the access to CDA documents, FHIR could offer a standardized way to query CDA data on a fine granular base in Austria.",
+    "abstract_source": "html_block",
+    "error": "",
+    "resolved_url": "https://ebooks.iospress.nl/publication/42781"
+  },
+  "10.3233/aic-220194": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+    "resolved_url": "https://doi.org/10.3233/aic-220194"
+  },
+  "10.3390/a18040185": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "resolved_url": "https://doi.org/10.3390/a18040185"
+  },
+  "10.4204/eptcs.306.31": {
+    "abstract": "In this paper we present web-liver, a rule-based system for decision support in the medical domain, focusing on its application in a liver transplantation unit for implementing policies for donor-patient matching. The rule-based system is built on top of an interpreter for logic programs with partial functions, called lppf, that extends the paradigm of Answer Set Programming (ASP) adding two main features: (1) the inclusion of partial functions and (2) the computation of causal explanations for the obtained solutions. The final goal of web-liver is assisting the medical experts in the design of new donor-patient matching policies that take into account not only the patient severity but also the transplantation utility. As an example, we illustrate the tool behaviour with a set of rules that implement the utility index called SOFT.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://arxiv.org/abs/1909.08248v1"
+  },
+  "10.4204/eptcs.306.57": {
+    "abstract": "The aim of my Ph.D. thesis concerns Reasoning in Highly Reactive Environments. As reasoning in highly reactive environments, we identify the setting in which a knowledge-based agent, with given goals, is deployed in an environment subject to repeated, sudden and possibly unknown changes. This is for instance the typical setting in which, e.g., artificial agents for video-games (the so called \"bots\"), cleaning robots, bomb clearing robots, and so on are deployed. In all these settings one can follow the classical approach in which the operations of the agent are distinguished in \"sensing\" the environment with proper interface devices, \"thinking\", and then behaving accordingly using proper actuators. In order to operate in an highly reactive environment, an artificial agent needs to be: 1. Responsive -> The agent must be able to react repeatedly and in a reasonable amount of time; 2. Elastic -> The agent must stay reactive also under varying workload; 3. Resilient -> The agent must stay responsive also in case of internal failure or failure of one of the programmed actions in the environment. Nowadays, thanks to new technologies in the field of Artificial Intelligence, it is already technically possible to create AI agents that are able to operate in reactive environments. Nevertheless, several issues stay unsolved, and are subject of ongoing research.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://arxiv.org/abs/1909.08260v1"
+  },
+  "10.4204/eptcs.306.59": {
+    "abstract": "Constraint Programming (CP) and Local Search (LS) are different paradigms for dealing with combinatorial search and optimization problems. Their complementary features motivated researchers to create hybrid CP/LS solutions, maintaining both the modeling capabilities of CP and the computational advantages of the heuristic-based LS approach. Research presented in this report is focused on developing a novel method to infer an efficient LS neighborhood operator based on the problem structure, as modeled in the CP paradigm. We consider a limited formal language that we call a Neighborhood Definition Language, used to specify the neighborhood operators in a fine-grained and declarative manner. Together with Logic Programming runtime called Noodle, it allows to automatically synthesize complex operators using a Grammar Evolution algorithm.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://arxiv.org/abs/1909.08261v1"
+  },
+  "10.4204/eptcs.325.23": {
+    "abstract": "Paraconsistent logics constitute an important class of formalisms dealing with non-trivial reasoning from inconsistent premisses. In this paper, we introduce uniform axiomatisations for a family of nonmonotonic paraconsistent logics based on minimal inconsistency in terms of sequent-type proof systems. The latter are prominent and widely-used forms of calculi well-suited for analysing proof search. In particular, we provide sequent-type calculi for Priest's three-valued minimally inconsistent logic of paradox, and for four-valued paraconsistent inference relations due to Arieli and Avron. Our calculi follow the sequent method first introduced in the context of nonmonotonic reasoning by Bonatti and Olivetti, whose distinguishing feature is the use of a so-called rejection calculus for axiomatising invalid formulas. In fact, we present a general method to obtain sequent systems for any many-valued logic based on minimal inconsistency, yielding the calculi for the logics of Priest and of Arieli and Avron as special instances.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://arxiv.org/abs/2009.10246v1"
+  },
+  "10.4204/eptcs.325.28": {
+    "abstract": "We propose an approach to the definition of microservices with an Answer Set Programming (ASP) `core', where microservices are a successful abstraction for designing distributed applications as suites of independently deployable interacting components. Such ASP-based components might be employed in distributed architectures related to Cloud Computing or to the Internet of Things (IoT).",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://arxiv.org/abs/2009.10250v1"
+  },
+  "10.4204/eptcs.325.39": {
+    "abstract": "In this research summary we present our recent work on implementing functional patterns with inverse functions in the lazy functional-logic programming language Curry. Our goal is the synthesis of the inverse of any given function in Curry itself. The setting of a functional-logic language especially allows the inversion of non-injective functions. In general, inverse computation is a non-trivial problem in lazy programming languages due to their non-strict semantics. We are so far able to directly derive the inverse function for a limited class of functions, namely those consisting of rules that do not involve both extra variables and non-linear right-hand sides. Because the synthesized definitions are based on standard code, known optimizations techniques can be applied to them. For all other functions we can still provide an inverse function by using non-strict unification.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://arxiv.org/abs/2009.10254v1"
+  },
+  "10.4204/eptcs.345.10": {
+    "abstract": "",
+    "abstract_source": "not_found",
+    "error": "",
+    "resolved_url": "https://arxiv.org/html/2109.07914"
+  },
+  "10.4204/eptcs.345.12": {
+    "abstract": "Hybrid probabilistic logic programs can represent several scenarios thanks to the expressivity of Logic Programming extended with facts representing discrete and continuous distributions. The semantics for this type of programs is crucial since it ensures that a probability can be assigned to every query. Here, following one recent semantics proposal, we illustrate a concrete syntax, and we analyse the syntactic requirements needed to preserve the well-definedness.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://arxiv.org/abs/2109.08283v1"
+  },
+  "10.4204/eptcs.345.17": {
+    "abstract": "Most known results on avoiding the occur-check are based on the notion of \"not subject to occur-check\" (NSTO). It means that unification is performed only on such pairs of atoms for which the occur-check never succeeds in any run of a nondeterministic unification algorithm. Here we show that this requirement is too strong. We show how to weaken it, and present some related sufficient conditions under which the occur-check may be safely omitted. We show examples for which the proposed approach provides more general results than the approaches based on well-moded and nicely moded programs (this includes cases to which the latter approaches are inapplicable).",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://arxiv.org/abs/2109.08278v1"
+  },
+  "10.4204/eptcs.345.19": {
+    "abstract": "Weighted knowledge bases for description logics with typicality have been recently considered under a \"concept-wise\" multipreference semantics (in both the two-valued and fuzzy case), as the basis of a logical semantics of Multilayer Perceptrons. In this paper we consider weighted conditional EL^bot knowledge bases in the two-valued case, and exploit ASP and asprin for encoding concept-wise multipreference entailment for weighted KBs with integer weights.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://arxiv.org/abs/2109.08286v1"
+  },
+  "10.4204/eptcs.345.40": {
+    "abstract": "The multi-agent path finding (MAPF) problem is a combinatorial search problem that aims at finding paths for multiple agents (e.g., robots) in an environment (e.g., an autonomous warehouse) such that no two agents collide with each other, and subject to some constraints on the lengths of paths. The real-world applications of MAPF require flexibility (e.g., solving variations of MAPF) as well as explainability. In this study, both of these challenges are addressed and some flexible and explainable solutions for MAPF and its variants are introduced.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://arxiv.org/abs/2109.08299v1"
+  },
+  "10.4204/eptcs.364.24": {
+    "abstract": "",
+    "abstract_source": "not_found",
+    "error": "",
+    "resolved_url": "https://arxiv.org/html/2208.02685"
+  },
+  "10.4204/eptcs.364.37": {
+    "abstract": "Avoiding congestion and controlling traffic in urban scenarios is becoming nowadays of paramount importance due to the rapid growth of our cities' population and vehicles. The effective control of urban traffic as a means to mitigate congestion can be beneficial in an economic, environmental and health way. In this paper, a framework which allows to efficiently simulate and optimize traffic flow in a large roads' network with hundreds of vehicles is presented. The framework leverages on an Answer Set Programming (ASP) encoding to formally describe the movements of vehicles inside a network. Taking advantage of the ability to specify optimization constraints in ASP and the off-the-shelf solver Clingo, it is then possible to optimize the routes of vehicles inside the network to reduce a range of relevant metrics (e.g., travel times or emissions). Finally, an analysis on real-world traffic data is performed, utilizing the state-of-the-art Urban Mobility Simulator (SUMO) to keep track of the state of the network, test the correctness of the solution and to prove the efficiency and capabilities of the presented solution.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://arxiv.org/abs/2208.03097v1"
+  },
+  "10.4204/eptcs.385.16": {
+    "abstract": "Automatic static cost analysis infers information about the resources used by programs without actually running them with concrete data, and presents such information as functions of input data sizes. Most of the analysis tools for logic programs (and other languages) are based on setting up recurrence relations representing (bounds on) the computational cost of predicates, and solving them to find closed-form functions that are equivalent to (or a bound on) them. Such recurrence solving is a bottleneck in current tools: many of the recurrences that arise during the analysis cannot be solved with current solvers, such as Computer Algebra Systems (CASs), so that specific methods for different classes of recurrences need to be developed. We address such a challenge by developing a novel, general approach for solving arbitrary, constrained recurrence relations, that uses machine-learning sparse regression techniques to guess a candidate closed-form function, and a combination of an SMT-solver and a CAS to check whether such function is actually a solution of the recurrence. We have implemented a prototype and evaluated it with recurrences generated by a cost analysis system (the one in CiaoPP). The experimental results are quite promising, showing that our approach can find closed-form solutions, in a reasonable time, for classes of recurrences that cannot be solved by such a system, nor by current CASs.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://arxiv.org/abs/2309.07259v1"
+  },
+  "10.4204/eptcs.385.50": {
+    "abstract": "This paper presents a framework for enforcing penalties on intelligent agents that do not comply with authorization or obligation policies in a changing environment. A framework is proposed to represent and reason about penalties in plans, and an algorithm is proposed to penalize an agent's actions based on their level of compliance with respect to authorization and obligation policies. Being aware of penalties an agent can choose a plan with a minimal total penalty, unless there is an emergency goal like saving a human's life. The paper concludes that this framework can reprimand insubordinate agents.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://arxiv.org/abs/2309.04487v1"
+  },
+  "10.4204/eptcs.416.17": {
+    "abstract": "Metamodeling refers to scenarios in ontologies in which classes and roles can be members of classes or occur in roles. This is a desirable modelling feature in several applications, but allowing it without restrictions is problematic for several reasons, mainly because it causes undecidability. Therefore, practical languages either forbid metamodeling explicitly or treat occurrences of classes as instances to be semantically different from other occurrences, thereby not allowing metamodeling semantically. Several extensions have been proposed to provide metamodeling to some extent. Building on earlier work that reduces metamodeling query answering to Datalog query answering, recently reductions to query answering over hybrid knowledge bases were proposed with the aim of using the Datalog transformation only where necessary. Preliminary work showed that the approach works, but the hoped-for performance improvements were not observed yet. In this work we expand on this body of work by improving the theoretical basis of the reductions and by using alternative tools that show competitive performance.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://arxiv.org/abs/2502.09206v1"
+  },
+  "10.4204/eptcs.416.34": {
+    "abstract": "We have focused on Answer Set Programming (ASP), more specifically, answer set counting, exploring both exact and approximate methodologies. We developed an exact ASP counter, sharpASP, which utilizes a compact encoding for propositional formulas, significantly enhancing efficiency compared to existing methods that often struggle with inefficient encodings. Our evaluations indicate that sharpASP outperforms current ASP counters on several benchmarks. In addition, we proposed an approximate ASP counter, named ApproxASP, a hashing-based counter integrating Gauss-Jordan elimination within the ASP solver, clingo. As a practical application, we employed ApproxASP for network reliability estimation, demonstrating superior performance over both traditional reliability estimators and #SAT-based methods.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://arxiv.org/abs/2502.09231v1"
+  },
+  "10.4204/eptcs.439.3": {
+    "abstract": "Given an unsatisfiable formula, understanding the core reason for unsatisfiability is crucial in several applications. One effective way to capture this is through the minimal unsatisfiable subset (MUS), the subset-minimal set of clauses that remains unsatisfiable. Current research broadly focuses on two directions: (i) enumerating as many MUSes as possible within a given time limit, and (ii) counting the total number of MUSes for a given unsatisfiable formula. In this paper, we introduce an answer set programming-based framework, named MUS-ASP, designed for online enumeration of MUSes. ASP is a powerful tool for its strengths in knowledge representation and is particularly suitable for specifying complex combinatorial problems. By translating MUS enumeration into answer set solving, MUS-ASP leverages the computational efficiency of state-of-the-art ASP systems. Our extensive experimental evaluation demonstrates the effectiveness of MUS-ASP and highlights the acceleration in both MUS enumeration and counting tasks, particularly when integrated within hybrid solvers, including the framework proposed in this paper.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://arxiv.org/abs/2507.03929v2"
+  },
+  "10.4204/eptcs.439.5": {
+    "abstract": "A recent approach to neurosymbolic reasoning is to explicitly combine the strengths of large language models (LLMs) and symbolic solvers to tackle complex reasoning tasks. However, current approaches face significant limitations, including poor generalizability due to task-specific prompts, inefficiencies caused by the lack of separation between knowledge and queries, and restricted inferential capabilities. These shortcomings hinder their scalability and applicability across diverse domains. In this paper, we introduce VERUS-LM, a novel framework designed to address these challenges. VERUS-LM employs a generic prompting mechanism, clearly separates domain knowledge from queries, and supports a wide range of different logical reasoning tasks. This framework enhances adaptability, reduces computational cost, and allows for richer forms of reasoning, such as optimization and constraint satisfaction. We show that our approach succeeds in diverse reasoning on a novel dataset, markedly outperforming LLMs. Additionally, our system achieves competitive results on common reasoning benchmarks when compared to similar state-of-the-art approaches, and significantly surpasses them on the difficult AR-LSAT dataset. By pushing the boundaries of hybrid reasoning, VERUS-LM represents a significant step towards more versatile neurosymbolic AI systems.",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://arxiv.org/abs/2501.14540v3"
+  },
+  "10.4204/eptcs.439.7": {
+    "abstract": "The development of autonomous agents has seen a revival of enthusiasm due to the emergence of LLMs, such as GPT-4o. Deploying these agents in environments where they coexist with humans (e.g., as domestic assistants) requires special attention to trustworthiness and explainability. However, the use of LLMs and other deep learning models still does not resolve these key issues. Deep learning systems may hallucinate, be unable to justify their decisions as black boxes, or perform badly on unseen scenarios. In this work, we propose the use of s(CASP), a goal-directed common sense reasoner based on Answer Set Programming, to break down the high-level tasks of an autonomous agent into mid-level instructions while justifying the selection of these instructions. To validate its use in real applications we present a framework that integrates the reasoner into the VirtualHome simulator and compares its accuracy with GPT-4o, running some of the \"real\" use cases available in the domestic environments of VirtualHome. Additionally, since experiments with VirtualHome have shown the need to reduce the response time (which increases as the agent's decision space grows), we have proposed and evaluated a series of optimizations based on program analysis that exploit the advantages of the top-down execution of s(CASP).",
+    "abstract_source": "meta",
+    "error": "",
+    "resolved_url": "https://arxiv.org/abs/2505.02144v2"
+  },
+  "10.4324/9780203503881-7": {
+    "abstract": "",
+    "abstract_source": "not_found",
+    "error": "",
+    "resolved_url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203503881-7/strategy-usage-simple-reasoning-task-overview-implications-maxwell-roberts-elizabeth-newton"
+  },
+  "10.5220/0005824305320539": {
+    "abstract": "Measuring conflicts is recognized as an important issue for handling inconsistencies. Indeed, an inconsistency measure can be employed to support the knowledge engineer in building a consistent knowledge base or repairing an inconsistent one. Good measures are supposed to satisfy a set of rational properties. However, defining sound properties is sometimes problematic. In (Jabbour et al., 2014c), the authors proposed a new prime implicates based approach to identify the variables involved in the contradiction, and a refinement of the notion of minimal inconsistent subsets (MUSes) in propositional knowledge bases. In this article, we establish a bridge between the conflicting variables in knowledge bases and the three valued semantics by compiling each formula of the base into its prime implicates. We then extend hitting sets for MUSes to hitting sets of the set of deduced MUSes (DMUSes) based on prime implicates representation. This leads to an interesting family of inconsistency met",
+    "abstract_source": "html_block",
+    "error": "",
+    "resolved_url": "https://www.scitepress.org/Link.aspx?doi=10.5220/0005824305320539"
+  },
+  "10.5220/0006702404630474": {
+    "abstract": "With the considerable advancement of technologies and the proliferation of mobile devices, evaluating the usability of software applications has become an emerging research area. Hence, improving the quality of software applications is crucial in context-aware environments. For that reason an increasing attention is drawn towards the development and the adoption of appropriate research proposals able to evaluate the mobile application usability. This article is a contribution to proposing a methodology for the development of context-aware systems based on usability requirements during the user interface design stage. In particular, this approach focuses on how to infer consistent context-based usability requirements and how to incorporate these requirements into a user interface development process. As a proof of the proposal concept, we have applied our methodology to an illustrative case study. More, experiments with end users have been carried out.",
+    "abstract_source": "html_block",
+    "error": "",
+    "resolved_url": "https://www.scitepress.org/Link.aspx?doi=10.5220/0006702404630474"
+  },
+  "10.70675/6bc651c8ze78bz45dez9b34z8fe4450cb7ac": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>",
+    "resolved_url": "https://doi.org/10.70675/6bc651c8ze78bz45dez9b34z8fe4450cb7ac"
+  },
+  "10.7551/mitpress/4316.003.0033": {
+    "abstract": "",
+    "abstract_source": "error",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "resolved_url": "https://doi.org/10.7551/mitpress/4316.003.0033"
+  }
+}

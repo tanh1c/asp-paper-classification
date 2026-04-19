@@ -1,0 +1,4 @@
+id,from,to,reason,title,venue,year,doi
+26,1,5,038_2 and abstract model agreed against 038_8; user leaderboard test improved.,Research Report on Automatic Synthesis of Local Search Neighborhood Operators.,iclp,2019,10.4204/eptcs.306.59
+17,2,4,038_2 and abstract model agreed against 038_8; user leaderboard test improved.,asymptoticplp: Approximating probabilistic logic programs on large domains.,iclp,2023,10.1017/s1471068425100161
+260,5,4,038_2 and abstract model agreed against 038_8; user leaderboard test improved.,A Semantics For Probabilistic Answer Set Programs With Incomplete Stochastic Knowledge.,iclp,2022,10.1201/9781003427421-6
