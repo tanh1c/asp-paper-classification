@@ -16,7 +16,7 @@ warnings.filterwarnings('ignore')
 ROOT_DIR = Path(__file__).resolve().parent.parent
 SOI_DIR = Path(__file__).resolve().parent
 
-train_path = SOI_DIR / "Stage_1_publcitrain_with_abstract_only (1).csv"
+train_path = SOI_DIR / "Stage_1_publcitrain_with_abstract_plus_verified_test.csv"
 test_path = ROOT_DIR / 'dataset_stage1' / 'test (2).csv'
 output_dir = SOI_DIR / 'best_038_outputs'
 output_dir.mkdir(parents=True, exist_ok=True)
@@ -53,12 +53,24 @@ def preprocess_data(df):
         )
     
     # Give more weight to title and venue by repeating them or just combining
+    """
     df['text'] = (
         df['title']
         + " "
         + df['venue']
         + " "
         + df['authors']
+        + " "
+        + df['year']
+        + " "
+        + df['abstract_status']
+    )
+    """
+    
+    df['text'] = (
+        df['title']
+        + " "
+        + df['venue']
         + " "
         + df['year']
         + " "
