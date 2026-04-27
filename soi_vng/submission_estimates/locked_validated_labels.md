@@ -1,7 +1,0 @@
-# Locked Validated Label Tracking
-
-| id | title | venue | year | doi | label_original_038_8 | label_robust_intermediate | label_current_locked | decision | notes |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 17 | asymptoticplp: Approximating probabilistic logic programs on large domains. | iclp | 2023 | 10.1017/s1471068425100161 | 2 | 4 | 2 | do_not_change | Original 2 -> robust 4, but ablation improved when reverted to 2; current locked 2. |
-| 26 | Research Report on Automatic Synthesis of Local Search Neighborhood Operators. | iclp | 2019 | 10.4204/eptcs.306.59 | 1 | 5 | 5 | do_not_change | Original 1 -> robust 5; current locked 5. |
-| 260 | A Semantics For Probabilistic Answer Set Programs With Incomplete Stochastic Knowledge. | iclp | 2022 | 10.1201/9781003427421-6 | 5 | 4 | 5 | do_not_change | Original 5 -> robust 4, but ablation improved strongly when reverted to 5; current locked 5. |

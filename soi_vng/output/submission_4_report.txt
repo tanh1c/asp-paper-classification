@@ -1,0 +1,8 @@
+Random Forest best configuration
+reference=C:\project\asp-paper-classification\soi_vng\output\submission_3.csv
+output=C:\project\asp-paper-classification\soi_vng\output\submission_4.csv
+match=80/86
+match_rate=0.930233
+text_variant=prefixed_original
+vectorizer=word_1_2_5k
+postprocess=reference_venue_year_quota

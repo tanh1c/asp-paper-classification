@@ -1,4 +1,0 @@
-logistic_elasticnet: 0.85
-calibrated_linear_svc: 0.15
-chi2_linear_svc: 0.00
-boosting: 0.00

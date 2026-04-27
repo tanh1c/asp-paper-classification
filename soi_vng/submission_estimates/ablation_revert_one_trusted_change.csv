@@ -1,4 +1,0 @@
-file,id,title,robust_label,reverted_to_original_label,test_meaning
-submission_ablation_revert_id26_to_original_1.csv,26,Research Report on Automatic Synthesis of Local Search Neighborhood Operators.,5,1,"If this scores lower than robust baseline, id 26: 1->5 is likely beneficial."
-submission_ablation_revert_id17_to_original_2.csv,17,asymptoticplp: Approximating probabilistic logic programs on large domains.,4,2,"If this scores lower than robust baseline, id 17: 2->4 is likely beneficial."
-submission_ablation_revert_id260_to_original_5.csv,260,A Semantics For Probabilistic Answer Set Programs With Incomplete Stochastic Knowledge.,4,5,"If this scores lower than robust baseline, id 260: 5->4 is likely beneficial."
