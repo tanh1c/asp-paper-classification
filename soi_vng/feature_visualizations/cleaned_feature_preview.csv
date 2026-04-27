@@ -1,0 +1,511 @@
+title_clean,venue_clean,authors_raw,authors_parsed,authors_is_missing,doi_clean,doi_prefix,doi_suffix_head,doi_suffix_head_missing,Label
+tabled clp for reasoning over stream data.,iclp,"Edmond Jajaga, Lule Ahmedi",edmond jajaga | lule ahmedi,0,10.1109/icsc.2017.64,10.1109,icsc,0,1
+xai-law: a logic programming tool for modeling explaining and learning legal decisions.,iclp,"Agostino Dovier, Talissa Dreossi, Andrea Formisano, Benedetta Strizzolo",agostino dovier | talissa dreossi | andrea formisano | benedetta strizzolo,0,10.4204/eptcs.439.28,10.4204,eptcs,0,5
+workshop proceedings of the 40th international conference on logic programming iclp-ws 2024 co-located with the 40th international conference on logic programming iclp 2024 dallas tx usa october 12th and 13th 2024.,iclp,"Esteban Guerrero, Juan Carlos Nieves",esteban guerrero | juan carlos nieves,0,10.1007/978-3-031-74209-5 21,10.1007,,1,1
+probabilistic active goal recognition.,kr,"Chenyuan Zhang, Cristian Rojas Cardenas, Hamid Rezatofighi, Mor Vered, Buser Say",chenyuan zhang | cristian rojas cardenas | hamid rezatofighi | mor vered | buser say,0,10.24963/kr.2025/85,10.24963,kr,0,5
+heuristic strategies for accelerating multi-agent epistemic planning.,kr,"Biqing Fang, Fangzhen Lin",biqing fang | fangzhen lin,0,10.24963/kr.2024/32,10.24963,kr,0,1
+succinctness and complexity of alc with counting perceptrons.,kr,"Pietro Galliani, Oliver Kutz, Nicolas Troquard",pietro galliani | oliver kutz | nicolas troquard,0,10.24963/kr.2023/29,10.24963,kr,0,3
+action languages and covid-19: lessons learned.,iclp,,,1,10.1515/9781503629882-011,10.1515,,1,2
+flexible lifelong explainable and robust solutions for multi-agent path finding problems.,iclp,Aysu Bogatarkan,aysu bogatarkan,0,10.1609/aaai.v40i48.42143,10.1609,aaai,0,4
+planning domain model acquisition from state traces without action parameters.,kr,"Tomáš Balyo, Martin Suda, Lukáš Chrpa, Dominik Šafránek, Stephan Gocht, Filip Dvořák, Roman Barták, G. Michael Youngblood",tom balyo | martin suda | luk chrpa | dominik afr nek | stephan gocht | filip dvo k | roman bart k | g. michael youngblood,0,10.24963/kr.2024/76,10.24963,kr,0,1
+chrvis: syntax and semantics.,iclp,,,1,10.1016/s0092-4563 08 36021-8,10.1016,s,0,1
+exploring neurosymbolic systems in answer set programming with an application to waste water monitoring.,iclp,"Steffen Schieweck, Gabriele Kern-Isberner, Michael ten Hompel",steffen schieweck | gabriele kern-isberner | michael ten hompel,0,10.5220/0006489300250034,10.5220,,1,5
+on simple expectations and observations of intelligent agents: a complexity study.,kr,"Sourav Chakraborty, Avijeet Ghosh, Sujata Ghosh, François Schwarzentruber",sourav chakraborty | avijeet ghosh | sujata ghosh | fran ois schwarzentruber,0,10.24963/kr.2023/14,10.24963,kr,0,4
+proceedings 38th international conference on logic programming iclp 2022 technical communications / doctoral consortium haifa israel 31st july 2022 - 6th august 2022.,iclp,,,1,10.1007/978-3-031-26622-5,10.1007,,1,1
+testing of concurrent programs.,iclp,Valerio Terragni,valerio terragni,0,10.14711/thesis-b1778938,10.14711,thesis,0,1
+determining action reversibility in strips using answer set programming.,iclp,"WOLFGANG FABER, MICHAEL MORAK, LUKÁŠ CHRPA",wolfgang faber | michael morak | luk chrpa,0,10.1017/s1471068421000429,10.1017,s,0,3
+domain-independent instance generation for classical planning.,kr,"Claudia Grundke, Malte Helmert, Gabriele Röger",claudia grundke | malte helmert | gabriele r ger,0,10.24963/kr.2025/77,10.24963,kr,0,5
+on teaching constraint-based modeling and algorithms for decision support in prolog.,iclp,"Huaiqing Wang, Stephen Liao, Lejian Liao",huaiqing wang | stephen liao | lejian liao,0,10.1016/s0167-9236 01 00138-5,10.1016,s,0,4
+relational graph convolutional networks do not learn sound rules.,kr,"Matthew Morris, David J. Tena Cucala, Bernardo Cuenca Grau, Ian Horrocks",matthew morris | david j. tena cucala | bernardo cuenca grau | ian horrocks,0,10.24963/kr.2024/84,10.24963,kr,0,4
+on the correspondence between monotonic max-sum gnns and datalog.,kr,"David Tena Cucala, Bernardo Cuenca Grau, Boris Motik, Egor V. Kostylev",david tena cucala | bernardo cuenca grau | boris motik | egor v. kostylev,0,10.24963/kr.2023/64,10.24963,kr,0,4
+contracted temporal equilibrium logic.,kr,"Pedro Cabalar, Thomas Eiter, Davide Soldà",pedro cabalar | thomas eiter | davide sold,0,10.24963/kr.2024/21,10.24963,kr,0,3
+improving candidate quality of probabilistic logic models.,iclp,Alex M. Andrew,alex m. andrew,0,10.1108/k.2000.06729iae.003,10.1108,k,0,3
+extracting policies from quantified answer set programs.,iclp,"Martín Diéguez, Igor Stéphan",mart n di guez | igor st phan,0,10.4204/eptcs.439.16,10.4204,eptcs,0,5
+on combining collective entity resolution and repairing extended abstract .,kr,"Meghyn Bienvenu, Gianluca Cima, Víctor Gutiérrez-Basulto",meghyn bienvenu | gianluca cima | v ctor guti rrez-basulto,0,10.24963/ijcai.2023/349,10.24963,ijcai,0,3
+navigating and querying answer sets: how hard is it really and why,kr,"Dominik Rusovac, Markus Hecher, Martin Gebser, Sarah Alice Gaggl, Johannes K. Fichte",dominik rusovac | markus hecher | martin gebser | sarah alice gaggl | johannes k. fichte,0,10.24963/kr.2024/60,10.24963,kr,0,5
+explanations for unrealizability of infinite-state safety shields.,kr,"Andoni Rodríguez, Irfansha Shaik, Davide Corsi, Roy Fox, César Sánchez",andoni rodr guez | irfansha shaik | davide corsi | roy fox | c sar s nchez,0,10.24963/kr.2025/83,10.24963,kr,0,2
+emerson-lei and manna-pnueli games for ltlf+ and ppltl+ synthesis.,kr,"Daniel Hausmann, Shufang Zhu, Gianmarco Parretti, Christoph Weinhuber, Giuseppe De Giacomo, Nir Piterman",daniel hausmann | shufang zhu | gianmarco parretti | christoph weinhuber | giuseppe de giacomo | nir piterman,0,10.24963/kr.2025/78,10.24963,kr,0,1
+commonsense reasoning-aided autonomous vehicle systems.,iclp,Keegan Kimbrell,keegan kimbrell,0,10.4204/eptcs.416.36,10.4204,eptcs,0,1
+precise exponential-time complexity of non-monotonic reasoning.,iclp,Georg Gottlob,georg gottlob,0,10.7551/mitpress/4307.003.0022,10.7551,mitpress,0,3
+semantically guided scene generation via contextual reasoning and algebraic measures.,iclp,Wenhao Ding,wenhao ding,0,10.1109/tits.2024.3510515/mm1,10.1109,tits,0,2
+cumulative scoring-based induction of default theories.,iclp,,,1,10.1002/eng2.70433/v1/review2,10.1002,eng,0,1
+theory revision with goal-directed asp.,iclp,,,1,10.1017/cbo9781107257115.023,10.1017,cbo,0,5
+lazy stream programming in prolog.,iclp,"Paul Tarau, Jan Wielemaker, Tom Schrijvers",paul tarau | jan wielemaker | tom schrijvers,0,10.4204/eptcs.306.26,10.4204,eptcs,0,4
+asp chef: draw and expand.,kr,"Mario Alviano, Luis Angel Rodriguez Reiners",mario alviano | luis angel rodriguez reiners,0,10.24963/kr.2024/68,10.24963,kr,0,5
+product configuration in answer set programming.,iclp,Seemran Mishra,seemran mishra,0,10.4204/eptcs.345.46,10.4204,eptcs,0,4
+an implementation of a non-monotonic logic in an embedded computer for a motor-glider.,iclp,"José Luis Vilchis Medina, Pierre Siegel, Vincent Risch, Andrei Doncescu",jos luis vilchis medina | pierre siegel | vincent risch | andrei doncescu,0,10.4204/eptcs.306.37,10.4204,eptcs,0,2
+aspmc: an algebraic answer set counter.,iclp,"Thomas Eiter, Markus Hecher, Rafael Kiesel",thomas eiter | markus hecher | rafael kiesel,0,10.1016/j.artint.2024.104109,10.1016,j,0,3
+a category-theoretic perspective on approximation fixpoint theory.,iclp,Samuele Pollaci,samuele pollaci,0,10.4204/eptcs.416.37,10.4204,eptcs,0,4
+dialectical reconciliation via structured argumentative dialogues.,kr,"Stylianos Loukas Vasileiou, Ashwin Kumar, William Yeoh, Tran Cao Son, Francesca Toni",stylianos loukas vasileiou | ashwin kumar | william yeoh | tran cao son | francesca toni,0,10.24963/kr.2024/73,10.24963,kr,0,1
+exploring digital twins integration with asp and asp chef.,iclp,Fiona Rossette-Crake,fiona rossette-crake,0,10.4000/15c2h,10.4000,c,0,4
+reasoning with restricted statistical statements in probabilistic answer set programming: complexity and algorithms.,kr,"Damiano Azzolini, Markus Hecher",damiano azzolini | markus hecher,0,10.24963/kr.2025/6,10.24963,kr,0,4
+fixpoint characterizations of disjunctive hybrid mknf knowledge bases.,iclp,"Spencer Killen, Jia-Huai You",spencer killen | jia-huai you,0,10.4204/eptcs.364.6,10.4204,eptcs,0,1
+natural language generation for non-expert users.,iclp,"Van Duc Nguyen, Tran Cao Son, Enrico Pontelli",van duc nguyen | tran cao son | enrico pontelli,0,10.4204/eptcs.306.33,10.4204,eptcs,0,5
+treewidth in non-ground answer set solving and alliance problems in graphs.,iclp,"Bernhard Bliem, Michael Morak, Marius Moldovan, Stefan Woltran",bernhard bliem | michael morak | marius moldovan | stefan woltran,0,10.1613/jair.1.11515,10.1613,jair,0,2
+proceedings of the 21st international conference on principles of knowledge representation and reasoning kr 2024 hanoi vietnam. november 2-8 2024.,kr,,,1,10.24963/kr.2024,10.24963,kr,0,1
+knowledge authoring with factual english.,iclp,"Yuheng Wang, Giorgian Borca-Tasciuc, Nikhil Goel, Paul Fodor, Michael Kifer",yuheng wang | giorgian borca-tasciuc | nikhil goel | paul fodor | michael kifer,0,10.4204/eptcs.364.10,10.4204,eptcs,0,3
+explaining image classifiers.,kr,"Hana Chockler, Joseph Y. Halpern",hana chockler | joseph y. halpern,0,10.24963/kr.2024/25,10.24963,kr,0,5
+entity set expansion from the web via asp.,iclp,"Weronika Adrian, Paweł Caryk",weronika adrian | pawe caryk,0,10.5220/0010715100003058,10.5220,,1,5
+encoding choice logics in asp.,iclp,Luca Viganò,luca vigan,0,10.1007/978-1-4757-3208-5 5,10.1007,,1,4
+front matter table of contents preface conference organization.,iclp,,,1,10.1484/m.art-eb.5.138353,10.1484,m,0,1
+generalizing platform-aware mission planning for infinite-state timed transition systems.,kr,"Stefan Panjkovic, Alessandro Cimatti, Andrea Micheli, Stefano Tonetta",stefan panjkovic | alessandro cimatti | andrea micheli | stefano tonetta,0,10.24963/kr.2025/81,10.24963,kr,0,2
+bridging logic programming and deep learning for explainability through ilasp.,iclp,Talissa Dreossi,talissa dreossi,0,10.4204/eptcs.416.31,10.4204,eptcs,0,5
+total preorders vs ranking functions under belief revision - the dynamics of empty layers.,kr,"Gabriele Kern-Isberner, Alexander Hahn, Jonas Haldimann, Christoph Beierle",gabriele kern-isberner | alexander hahn | jonas haldimann | christoph beierle,0,10.24963/kr.2024/47,10.24963,kr,0,2
+asp chef creates surveys.,iclp,,,1,10.1002/fsat.3101 6.x,10.1002,fsat,0,3
+answer set programming with epistemic defaults.,iclp,,,1,10.1017/cbo9781139342124.006,10.1017,cbo,0,4
+dynamic multi-agent path finding based on conflict resolution using answer set programming.,iclp,"Basem Atiq, Volkan Patoglu, Esra Erdem",basem atiq | volkan patoglu | esra erdem,0,10.4204/eptcs.325.27,10.4204,eptcs,0,5
+causally constrained counterfactual generation using asp.,iclp,Sopam Dasgupta,sopam dasgupta,0,10.4204/eptcs.416.30,10.4204,eptcs,0,4
+group responsibility for exceeding risk threshold.,kr,"Maksim Gladyshev, Natasha Alechina, Mehdi Dastani, Dragan Doder",maksim gladyshev | natasha alechina | mehdi dastani | dragan doder,0,10.24963/kr.2023/32,10.24963,kr,0,4
+a new proof-theoretical linear semantics for chr.,iclp,Arnon Avron,arnon avron,0,10.1016/0304-3975 88 90037-0,10.1016,,1,3
+legal compliance checking of autonomous driving with formalized traffic rule exceptions.,iclp,xi zheng,xi zheng,0,10.1109/tse.2025.3569086/mm1,10.1109,tse,0,2
+assumable answer set programming.,iclp,,,1,10.1017/cbo9781139342124.007,10.1017,cbo,0,5
+induction of non-monotonic logic programs to explain statistical learning models.,iclp,Farhad Shakerin,farhad shakerin,0,10.4204/eptcs.306.51,10.4204,eptcs,0,2
+the simple generative logic grammar: a tool for teaching logical thinking through visual research in art and design.,iclp,Susanna Berger,susanna berger,0,10.23943/princeton/9780691172279.003.0002,10.23943,princeton,0,5
+tools and methodologies for verifying answer set programs.,iclp,Zach Hansen,zach hansen,0,10.4204/eptcs.364.36,10.4204,eptcs,0,5
+lad-based feature selection for optimal decision trees and other classifiers.,kr,"David Ing, Said Jabbour, Lakhdar Sais, Fabien Delorme",david ing | said jabbour | lakhdar sais | fabien delorme,0,10.24963/kr.2024/81,10.24963,kr,0,1
+international conference on logic programming 2020 workshop proceedings co-located with 36th international conference on logic programming iclp 2020 rende italy september 18-19 2020.,iclp,"Francesco Ricca, Alessandra Russo",francesco ricca | alessandra russo,0,10.1017/s1471068420000149,10.1017,s,0,1
+automata techniques for temporal answer set programming.,iclp,Susana Hahn,susana hahn,0,10.4204/eptcs.345.42,10.4204,eptcs,0,5
+quot would life be more interesting if i were in ai quot answering counterfactuals based on probabilistic inductive logic programming.,iclp,"Kilian Rückschloß, Felix Weitkämper",kilian r ckschlo | felix weitk mper,0,10.4204/eptcs.385.7,10.4204,eptcs,0,5
+an experiment with llm in contract extraction.,kr,,,1,10.1088/2632-2153/ae2381/data7,10.1088,ae,0,3
+determining action reversibility in strips using epistemic logic programs.,iclp,"WOLFGANG FABER, MICHAEL MORAK, LUKÁŠ CHRPA",wolfgang faber | michael morak | luk chrpa,0,10.1017/s1471068421000429,10.1017,s,0,1
+proceedings of the international conference on logic programming 2023 workshops co-located with the 39th international conference on logic programming iclp 2023 london united kingdom july 9th and 10th 2023.,iclp,"Ralph Butler, Ewing Lusk, William McCune, Ross Overbeek",ralph butler | ewing lusk | william mccune | ross overbeek,0,10.1007/3-540-16492-8 88,10.1007,,1,1
+run-based semantics for rpqs.,kr,"Claire David, Nadime Francis, Victor Marsault",claire david | nadime francis | victor marsault,0,10.24963/kr.2023/18,10.24963,kr,0,1
+a temporal module for logical frameworks.,iclp,"Valentina Pitoni, Stefania Costantini",valentina pitoni | stefania costantini,0,10.4204/eptcs.306.40,10.4204,eptcs,0,4
+how to split a logic program.,iclp,Rachel Ben-Eliyahu-Zohary,rachel ben-eliyahu-zohary,0,10.4204/eptcs.345.13,10.4204,eptcs,0,4
+ltl model checking using coinductive answer set programming.,iclp,"Lingyun Situ, Lingzhong Zhao",lingyun situ | lingzhong zhao,0,10.1109/apsec.2015.16,10.1109,apsec,0,4
+a dataflow analysis for comparing and reordering predicate arguments.,iclp,"Gonzague Yernaux, Wim Vanhoof",gonzague yernaux | wim vanhoof,0,10.4204/eptcs.385.5,10.4204,eptcs,0,2
+do repeat yourself: understanding sufficient conditions for restricted chase non-termination.,kr,"Lukas Gerlach, David Carral",lukas gerlach | david carral,0,10.24963/kr.2023/30,10.24963,kr,0,2
+reasoning about medical triage optimization with logic programming.,iclp,"Jaikrishna Manojkumar Patil, Adam Chapman, Richard Knuszka, John Chapman, Paulo Shakarian",jaikrishna manojkumar patil | adam chapman | richard knuszka | john chapman | paulo shakarian,0,10.4204/eptcs.439.22,10.4204,eptcs,0,3
+investigating the grounding bottleneck for a large-scale configuration problem: existing tools and constraint-aware guessing.,iclp,"Veronika Semmelrock, Gerhard Friedrich",veronika semmelrock | gerhard friedrich,0,10.4204/eptcs.439.33,10.4204,eptcs,0,1
+solving unification in the description logic fl bottom.,kr,"Franz Baader, Pavlos Marantidis, Alexander Okhotin",franz baader | pavlos marantidis | alexander okhotin,0,10.25368/2022.228,10.25368,,1,1
+a comparative study of text representations for french real-estate classified advertisements information extraction.,kr,"Lien Vi Pham, Son Bao Pham",lien vi pham | son bao pham,0,10.1109/kse.2012.27,10.1109,kse,0,2
+contestable ai needs computational argumentation.,kr,"Francesco Leofante, Hamed Ayoobi, Adam Dejl, Gabriel Freedman, Deniz Gorur, Junqi Jiang, Guilherme Paulino-Passos, Antonio Rago, Anna Rapberger, Fabrizio Russo, Xiang Yin, Dekai Zhang, Francesca Toni",francesco leofante | hamed ayoobi | adam dejl | gabriel freedman | deniz gorur | junqi jiang | guilherme paulino-passos | antonio rago | anna rapberger | fabrizio russo | xiang yin | dekai zhang | francesca toni,0,10.24963/kr.2024/83,10.24963,kr,0,3
+description logics with abstraction and refinement: from alc to el.,kr,"Carsten Lutz, Lukas Schulze",carsten lutz | lukas schulze,0,10.24963/kr.2024/51,10.24963,kr,0,4
+sampling and probabilistic inference in d/slps.,iclp,"Adam Sanborn, Jian-Qiao Zhu, Jake Spicer, Joakim Sundh, Pablo León-Villagrá, Nick Chater",adam sanborn | jian-qiao zhu | jake spicer | joakim sundh | pablo le n-villagr | nick chater,0,10.1093/oso/9780198862536.003.0021,10.1093,oso,0,4
+distributed answer set coloring: stable models computation via graph coloring.,iclp,Marco De Bortoli,marco de bortoli,0,10.4204/eptcs.306.60,10.4204,eptcs,0,3
+counting solutions under cardinality constraints: structure counts in counting.,kr,"Max Bannach, Markus Hecher",max bannach | markus hecher,0,10.24963/kr.2025/8,10.24963,kr,0,1
+google vs ibm: a constraint solving challenge on the job-shop scheduling problem.,iclp,"Giacomo Da Col, Erich Teppan",giacomo da col | erich teppan,0,10.4204/eptcs.306.30,10.4204,eptcs,0,4
+an analysis of the role of syntax in inductive inference.,kr,"Jesse Heyninck, Richard Booth, Thomas Meyer, Lars-Phillip Spiegel",jesse heyninck | richard booth | thomas meyer | lars-phillip spiegel,0,10.24963/kr.2025/39,10.24963,kr,0,3
+ce-qarg: counterfactual explanations for quantitative bipolar argumentation frameworks.,kr,"Xiang Yin, Nico Potyka, Francesca Toni",xiang yin | nico potyka | francesca toni,0,10.24963/kr.2024/66,10.24963,kr,0,1
+introspecting preferences in answer set programming.,iclp,,,1,10.1017/cbo9781139342124.007,10.1017,cbo,0,4
+modelling and verification of timed systems with the event calculus and s casp .,iclp,,,1,10.1017/cbo9780511814105.011,10.1017,cbo,0,2
+apia: an architecture for policy-aware intentional agents.,iclp,"John Meyer, Daniela Inclezan",john meyer | daniela inclezan,0,10.4204/eptcs.345.23,10.4204,eptcs,0,1
+design of a solver for multi-agent epistemic planning.,iclp,Francesco Fabiano,francesco fabiano,0,10.4204/eptcs.306.54,10.4204,eptcs,0,2
+computational methods for dynamic answer set programming.,iclp,Susana Hahn,susana hahn,0,10.4204/eptcs.416.32,10.4204,eptcs,0,5
+graph based answer set programming solver systems.,iclp,Fang Li,fang li,0,10.4204/eptcs.345.44,10.4204,eptcs,0,5
+splitting a hybrid asp program.,iclp,Alex Brik,alex brik,0,10.4204/eptcs.325.8,10.4204,eptcs,0,5
+logical foundations of smart contracts.,iclp,Kalonji Kalala,kalonji kalala,0,10.4204/eptcs.416.35,10.4204,eptcs,0,3
+pushdown reward machines for reinforcement learning.,kr,"Giovanni Varricchione, Toryn Q. Klassen, Natasha Alechina, Mehdi Dastani, Brian Logan, Sheila A. McIlraith",giovanni varricchione | toryn q. klassen | natasha alechina | mehdi dastani | brian logan | sheila a. mcilraith,0,10.24963/kr.2025/55,10.24963,kr,0,3
+beyond logic programming for legal reasoning.,iclp,Francesca Toni,francesca toni,0,10.1007/978-3-319-61660-5 4,10.1007,,1,5
+proceedings 41st international conference on logic programming iclp 2025 rende italy 12-19th september 2025.,iclp,Paul Tarau,paul tarau,0,10.1007/978-3-032-04848-6 13,10.1007,,1,1
+operationalizing declarative and procedural knowledge: a benchmark on logic programming petri nets lppns .,iclp,Guanjun Liu,guanjun liu,0,10.1007/978-981-19-6309-4 6,10.1007,,1,5
+enhancing compilation-based asp solving with postponed atom discovery.,iclp,"Andrea Cuteri, Giuseppe Mazzotta, Francesco Ricca",andrea cuteri | giuseppe mazzotta | francesco ricca,0,10.4204/eptcs.439.14,10.4204,eptcs,0,5
+preferential reasoning with typicality in asp over weighted argumentation graphs in a gradual semantics.,iclp,"Mario Alviano, Laura Giordano, Daniele Theseider Dupré",mario alviano | laura giordano | daniele theseider dupr,0,10.3233/ia-240031,10.3233,ia,0,2
+adapting approximation fixpoint theory to nondeterministic hybrid reasoning.,iclp,"Spencer Killen, Jia-Huai You, Jesse Heyninck",spencer killen | jia-huai you | jesse heyninck,0,10.1609/aaai.v39i14.33648,10.1609,aaai,0,1
+llasp: fine-tuning large language models for answer set programming.,kr,"Erica Coppolillo, Francesco Calimeri, Giuseppe Manco, Simona Perri, Francesco Ricca",erica coppolillo | francesco calimeri | giuseppe manco | simona perri | francesco ricca,0,10.24963/kr.2024/78,10.24963,kr,0,5
+fastfound: easing the asp bottleneck via predicate-decoupled grounding.,kr,"Alexander Beiser, Martin Gebser, Markus Hecher, Stefan Woltran",alexander beiser | martin gebser | markus hecher | stefan woltran,0,10.24963/kr.2025/10,10.24963,kr,0,1
+automated playing of survival video games with commonsense reasoning.,iclp,"Bryant Hargreaves, Dan N. Nguyen, Keegan Krimbell, Gopal Gupta",bryant hargreaves | dan n. nguyen | keegan krimbell | gopal gupta,0,10.1007/978-3-031-84924-4 7,10.1007,,1,4
+a framework for combining entity resolution and query answering in knowledge bases.,kr,"Ronald Fagin, Phokion G. Kolaitis, Domenico Lembo, Lucian Popa, Federico Scafoglieri",ronald fagin | phokion g. kolaitis | domenico lembo | lucian popa | federico scafoglieri,0,10.24963/kr.2023/23,10.24963,kr,0,3
+relating answer set programming and many-sorted logics for formal verification.,iclp,Zachary Hansen,zachary hansen,0,10.4204/eptcs.416.33,10.4204,eptcs,0,5
+methods for solving extremal problems in practice.,iclp,,,1,10.1007/978-0-585-29602-9 6,10.1007,,1,1
+categorical explaining functors: ensuring coherence in logical explanations.,kr,"Stefano Fioravanti, Francesco Giannini, Pietro Barbiero, Paolo Frazzetto, Roberto Confalonieri, Fabio Zanasi, Nicolò Navarin",stefano fioravanti | francesco giannini | pietro barbiero | paolo frazzetto | roberto confalonieri | fabio zanasi | nicol navarin,0,10.24963/kr.2025/30,10.24963,kr,0,5
+answer set counting and its applications to network reliability and system biology.,iclp,Mohimenul Kabir,mohimenul kabir,0,10.4204/eptcs.416.34,10.4204,eptcs,0,4
+enhancing linear algebraic computation of logic programs using sparse representation.,iclp,"Tuan Quoc Nguyen, Katsumi Inoue, Chiaki Sakama",tuan quoc nguyen | katsumi inoue | chiaki sakama,0,10.1007/s00354-021-00142-2,10.1007,s,0,3
+inferring compensatory kinase networks in yeast using prolog.,iclp,"George A. Elder, Conrad Bessant",george a. elder | conrad bessant,0,10.4204/eptcs.385.26,10.4204,eptcs,0,2
+automated aggregator - rewriting with the counting aggregate.,iclp,"Michael Dingess, Miroslaw Truszczynski",michael dingess | miroslaw truszczynski,0,10.4204/eptcs.325.17,10.4204,eptcs,0,1
+the combined problem of online task assignment and lifelong path finding in logistics warehouses: a case study.,iclp,"Fengming Zhu, Weijia Xu, Yifei Guo, Fangzhen Lin",fengming zhu | weijia xu | yifei guo | fangzhen lin,0,10.4204/eptcs.439.12,10.4204,eptcs,0,1
+a human-centered data-driven planner-actor-critic architecture via logic programming.,iclp,"Daoming Lyu, Fangkai Yang, Bo Liu, Steven Gustafson",daoming lyu | fangkai yang | bo liu | steven gustafson,0,10.4204/eptcs.306.23,10.4204,eptcs,0,1
+geometric reasoning on the traveling salesperson problem: comparing answer set programming and constraint logic programming approaches.,iclp,"Alessandro Bertagnon, Marco Gavanelli",alessandro bertagnon | marco gavanelli,0,10.1093/logcom/exaf072,10.1093,logcom,0,1
+exploiting the full power of pearl apos s causality in probabilistic logic programming.,iclp,,,1,10.1017/cbo9780511570667.009,10.1017,cbo,0,5
+counterexample-guided abstraction refinement for assumption-based argumentation.,kr,"Jean Marie Lagniez, Emmanuel Lonca, Jean-Guy Mailly",jean marie lagniez | emmanuel lonca | jean-guy mailly,0,10.24963/kr.2025/67,10.24963,kr,0,2
+tractable responsibility measures for ontology-mediated query answering.,kr,"Meghyn Bienvenu, Diego Figueira, Pierre Lafourcade",meghyn bienvenu | diego figueira | pierre lafourcade,0,10.24963/kr.2025/16,10.24963,kr,0,4
+demonstrating hybrid active logic documents and the ciao prolog playground and an application to verification tutorials.,iclp,"Daniela Ferreiro, José F. Morales, Salvador Abreu, Manuel V. Hermenegildo",daniela ferreiro | jos f. morales | salvador abreu | manuel v. hermenegildo,0,10.4204/eptcs.385.33,10.4204,eptcs,0,3
+counterfactual reasoning via grounded distance.,kr,"Carlos Aguilera-Ventura, Andreas Herzig, Xinghan Liu, Emiliano Lorini",carlos aguilera-ventura | andreas herzig | xinghan liu | emiliano lorini,0,10.24963/kr.2023/1,10.24963,kr,0,2
+pearce apos s characterisation in an epistemic domain.,iclp,Ezgi Iraz Su,ezgi iraz su,0,10.4204/eptcs.416.18,10.4204,eptcs,0,2
+reasoning about qualitative direction and distance between extended objects using answer set programming.,iclp,Yusuf Izmirlioglu,yusuf izmirlioglu,0,10.4204/eptcs.306.50,10.4204,eptcs,0,4
+learning effect axioms via probabilistic logic programming.,iclp,Fabrizio Riguzzi,fabrizio riguzzi,0,10.1201/9781003338192-2,10.1201,,1,2
+on the independencies hidden in the structure of a probabilistic logic program.,iclp,"Kilian Rückschloß, Felix Weitkämper",kilian r ckschlo | felix weitk mper,0,10.4204/eptcs.385.17,10.4204,eptcs,0,5
+explaining decisions in ml models: a parameterized complexity analysis.,kr,"Sebastian Ordyniak, Giacomo Paesani, Mateusz Rychlicki, Stefan Szeider",sebastian ordyniak | giacomo paesani | mateusz rychlicki | stefan szeider,0,10.24963/kr.2024/53,10.24963,kr,0,1
+repairing general game descriptions.,kr,"Yifan He, Munyque Mittelmann, Aniello Murano, Abdallah Saffidine, Michael Thielscher",yifan he | munyque mittelmann | aniello murano | abdallah saffidine | michael thielscher,0,10.24963/kr.2025/38,10.24963,kr,0,1
+xdnn asp : explanation generation system for deep neural networks powered by answer set programming.,iclp,"Ly Ly Trieu, Tran Cao Son",ly ly trieu | tran cao son,0,10.4204/eptcs.439.30,10.4204,eptcs,0,5
+teaching prolog through grammars.,iclp,"Helder Coelho, José Carlos Cotta",helder coelho | jos carlos cotta,0,10.1007/978-3-642-83213-0 15,10.1007,,1,4
+on model reconciliation: how to reconcile when robot does not know human apos s model,iclp,"Ho Tuan Dung, Tran Cao Son",ho tuan dung | tran cao son,0,10.4204/eptcs.364.4,10.4204,eptcs,0,2
+concerning measures in a first-order logic with actions and meta-beliefs.,kr,"Daxin Liu, Qihui Feng, Vaishak Belle, Gerhard Lakemeyer",daxin liu | qihui feng | vaishak belle | gerhard lakemeyer,0,10.24963/kr.2023/44,10.24963,kr,0,2
+omega-completeness of the logic of here-and-there and strong equivalence of logic programs.,kr,"Jorge Fandinno, Vladimir Lifschitz",jorge fandinno | vladimir lifschitz,0,10.24963/kr.2023/24,10.24963,kr,0,3
+justifications for goal-directed constraint answer set programming.,iclp,"Joaquín Arias, Manuel Carro, Zhuo Chen, Gopal Gupta",joaqu n arias | manuel carro | zhuo chen | gopal gupta,0,10.4204/eptcs.325.12,10.4204,eptcs,0,5
+a report on sequential kr-approaches as cognitive logic.,kr,Srinivas Devadas,srinivas devadas,0,10.21236/ada208322,10.21236,ada,0,2
+compactness and preservation in logical argumentation frameworks.,kr,"Ofer Arieli, Christian Straßer",ofer arieli | christian stra er,0,10.1177/19462174261418979,10.1177,,1,2
+an asp-based approach for attractor enumeration in synchronous and asynchronous boolean networks.,iclp,"Tarek Khaled, Belaïd Benhamou",tarek khaled | bela d benhamou,0,10.4204/eptcs.306.34,10.4204,eptcs,0,4
+constructionist co-design for the learning experience: a work-in-progress on engaging teachers to integrate logic programming in primary school.,iclp,"Maria Daskolia, Jaume Piera, Karen Soacha",maria daskolia | jaume piera | karen soacha,0,10.21125/edulearn.2022.2414,10.21125,edulearn,0,3
+variant-based equational unification under constructor symbols.,iclp,"Damián Aparicio-Sánchez, Santiago Escobar, Julia Sapiña",dami n aparicio-s nchez | santiago escobar | julia sapi a,0,10.4204/eptcs.325.10,10.4204,eptcs,0,2
+formalisation of action with durations in answer set programming.,iclp,Etienne Tignon,etienne tignon,0,10.4204/eptcs.345.47,10.4204,eptcs,0,5
+autonomous task completion based on goal-directed answer set programming.,iclp,Alexis R. Tudor,alexis r. tudor,0,10.4204/eptcs.416.39,10.4204,eptcs,0,5
+non-monotone fixpoint theory based on the structure of weak bilattices.,kr,"Angelos Charalambidis, Giannos Chatziagapis, Babis Kostopoulos, Panos Rondogiannis",angelos charalambidis | giannos chatziagapis | babis kostopoulos | panos rondogiannis,0,10.24963/kr.2024/23,10.24963,kr,0,1
+adding circumscription to decidable fragments of first-order logic: a complexity rollercoaster.,kr,"Carsten Lutz, Quentin Manière",carsten lutz | quentin mani re,0,10.24963/kr.2024/50,10.24963,kr,0,2
+two-variable logic for hierarchically partitioned and ordered data.,kr,"Oskar Fiuk, Emanuel Kieroński, Vincent Michielini",oskar fiuk | emanuel kiero ski | vincent michielini,0,10.24963/kr.2025/31,10.24963,kr,0,2
+general game playing - killer app for logic programming.,iclp,Michael Thielscher,michael thielscher,0,10.1007/978-3-642-02846-5 28,10.1007,,1,3
+recursive aggregates as intensional functions.,iclp,"Jorge Fandinno, Zachary Hansen",jorge fandinno | zachary hansen,0,10.1609/aaai.v39i14.33633,10.1609,aaai,0,4
+generative logic: teaching prolog as generative ai in art and design.,iclp,Shalin Hai-Jew,shalin hai-jew,0,10.4018/979-8-3693-0074-9.ch010,10.4018,ch,0,2
+credible models of belief update.,kr,"Eduardo Fermé, Sébastien Konieczny, Ramón Pino Pérez, Nicolas Schwind",eduardo ferm | s bastien konieczny | ram n pino p rez | nicolas schwind,0,10.24963/kr.2023/25,10.24963,kr,0,1
+geospatial trajectory generation via efficient abduction: deployment for independent testing.,iclp,"Divyagna Bavikadi, Dyuman Aditya, Devendra Parkar, Paulo Shakarian, Graham Mueller, Chad Parvis, Gerardo I. Simari",divyagna bavikadi | dyuman aditya | devendra parkar | paulo shakarian | graham mueller | chad parvis | gerardo i. simari,0,10.4204/eptcs.416.24,10.4204,eptcs,0,1
+streamlining input/output logics with sequent calculi.,kr,"Agata Ciabattoni, Dmitry Rozplokhas",agata ciabattoni | dmitry rozplokhas,0,10.24963/kr.2023/15,10.24963,kr,0,2
+democratising access to logic programming: a web application design tool for querying prolog code.,iclp,,,1,10.7551/mitpress/4316.003.0026,10.7551,mitpress,0,2
+reliable conversational agents under asp control that understand natural language.,iclp,Yankai Zeng,yankai zeng,0,10.4204/eptcs.416.41,10.4204,eptcs,0,1
+learning commonsense knowledge through interactive dialogue.,iclp,"Benjamin Wu, Alessandra Russo, Mark Law, Katsumi Inoue",benjamin wu | alessandra russo | mark law | katsumi inoue,0,10.29007/lrph,10.29007,lrph,0,2
+argumentative causal discovery.,kr,"Fabrizio Russo, Anna Rapberger, Francesca Toni",fabrizio russo | anna rapberger | francesca toni,0,10.24963/kr.2024/88,10.24963,kr,0,3
+architecture for simulating behavior mode changes in norm-aware autonomous agents.,iclp,"Sean Glaze, Daniela Inclezan",sean glaze | daniela inclezan,0,10.4204/eptcs.416.7,10.4204,eptcs,0,2
+mtlearn: extracting temporal rules using datalog rule learners.,kr,"Dingmin Wang, Przemysław Andrzej Wałęga, Bernardo Cuenca Grau",dingmin wang | przemys aw andrzej wa ga | bernardo cuenca grau,0,10.24963/kr.2024/90,10.24963,kr,0,1
+solving gossip problems using answer set programming: an epistemic planning approach.,iclp,"Esra Erdem, Andreas Herzig",esra erdem | andreas herzig,0,10.4204/eptcs.325.11,10.4204,eptcs,0,4
+inductive first-order formula synthesis by asp: a case study in invariant inference.,iclp,"Ziyi Yang, George Pîrlea, Ilya Sergey",ziyi yang | george p rlea | ilya sergey,0,10.4204/eptcs.439.35,10.4204,eptcs,0,3
+towards parallelising extension construction for serialisable semantics in abstract argumentation.,kr,"Lars Bengel, Matthias Thimm",lars bengel | matthias thimm,0,10.24963/kr.2023/72,10.24963,kr,0,1
+ontology-based query answering over datalog-expressible rule sets is undecidable.,kr,"David Carral, Lucas Larroque, Michaël Thomazo",david carral | lucas larroque | micha l thomazo,0,10.24963/kr.2024/22,10.24963,kr,0,4
+reasoning about study regulations in answer set programming preliminary report .,iclp,"SUSANA HAHN, TORSTEN SCHAUB, CEDRIC MARTENS, AMADE NEMES, HENRY OTUNUYA, JAVIER ROMERO, SEBASTIAN SCHELLHORN",susana hahn | torsten schaub | cedric martens | amade nemes | henry otunuya | javier romero | sebastian schellhorn,0,10.1017/s1471068424000383,10.1017,s,0,5
+proceedings 36th international conference on logic programming technical communications iclp technical communications 2020 technical communications unical rende cs italy 18-24th september 2020.,iclp,,,1,10.1109/cscc49995.2020.00008,10.1109,cscc,0,1
+reasoning about knowledge on regular expressions is 2exptime-complete.,kr,"Avijeet Ghosh, Sujata Ghosh, François Schwarzentruber",avijeet ghosh | sujata ghosh | fran ois schwarzentruber,0,10.24963/kr.2025/35,10.24963,kr,0,2
+weighted merging operators: product utility-based operators and egalitarianism.,kr,"Patricia Everaere, Sébastien Konieczny, Ramón Pino Pérez",patricia everaere | s bastien konieczny | ram n pino p rez,0,10.24963/kr.2024/31,10.24963,kr,0,1
+revising boolean logical models of biological regulatory networks.,kr,"Frederico Aleixo, Matthias Knorr, João Leite",frederico aleixo | matthias knorr | jo o leite,0,10.24963/kr.2023/2,10.24963,kr,0,3
+can llms solve asp problems insights from a benchmarking study.,kr,"Lin Ren, Guohui Xiao, Guilin Qi, Yishuai Geng, Haohan Xue",lin ren | guohui xiao | guilin qi | yishuai geng | haohan xue,0,10.24963/kr.2025/60,10.24963,kr,0,3
+contractions based on optimal repairs.,kr,"Franz Baader, Renata Wassermann",franz baader | renata wassermann,0,10.25368/2024.122,10.25368,,1,1
+early validation of high-level requirements on cyber-physical systems.,iclp,Ondřej Vašíček,ond ej va ek,0,10.4204/eptcs.416.40,10.4204,eptcs,0,1
+deep inductive logic programming meets reinforcement learning.,iclp,", Yushi Cao",yushi cao,0,10.32657/10356/182530,10.32657,,1,4
+a neurosymbolic approach to fraud detection on financial data in the public administration.,iclp,,,1,10.1002/9781118936764.ch2,10.1002,ch,0,5
+value awareness and process automation: a reflection through school place allocation models.,iclp,"Joaquín Arias, Mar Moreno-Rebato, Jose A. Rodriguez-García, Sascha Ossowski",joaqu n arias | mar moreno-rebato | jose a. rodriguez-garc a | sascha ossowski,0,10.1007/978-3-031-58202-8 16,10.1007,,1,1
+advancing algorithmic approaches to probabilistic argumentation under the constellation approach.,kr,"Andrei Popescu, Johannes P. Wallner",andrei popescu | johannes p. wallner,0,10.24963/kr.2024/55,10.24963,kr,0,2
+early validation of high-level requirements on cyber-physical systems.,iclp,Ondřej Vašíček,ond ej va ek,0,10.4204/eptcs.416.40,10.4204,eptcs,0,1
+reasoning about probability via continuous functions.,kr,"Tommaso Flaminio, Sandro Preto, Sara Ugolini",tommaso flaminio | sandro preto | sara ugolini,0,10.24963/kr.2023/28,10.24963,kr,0,4
+propositional abduction via only-knowing: a non-monotonic approach.,iclp,"Sanderson Molick, Vaishak Belle",sanderson molick | vaishak belle,0,10.4204/eptcs.439.2,10.4204,eptcs,0,3
+visual graph question answering with asp and llms for language parsing.,iclp,"Jakob Johannes Bauer, Thomas Eiter, Nelson Higuera Ruiz, Johannes Oetsch",jakob johannes bauer | thomas eiter | nelson higuera ruiz | johannes oetsch,0,10.4204/eptcs.416.2,10.4204,eptcs,0,5
+how to manage a budget with atl+.,kr,"Stéphane Demri, Raine Rönnholm",st phane demri | raine r nnholm,0,10.24963/kr.2023/19,10.24963,kr,0,5
+automating disease management using answer set programming.,iclp,,,1,10.1017/cbo9781139342124.007,10.1017,cbo,0,5
+natural language generation from ontologies using grammatical framework.,iclp,Dan Moldovan,dan moldovan,0,10.21236/ada512325,10.21236,ada,0,3
+explanations generation for web service workflow.,iclp,"Shifeng Yan, Ying Li, Shuiguang Deng, Zhaohui Wu",shifeng yan | ying li | shuiguang deng | zhaohui wu,0,10.1109/nwesp.2005.12,10.1109,nwesp,0,2
+incentive design for rational agents.,kr,"David Hyland, Munyque Mittelmann, Aniello Murano, Giuseppe Perelli, Michael Wooldridge",david hyland | munyque mittelmann | aniello murano | giuseppe perelli | michael wooldridge,0,10.24963/kr.2024/44,10.24963,kr,0,2
+semantics for hybrid probabilistic logic programs with function symbols: technical summary.,iclp,Fabrizio Riguzzi,fabrizio riguzzi,0,10.1201/9781003427421-5,10.1201,,1,4
+nexsim: a system for explaining nexus of similarities.,iclp,,,1,10.18356/7a3e9edf-en,10.18356,a,0,4
+unified foundations of team semantics via semirings.,kr,"Timon Barlag, Miika Hannula, Juha Kontinen, Nina Pardal, Jonni Virtema",timon barlag | miika hannula | juha kontinen | nina pardal | jonni virtema,0,10.24963/kr.2023/8,10.24963,kr,0,1
+a query evaluation method for asp with abduction.,iclp,"Gerhard Wetzel, Francesca Toni",gerhard wetzel | francesca toni,0,10.1007/bfb0056017,10.1007,bfb,0,4
+modelling cyber defenses using s casp .,iclp,,,1,10.1057/9781137476180.0009,10.1057,,1,1
+explaining reasoning results for owl ontologies with evee.,kr,"Christian Alrabbaa, Stefan Borgwardt, Tom Friese, Anke Hirsch, Nina Knieriemen, Patrick Koopmann, Alisa Kovtunova, Antonio Krüger, Alexej Popovič, Ida Siahaan",christian alrabbaa | stefan borgwardt | tom friese | anke hirsch | nina knieriemen | patrick koopmann | alisa kovtunova | antonio kr ger | alexej popovi | ida siahaan,0,10.24963/kr.2024/67,10.24963,kr,0,5
+consistent query answering over shacl constraints.,kr,"Shqiponja Ahmetaj, Timo Camillo Merkl, Reinhard Pichler",shqiponja ahmetaj | timo camillo merkl | reinhard pichler,0,10.24963/kr.2024/1,10.24963,kr,0,1
+data2concept2text: an explainable multilingual framework for data analysis narration.,iclp,"Flavio Bertini, Alessandro Dal Palù, Federica Zaglio, Francesco Fabiano, Andrea Formisano",flavio bertini | alessandro dal pal | federica zaglio | francesco fabiano | andrea formisano,0,10.4204/eptcs.416.13,10.4204,eptcs,0,4
+argument analysis using answer set programming and semantics-guided large language models.,iclp,Fabrizio Riguzzi,fabrizio riguzzi,0,10.1201/9781003427421-6,10.1201,,1,1
+answer set solving with generalized learned constraints.,iclp,Ivor Uhliarik,ivor uhliarik,0,10.5220/0006518303670372,10.5220,,1,5
+visualizing kripke models in logikey: the case of sdl.,iclp,"N. Mansurov, D. Zhukov",n. mansurov | d. zhukov,0,10.1016/b978-044450228-5/50016-3,10.1016,b,0,3
+s casp for swi-prolog.,iclp,Matthias Gondan,matthias gondan,0,10.32614/cran.package.rswipl,10.32614,cran,0,1
+a preliminary evaluation of open-source llms for datalog-based semantic parsing in the asvin project.,iclp,"Amad Atiq, George Ubakanma, Muddesar Iqbal",amad atiq | george ubakanma | muddesar iqbal,0,10.1109/es64449.2025.11136269,10.1109,es,0,1
+fixpoint semantics for datalogmtl with negation.,iclp,Samuele Pollaci,samuele pollaci,0,10.4204/eptcs.439.19,10.4204,eptcs,0,2
+when is a program an actual cause,iclp,,,1,10.1017/cbo9780511803161.012,10.1017,cbo,0,4
+resource allocation with cooperative agents.,iclp,,,1,10.1017/cbo9780511619748.013,10.1017,cbo,0,2
+a causal perspective on ai deception in games.,iclp,,,1,10.4135/9781483306902.n155,10.4135,n,0,4
+queries with exact truth values in paraconsistent description logics.,kr,"Meghyn Bienvenu, Camille Bourgaux, Daniil Kozhemiachenko",meghyn bienvenu | camille bourgaux | daniil kozhemiachenko,0,10.1613/jair.1.18676,10.1613,jair,0,3
+proceedings 40th international conference on logic programming iclp 2024 university of texas at dallas dallas texas usa october 14-17 2024.,iclp,", Naif Alatrush, Sultan Alsarra, , Afraa Alshammari, , Luay Abdeljaber, , Niamat Zawad, , Latifur Khan, , Patrick T. Brandt, , Javier Osorio, , Vito J. D’Orazio, ",naif alatrush | sultan alsarra | afraa alshammari | luay abdeljaber | niamat zawad | latifur khan | patrick t. brandt | javier osorio | vito j. d orazio,0,10.26615/978-954-452-098-4-007,10.26615,,1,1
+shacl validation under the well-founded semantics.,kr,"Cem Okulmus, Mantas Šimkus",cem okulmus | mantas imkus,0,10.24963/kr.2024/52,10.24963,kr,0,2
+logical judges challenge human judges on the strange case of b.c.-valjean.,iclp,"Viviana Mascardi, Domenico Pellegrini",viviana mascardi | domenico pellegrini,0,10.4204/eptcs.325.32,10.4204,eptcs,0,1
+the pyglaf argumentation reasoner.,iclp,Mario Alviano,mario alviano,0,10.3233/fi-2019-1808,10.3233,fi,0,1
+decomposition strategies for solving scheduling problems in industrial applications.,iclp,Mohammed M. S. El-Kholany,mohammed m. s. el-kholany,0,10.4204/eptcs.364.39,10.4204,eptcs,0,3
+explanations for answer set programming.,iclp,,,1,10.1017/cbo9781139342124.007,10.1017,cbo,0,5
+a neurosymbolic framework for bias correction in convolutional neural networks.,iclp,"PARTH PADALKAR, NATALIA ŚLUSARZ, EKATERINA KOMENDANTSKAYA, GOPAL GUPTA",parth padalkar | natalia lusarz | ekaterina komendantskaya | gopal gupta,0,10.1017/s1471068424000322,10.1017,s,0,3
+dmapf: a decentralized and distributed solver for multi-agent path finding problem with obstacles.,iclp,"Poom Pianpak, Tran Cao Son",poom pianpak | tran cao son,0,10.4204/eptcs.345.24,10.4204,eptcs,0,1
+a prolog program for bottom-up evaluation.,iclp,David S. Warren,david s. warren,0,10.4204/eptcs.416.20,10.4204,eptcs,0,5
+computing diverse optimal stable models.,iclp,,,1,10.7551/mitpress/4316.003.0016,10.7551,mitpress,0,1
+from vision to execution: enabling knowledge representation and reasoning in hybrid intelligent robots playing mobile games.,kr,"Denise Angilica, Mario Avolio, Giovanni Beraldi, Giovambattista Ianni, Francesco Pacenza",denise angilica | mario avolio | giovanni beraldi | giovambattista ianni | francesco pacenza,0,10.24963/kr.2023/5,10.24963,kr,0,2
+machine learning model integration with open world temporal logic for process automation.,iclp,"Dyuman Aditya, Colton Payne, Mario Leiva, Paulo Shakarian",dyuman aditya | colton payne | mario leiva | paulo shakarian,0,10.4204/eptcs.439.4,10.4204,eptcs,0,2
+first order logic and commonsense reasoning: a path less travelled.,iclp,,,1,10.1302/3114-230258,10.1302,,1,2
+representing and evaluating sbvr specification via asp.,iclp,"Murali Mohanan, Imran Sarwar Bajwa",murali mohanan | imran sarwar bajwa,0,10.4018/ijossp.2019040104,10.4018,ijossp,0,4
+a planning compilation to reason about goal achievement at planning time.,kr,"Alberto Pozanco, Marianela Morales, Daniel Borrajo, Manuela Veloso",alberto pozanco | marianela morales | daniel borrajo | manuela veloso,0,10.24963/kr.2025/82,10.24963,kr,0,1
+cost-optimal delete-free classical planning via maximum satisfiability.,kr,"Masood Feyzbakhsh Rankooh, Andreas Niskanen, Matti Järvisalo",masood feyzbakhsh rankooh | andreas niskanen | matti j rvisalo,0,10.24963/kr.2025/75,10.24963,kr,0,1
+verification of general games with imperfect information using strategy logic.,kr,"Yifan He, Munyque Mittelmann, Aniello Murano, Abdallah Saffidine, Michael Thielscher",yifan he | munyque mittelmann | aniello murano | abdallah saffidine | michael thielscher,0,10.24963/kr.2024/40,10.24963,kr,0,2
+conflict handling in product configuration using answer set programming.,iclp,Seemran Mishra,seemran mishra,0,10.4204/eptcs.345.46,10.4204,eptcs,0,4
+llm+reasoning+planning for supporting incomplete user queries in presence of apis.,iclp,"Sudhir Agarwal, Anu Sreepathy, David H. Alonso, Prarit Lamba",sudhir agarwal | anu sreepathy | david h. alonso | prarit lamba,0,10.4204/eptcs.416.3,10.4204,eptcs,0,2
+neuro-symbolic agent with asp for robust exception learning in text-based games.,iclp,"Vinod Mishra, Julian Briseno, Mani Srivastava",vinod mishra | julian briseno | mani srivastava,0,10.21236/ad1230960,10.21236,ad,0,4
+causes for changing profiles preliminary report .,kr,,,1,10.3133/b333,10.3133,b,0,3
+prolog coding guidelines: status and tool support.,iclp,"Falco Nogatz, Philipp Körner, Sebastian Krings",falco nogatz | philipp k rner | sebastian krings,0,10.4204/eptcs.306.8,10.4204,eptcs,0,5
+an llm + asp workflow for joint entity-relation extraction.,iclp,"Trang Tran, Trung Hoang Le, Huiping Cao, Tran Cao Son",trang tran | trung hoang le | huiping cao | tran cao son,0,10.4204/eptcs.439.6,10.4204,eptcs,0,4
+comprehensive multi-agent epistemic planning.,iclp,Francesco Fabiano,francesco fabiano,0,10.4204/eptcs.345.41,10.4204,eptcs,0,3
+front matter table of contents preface conference organization.,iclp,,,1,10.1484/m.art-eb.5.138353,10.1484,m,0,1
+constraint cnf: sat and csp language under one roof.,iclp,Justyna Petke,justyna petke,0,10.1007/978-3-319-21810-6 6,10.1007,,1,3
+a scalable approach to probabilistic compliance in declarative process mining.,iclp,"Christian Sturm, Stefan Schönig, Stefan Jablonski",christian sturm | stefan sch nig | stefan jablonski,0,10.5220/0006710305850595,10.5220,,1,3
+reasoning in shiq with axiom- and concept-level standpoint modalities.,kr,"Lucía Gómez Álvarez, Sebastian Rudolph",luc a g mez lvarez | sebastian rudolph,0,10.24963/kr.2024/36,10.24963,kr,0,2
+bringing logic programming to primary school: a teacher training course.,iclp,Tom Donohoe,tom donohoe,0,10.12968/prtu.2012.1.4.38,10.12968,prtu,0,4
+on the strong equivalences of lpmln programs.,iclp,"Bin Wang, Jun Shen, Shutao Zhang, Zhizheng Zhang",bin wang | jun shen | shutao zhang | zhizheng zhang,0,10.23638/lmcs-17 1:4 2021,10.23638,lmcs,0,1
+pruning with belief traps in multi-agent epistemic planning.,kr,"Biqing Fang, Fangzhen Lin",biqing fang | fangzhen lin,0,10.24963/kr.2025/74,10.24963,kr,0,4
+deontic paradoxes in asp with weak constraints.,iclp,"Christian Hatschka, Agata Ciabattoni, Thomas Eiter",christian hatschka | agata ciabattoni | thomas eiter,0,10.4204/eptcs.385.39,10.4204,eptcs,0,3
+joint proceedings of the joint workshop on knowledge diversity and cognitive aspects of kr and the workshop on symbolic and neuro-symbolic architectures for intelligent robotics technology kodis-cakr-synergy 2024 co-located with the 21st international conference on principles of knowledge representation and reasoning kr 2024 hanoi vietnam november 2-8 2024.,kr,"Yi Zeng, Spyros Kotoulas, Zhisheng Huang",yi zeng | spyros kotoulas | zhisheng huang,0,10.1145/2505515.2505819,10.1145,,1,1
+guarded fragments meet dynamic logic: the story of regular guards.,kr,"Bartosz Bednarczyk, Emanuel Kieroński",bartosz bednarczyk | emanuel kiero ski,0,10.24963/kr.2025/9,10.24963,kr,0,3
+correct causal inference in probabilistic logic programming.,iclp,,,1,10.1098/rsos.230785/v1/review1,10.1098,rsos,0,5
+some enhancements to the prolog playground and ald notebooks for the modern prolog classroom.,iclp,,,1,10.1515/9783110850451.5,10.1515,,1,3
+cost-based semantics for querying inconsistent weighted knowledge bases.,kr,"Meghyn Bienvenu, Camille Bourgaux, Robin Jean",meghyn bienvenu | camille bourgaux | robin jean,0,10.24963/kr.2024/16,10.24963,kr,0,1
+a hitchhiker apos s guide to reinventing a prolog machine.,iclp,Jesús Castillo,jes s castillo,0,10.17398/2605-5686.37.1.1,10.17398,,1,4
+agentified argumentative learning short paper .,iclp,,,1,10.1075/aic.20.c10,10.1075,aic,0,1
+leveraging decision-dnnf compilation for enumerating disjoint partial models.,kr,"Jean-Marie Lagniez, Emmanuel Lonca",jean-marie lagniez | emmanuel lonca,0,10.24963/kr.2024/48,10.24963,kr,0,1
+proceedings 35th international conference on logic programming technical communications iclp 2019 technical communications las cruces nm usa september 20-25 2019.,iclp,Serdar Kadioglu,serdar kadioglu,0,10.4204/eptcs.306.6,10.4204,eptcs,0,1
+tackling the air traffic flow and capacity management problem with explainable answer set programming.,iclp,"Gładyś Sylwester, Malarski Marek, Jasiński Sławomir, Skorupski Jacek",g ady sylwester | malarski marek | jasi ski s awomir | skorupski jacek,0,10.1007/978-3-642-48417-9 8,10.1007,,1,5
+the sticky path to expressive querying: decidability of navigational queries under existential rules.,kr,"Piotr Ostropolski-Nalewaja, Sebastian Rudolph",piotr ostropolski-nalewaja | sebastian rudolph,0,10.24963/kr.2024/54,10.24963,kr,0,2
+diagnosis for post concept drift decision trees repair.,kr,"Shaked Almog, Meir Kalech",shaked almog | meir kalech,0,10.24963/kr.2023/3,10.24963,kr,0,1
+neurosymbolic ai in digital forensics: commonsense and qualitative reasoning.,iclp,"Son Tran, Edjard Mota, Artur d'Avila Garcez",son tran | edjard mota | artur d avila garcez,0,10.1002/9781394302406.ch02,10.1002,ch,0,5
+capturing non-flat assumption-based argumentation with bipolar setafs.,kr,"Matti Berthold, Anna Rapberger, Markus Ulbricht",matti berthold | anna rapberger | markus ulbricht,0,10.24963/kr.2024/12,10.24963,kr,0,1
+an iterative fixpoint semantics for mknf hybrid knowledge bases with function symbols.,iclp,"Marco Alberti, Riccardo Zese, Fabrizio Riguzzi, Evelina Lamma",marco alberti | riccardo zese | fabrizio riguzzi | evelina lamma,0,10.4204/eptcs.364.7,10.4204,eptcs,0,1
+inference in probabilistic logic programs using lifted explanations.,iclp,Fabrizio Riguzzi,fabrizio riguzzi,0,10.1201/9781003427421-9,10.1201,,1,3
+refining the semantics of epistemic specifications.,iclp,Ezgi Iraz Su,ezgi iraz su,0,10.4204/eptcs.345.25,10.4204,eptcs,0,1
+proportional dependencies and asymptotics of probabilistic representations.,iclp,Darren Bradley,darren bradley,0,10.1093/obo/9780195396577-0393,10.1093,obo,0,2
+natlog: a lightweight logic programming language with a neuro-symbolic touch.,iclp,Paul Tarau,paul tarau,0,10.4204/eptcs.345.27,10.4204,eptcs,0,4
+on the effects of adding assignments in linear-time temporal logics modulo theories.,kr,"Stéphane Demri, Raul Fervari",st phane demri | raul fervari,0,10.24963/kr.2025/26,10.24963,kr,0,4
+mind the gaps: logical english prolog and multi-agent systems for autonomous vehicles.,iclp,"Galileo Sartor, Adam Wyner, Giuseppe Contissa",galileo sartor | adam wyner | giuseppe contissa,0,10.4204/eptcs.416.9,10.4204,eptcs,0,3
+automata for dynamic answer set solving: preliminary report.,iclp,Ivor Uhliarik,ivor uhliarik,0,10.5220/0006518303670372,10.5220,,1,4
+scalable and ethical medical scheduling: an asp-based framework with patient-centered experimental validation.,iclp,Hongnan Ye,hongnan ye,0,10.1016/j.jfma.2025.09.032,10.1016,j,0,4
+generating explainable rule sets from tree-ensemble learning methods by answer set programming.,iclp,"Akihiro Takemura, Katsumi Inoue",akihiro takemura | katsumi inoue,0,10.4204/eptcs.345.26,10.4204,eptcs,0,5
+a uniform language to explain decision trees.,kr,"Marcelo Arenas, Pablo Barceló, Diego Bustamante, Jose Caraball, Bernardo Subercaseaux",marcelo arenas | pablo barcel | diego bustamante | jose caraball | bernardo subercaseaux,0,10.24963/kr.2024/6,10.24963,kr,0,5
+from probabilistic programming to probabilistic argumentation.,iclp,"Rolf Haenni, Jan-Willem Romeijn, Gregory Wheeler, Jon Williamson",rolf haenni | jan-willem romeijn | gregory wheeler | jon williamson,0,10.1007/978-94-007-0008-6 3,10.1007,,1,3
+an epistemic logic for reasoning about strategies in general auctions.,iclp,Jaakko Hintikka,jaakko hintikka,0,10.1016/b978-0-934613-04-0.50007-7,10.1016,b,0,4
+a refined operational semantics for freechr.,iclp,"Sascha Rechenberger, Thom Frühwirth",sascha rechenberger | thom fr hwirth,0,10.4204/eptcs.439.20,10.4204,eptcs,0,1
+an xai approach for data-to-text processing with asp.,iclp,"Alessandro Dal Palù, Agostino Dovier, Andrea Formisano",alessandro dal pal | agostino dovier | andrea formisano,0,10.4204/eptcs.385.38,10.4204,eptcs,0,5
+deontic reasoning based on inconsistency measures.,kr,"Ofer Arieli, Kees van Berkel, Badran Raddaoui, Christian Strasser",ofer arieli | kees van berkel | badran raddaoui | christian strasser,0,10.24963/kr.2024/7,10.24963,kr,0,1
+default logic as a species of causal reasoning.,kr,Alexander Bochman,alexander bochman,0,10.24963/kr.2023/12,10.24963,kr,0,4
+aspen: asp-based system for collective entity resolution.,kr,"Zhiliang Xiang, Meghyn Bienvenu, Gianluca Cima, Víctor Gutiérrez Basulto, Yazmín Ibáñez García",zhiliang xiang | meghyn bienvenu | gianluca cima | v ctor guti rrez basulto | yazm n ib ez garc a,0,10.24963/kr.2024/74,10.24963,kr,0,3
+boolean nearest neighbor language in the knowledge compilation map.,kr,"Ondřej Čepek, Jelena Glišić",ond ej epek | jelena gli i,0,10.24963/kr.2025/24,10.24963,kr,0,4
+lost in the crowd: k-unmatchability in anonymized knowledge graphs.,kr,"Piero Andrea Bonatti, Francesco Magliocca, Luigi Sauro",piero andrea bonatti | francesco magliocca | luigi sauro,0,10.24963/kr.2024/18,10.24963,kr,0,1
+learning general policies from examples.,kr,"Blai Bonet, Hector Geffner",blai bonet | hector geffner,0,10.24963/kr.2025/71,10.24963,kr,0,5
+joint proceedings of the workshops and doctoral consortium of the 41st international conference on logic programming iclp-ws-dc 2025 co-located with 41st international conference on logic programming iclp 2025 rende italy september 9-13 2025.,iclp,Rémy Haemmerlé,r my haemmerl,0,10.1007/11562931 50,10.1007,,1,1
+the realizability of revision and contraction operators in epistemic spaces.,kr,"Kai Sauerwald, Matthias Thimm",kai sauerwald | matthias thimm,0,10.24963/kr.2024/62,10.24963,kr,0,2
+complexity results and algorithms for preferential argumentative reasoning in aspic+.,kr,"Tuomo Lehtonen, Daphne Odekerken, Johannes P. Wallner, Matti Järvisalo",tuomo lehtonen | daphne odekerken | johannes p. wallner | matti j rvisalo,0,10.24963/kr.2024/49,10.24963,kr,0,3
+minimal model reasoning in description logics: don apos t try this at home,kr,"Federica Di Stefano, Quentin Manière, Magdalena Ortiz, Mantas Šimkus",federica di stefano | quentin mani re | magdalena ortiz | mantas imkus,0,10.24963/kr.2025/27,10.24963,kr,0,2
+benchmarking for integrating logic rules with everything else.,iclp,"Yanhong A. Liu, Scott D. Stoller, Yi Tong, K. Tuncay Tekle",yanhong a. liu | scott d. stoller | yi tong | k. tuncay tekle,0,10.4204/eptcs.385.3,10.4204,eptcs,0,4
+when prolog meets generative models: a new approach for managing knowledge and planning in robotic applications - abstract.,iclp,"Enrico Saccon, Ahmet Tikna, Davide De Martini, Edoardo Lamon, Luigi Palopoli, Marco Roveri",enrico saccon | ahmet tikna | davide de martini | edoardo lamon | luigi palopoli | marco roveri,0,10.1109/icra57147.2024.10610800,10.1109,icra,0,5
+abductive reasoning in a paraconsistent framework.,kr,"Meghyn Bienvenu, Katsumi Inoue, Daniil Kozhemiachenko",meghyn bienvenu | katsumi inoue | daniil kozhemiachenko,0,10.24963/kr.2024/13,10.24963,kr,0,5
+about the multi-head linear restricted chase termination.,kr,"Lukas Gerlach, Lucas Larroque, Jerzy Marcinkowski, Piotr Ostropolski-Nalewaja",lukas gerlach | lucas larroque | jerzy marcinkowski | piotr ostropolski-nalewaja,0,10.24963/kr.2025/34,10.24963,kr,0,2
+a preliminary data-driven analysis of common errors encountered by novice sparc programmers.,iclp,"Zach Hansen, Hanxiang Du, Wanli Xing, Rory Eckel, Justin Lugo, Yuanlin Zhang",zach hansen | hanxiang du | wanli xing | rory eckel | justin lugo | yuanlin zhang,0,10.4204/eptcs.364.2,10.4204,eptcs,0,2
+expressive description logics with rich yet affordable numeric constraints.,kr,"Federica Di Stefano, Sanja Lukumbuzya, Magdalena Ortiz, Mantas Šimkus",federica di stefano | sanja lukumbuzya | magdalena ortiz | mantas imkus,0,10.24963/kr.2025/66,10.24963,kr,0,3
+representing perfect saturated cost partitioning heuristics in classical planning.,kr,"Paul Höft, David Speck, Jendrik Seipp",paul h ft | david speck | jendrik seipp,0,10.24963/kr.2025/79,10.24963,kr,0,1
+on the subtlety of causal reasoning in probabilistic logic programming: a bug report about the causal interpretation of annotated disjunctions.,iclp,,,1,10.1098/rsos.230785/v1/review1,10.1098,rsos,0,4
+advances in big data bio analytics.,iclp,Yong Shi,yong shi,0,10.1007/978-981-16-3607-3 1,10.1007,,1,1
+pushing the envelope in numeric pattern planning.,kr,"Matteo Cardellini, Enrico Giunchiglia",matteo cardellini | enrico giunchiglia,0,10.24963/kr.2025/73,10.24963,kr,0,3
+a representation theorem for causal decision making.,kr,,,1,10.1017/cbo9780511498497.009,10.1017,cbo,0,5
+global type inference for java using answer set programming.,iclp,Fabrizio Riguzzi,fabrizio riguzzi,0,10.1201/9781003427421-6,10.1201,,1,4
+reasoning in assumption-based argumentation via sat.,kr,"Andreas Niskanen, Masood Feyzbakhsh Rankooh, Tuomo Lehtonen, Matti Järvisalo",andreas niskanen | masood feyzbakhsh rankooh | tuomo lehtonen | matti j rvisalo,0,10.24963/kr.2025/68,10.24963,kr,0,4
+bottom-up stratified probabilistic logic programming with fusemate.,iclp,"Peter Baumgartner, Elena Tartaglia",peter baumgartner | elena tartaglia,0,10.4204/eptcs.385.11,10.4204,eptcs,0,3
+constraint propagation and explanation over novel types by abstract compilation.,iclp,Krinke Andreas,krinke andreas,0,10.51202/9783186474209-21,10.51202,,1,4
+f rdxel: an expert system for danish traffic law.,iclp,"Luís Cruz-Filipe, Jonas Vistrup",lu s cruz-filipe | jonas vistrup,0,10.4204/eptcs.439.26,10.4204,eptcs,0,1
+logic tensor network-enhanced generative adversarial network.,iclp,"Nijesh Upreti, Vaishak Belle",nijesh upreti | vaishak belle,0,10.4204/eptcs.439.8,10.4204,eptcs,0,3
+towards incremental and modular context-sensitive analysis.,iclp,"ISABEL GARCIA-CONTRERAS, JOSÉ F. MORALES, MANUEL V. HERMENEGILDO",isabel garcia-contreras | jos f. morales | manuel v. hermenegildo,0,10.1017/s1471068420000496,10.1017,s,0,2
+implementing the first-order logic of here and there.,iclp,"Jens Otten, Torsten Schaub",jens otten | torsten schaub,0,10.4204/eptcs.439.31,10.4204,eptcs,0,2
+automating defeasible reasoning in law with answer set programming.,iclp,Guido Governatori,guido governatori,0,10.31219/osf.io/bgtk6,10.31219,osf,0,3
+quantification and aggregation over concepts of the ontology.,iclp,"Pierre Carbonnelle, Matthias Van der Hallen, Marc Denecker",pierre carbonnelle | matthias van der hallen | marc denecker,0,10.4204/eptcs.385.22,10.4204,eptcs,0,4
+intelligent instantiation and supersafe rules.,iclp,"Gi Hyun Lim, Il Hong Suh",gi hyun lim | il hong suh,0,10.1007/s11370-010-0063-6,10.1007,s,0,1
+knowledge-based stable roommates problems.,iclp,Müge Fidan,m ge fidan,0,10.1609/aaai.v40i48.42148,10.1609,aaai,0,4
+fixpoint semantics for recursive shacl.,iclp,"Bart Bogaerts, Maxime Jakubowski",bart bogaerts | maxime jakubowski,0,10.4204/eptcs.345.14,10.4204,eptcs,0,1
+logic programming with extensible types.,iclp,"Ivan Perez, Angel Herranz",ivan perez | angel herranz,0,10.4204/eptcs.439.18,10.4204,eptcs,0,3
+graphical conditions for the existence unicity and number of regular models.,iclp,"Van-Giang Trinh, Belaid Benhamou, Sylvain Soliman, François Fages",van-giang trinh | belaid benhamou | sylvain soliman | fran ois fages,0,10.4204/eptcs.416.16,10.4204,eptcs,0,1
+logic-based composition of business process models.,kr,"Valeria Fionda, Antonio Ielo, Francesco Ricca",valeria fionda | antonio ielo | francesco ricca,0,10.24963/kr.2023/27,10.24963,kr,0,2
+an answer set programming framework for reasoning about truthfulness of statements by agents.,iclp,"Marcello Balduccini, Michael Gelfond, Enrico Pontelli, Tran Cao Son",marcello balduccini | michael gelfond | enrico pontelli | tran cao son,0,10.24963/kr.2020/8,10.24963,kr,0,3
+re integration of logical english and s casp .,iclp,,,1,10.3403/01582237,10.3403,,1,4
+on the trap space semantics of normal logic programs.,iclp,"Van-Giang Trinh, Sylvain Soliman, François Fages, Belaid Benhamou",van-giang trinh | sylvain soliman | fran ois fages | belaid benhamou,0,10.4204/eptcs.439.21,10.4204,eptcs,0,4
+a principle-based framework for analyzing dialogue game-based semantics.,kr,"Yamil O. Soto, Andrea Cohen, Cristhian Ariel D. Deagustini, Maria Vanina Martinez, Gerardo I. Simari",yamil o. soto | andrea cohen | cristhian ariel d. deagustini | maria vanina martinez | gerardo i. simari,0,10.24963/kr.2025/54,10.24963,kr,0,3
+compilation of aggregates in asp.,iclp,Giuseppe Mazzotta,giuseppe mazzotta,0,10.4204/eptcs.345.45,10.4204,eptcs,0,2
+exploring desirable configurations in global logistics with heuristic search in answer set programming.,kr,"Olcay Altay-Kern, Emmanuelle Dietz, Isabelle Kuhlmann, Matthias Thimm",olcay altay-kern | emmanuelle dietz | isabelle kuhlmann | matthias thimm,0,10.24963/kr.2025/56,10.24963,kr,0,5
+translating definitions into the language of logic programming: a case study.,iclp,Christopher John Hogger,christopher john hogger,0,10.1093/oso/9780198538202.003.0010,10.1093,oso,0,5
+context-based belief revision.,kr,Bernhard Nebel,bernhard nebel,0,10.1017/cbo9780511526664.003,10.1017,cbo,0,1
+a family of decidable bi-intuitionistic modal logics.,kr,"David Fernández-Duque, Brett McLean, Lukas Zenger",david fern ndez-duque | brett mclean | lukas zenger,0,10.24963/kr.2023/26,10.24963,kr,0,1
+picat through the lens of advent of code.,iclp,"Neng-Fa Zhou, Cristian Grozea, Håkan Kjellerstrand, Oisín Mac Fhearaí",neng-fa zhou | cristian grozea | h kan kjellerstrand | ois n mac fheara,0,10.4204/eptcs.439.36,10.4204,eptcs,0,1
+tutorial: automating commonsense reasoning.,iclp,,,1,10.1016/b978-0-12-801416-5.09988-5,10.1016,b,0,5
+probabilistic htn planning: formalization and computational complexity analysis.,kr,"Mohammad Yousefi, Johannes Schmalz, Patrik Haslum, Pascal Bercher",mohammad yousefi | johannes schmalz | patrik haslum | pascal bercher,0,10.24963/kr.2025/84,10.24963,kr,0,2
+a simple complete search for logic programming.,iclp,"Jason Hemann, Daniel P. Friedman, William E. Byrd, Matthew Might",jason hemann | daniel p. friedman | william e. byrd | matthew might,0,10.1145/2989225.2989230,10.1145,,1,5
+formalizing informal logic and natural language deductivism.,iclp,"Douglas Walton, Thomas F. Gordon",douglas walton | thomas f. gordon,0,10.22329/il.v35i4.4335,10.22329,il,0,3
+counterfactual explanations as plans.,iclp,Vaishak Belle,vaishak belle,0,10.4204/eptcs.416.14,10.4204,eptcs,0,1
+declarative algorithms in datalog with extrema: their formal semantics simplified.,iclp,"Jin Wang, Jiacheng Wu, Mingda Li, Jiaqi Gu, Ariyam Das, Carlo Zaniolo",jin wang | jiacheng wu | mingda li | jiaqi gu | ariyam das | carlo zaniolo,0,10.1007/s00778-021-00665-6,10.1007,s,0,3
+planning and scheduling in digital health with answer set programming.,iclp,Marco Mochi,marco mochi,0,10.4204/eptcs.364.38,10.4204,eptcs,0,5
+sorting strategies for interactive conflict resolution in asp.,iclp,"Andre Thevapalan, Gabriele Kern-Isberner",andre thevapalan | gabriele kern-isberner,0,10.4204/eptcs.385.13,10.4204,eptcs,0,2
+restkb: a library of commonsense knowledge about dining at a restaurant.,iclp,Daniela Inclezan,daniela inclezan,0,10.4204/eptcs.306.19,10.4204,eptcs,0,3
+nesyfold: extracting logic programs from convolutional neural networks.,iclp,"Jens Lehmann, Sebastian Bader, Pascal Hitzler",jens lehmann | sebastian bader | pascal hitzler,0,10.1007/s10489-008-0142-y,10.1007,s,0,5
+interactive explanations by conflict resolution via argumentative exchanges.,kr,"Antonio Rago, Hengzhi Li, Francesca Toni",antonio rago | hengzhi li | francesca toni,0,10.24963/kr.2023/57,10.24963,kr,0,3
+probabilistic synthesis and verification for ltl on finite traces.,kr,"Benjamin Aminof, Linus Cooper, Sasha Rubin, Moshe Y. Vardi, Florian Zuleger",benjamin aminof | linus cooper | sasha rubin | moshe y. vardi | florian zuleger,0,10.24963/kr.2024/3,10.24963,kr,0,3
+nemo: your friendly and versatile rule reasoning toolkit.,kr,"Alex Ivliev, Lukas Gerlach, Simon Meusel, Jakob Steinberg, Markus Krötzsch",alex ivliev | lukas gerlach | simon meusel | jakob steinberg | markus kr tzsch,0,10.24963/kr.2024/70,10.24963,kr,0,4
+on computing universal plans for partially observable multi-agent path finding.,iclp,"Fengming Zhu, Fangzhen Lin",fengming zhu | fangzhen lin,0,10.4204/eptcs.439.11,10.4204,eptcs,0,1
+correcting autonomous driving object detection misclassifications with automated commonsense reasoning.,iclp,"Keegan Kimbrell, Wang Tianhao, Feng Chen, Gopal Gupta",keegan kimbrell | wang tianhao | feng chen | gopal gupta,0,10.4204/eptcs.439.10,10.4204,eptcs,0,2
+simple contrapositive assumption-based argumentation with partially-ordered preferences.,kr,"Ofer Arieli, Jesse Heyninck",ofer arieli | jesse heyninck,0,10.24963/kr.2023/6,10.24963,kr,0,3
+structural decompositions of epistemic logic programs.,iclp,"Markus Hecher, Michael Morak, Stefan Woltran",markus hecher | michael morak | stefan woltran,0,10.1609/aaai.v34i03.5672,10.1609,aaai,0,2
+exp aspc : explaining asp programs with choice atoms and constraint rules.,iclp,"Ly Ly Trieu, Tran Cao Son, Marcello Balduccini",ly ly trieu | tran cao son | marcello balduccini,0,10.4204/eptcs.345.28,10.4204,eptcs,0,5
+conditional splittings of belief bases and nonmonotonic inference with c-representations.,kr,"Christoph Beierle, Lars-Phillip Spiegel, Jonas Haldimann, Marco Wilhelm, Jesse Heyninck, Gabriele Kern-Isberner",christoph beierle | lars-phillip spiegel | jonas haldimann | marco wilhelm | jesse heyninck | gabriele kern-isberner,0,10.24963/kr.2024/10,10.24963,kr,0,1
+towards structure learning under the credal semantics.,iclp,Derek Shiller,derek shiller,0,10.4324/9780429331169-6,10.4324,,1,1
+proceedings of the 9th workshop on advances in argumentation in artificial intelligence ai3 2025 co-located with the 41st international conference on logic programming iclp 2025 rende italy september 13 2025.,iclp,"José Júlio Alferes, Luís Moniz Pereira",jos j lio alferes | lu s moniz pereira,0,10.1007/bfb0030657,10.1007,bfb,0,1
+a tractable logic for molecular biology.,iclp,"Adrien Husson, Jean Krivine",adrien husson | jean krivine,0,10.4204/eptcs.306.17,10.4204,eptcs,0,3
+cognitively adequate complexity of reasoning in a description logic.,kr,F. M. Donini,f. m. donini,0,10.1017/cbo9780511711787.005,10.1017,cbo,0,3
+an analysis of gibbs sampling for probabilistic logic programs.,iclp,,,1,10.7551/mitpress/4304.003.0016,10.7551,mitpress,0,2
+rule based temporal inference.,iclp,"Fangyi Li, Qiang Shen",fangyi li | qiang shen,0,10.1007/978-981-97-0491-0 5,10.1007,,1,5
+the janus system: multi-paradigm programming in prolog and python.,iclp,"Theresa Swift, Carl Andersen",theresa swift | carl andersen,0,10.4204/eptcs.385.24,10.4204,eptcs,0,1
+value of information in probabilistic logic programs.,iclp,"Sarthak Ghosh, C. R. Ramakrishnan",sarthak ghosh | c. r. ramakrishnan,0,10.4204/eptcs.306.14,10.4204,eptcs,0,5
+axiomatization of approximate exclusion.,kr,Matilda Häggblom,matilda h ggblom,0,10.24963/kr.2024/38,10.24963,kr,0,1
+ltl synthesis under multi-agent environment assumptions.,kr,"Benjamin Aminof, Giuseppe De Giacomo, Giuseppe Perelli, Sasha Rubin",benjamin aminof | giuseppe de giacomo | giuseppe perelli | sasha rubin,0,10.24963/kr.2025/69,10.24963,kr,0,1
+towards one-shot learning for text classification using inductive logic programming.,iclp,"Ghazal Afroozi Milani, Daniel Cyrus, Alireza Tamaddoni-Nezhad",ghazal afroozi milani | daniel cyrus | alireza tamaddoni-nezhad,0,10.4204/eptcs.385.9,10.4204,eptcs,0,4
+an s casp in-browser playground based on ciao prolog.,iclp,"Daniela Ferreiro, José F. Morales, Salvador Abreu, Manuel V. Hermenegildo",daniela ferreiro | jos f. morales | salvador abreu | manuel v. hermenegildo,0,10.4204/eptcs.385.33,10.4204,eptcs,0,1
+a machine learning guided rewriting approach for asp logic programs.,iclp,"Elena Mastria, Jessica Zangari, Simona Perri, Francesco Calimeri",elena mastria | jessica zangari | simona perri | francesco calimeri,0,10.4204/eptcs.325.31,10.4204,eptcs,0,5
+how lucky are you to know your way a probabilistic approach to knowing how logics.,kr,"Pablo F. Castro, Pedro R. D'Argenio, Raul Fervari",pablo f. castro | pedro r. d argenio | raul fervari,0,10.24963/kr.2025/23,10.24963,kr,0,5
+probabilistic action language pbc+.,iclp,"Joohyung Lee, Yi Wang",joohyung lee | yi wang,0,10.29007/7fmn,10.29007,fmn,0,1
+finest syntax splittings of ranking functions and total preorders on worlds.,kr,"Jonas Philipp Haldimann, Christoph Beierle",jonas philipp haldimann | christoph beierle,0,10.24963/kr.2023/75,10.24963,kr,0,1
+trace-cs: a hybrid logic-llm system for explainable course scheduling.,kr,"Stylianos Loukas Vasileiou, William Yeoh",stylianos loukas vasileiou | william yeoh,0,10.24963/kr.2025/63,10.24963,kr,0,5
+proof-relevant resolution for elaboration of programming languages.,iclp,"Axel Kerinec, Giulio Manzonetto, Federico Olimpieri",axel kerinec | giulio manzonetto | federico olimpieri,0,10.1145/3571201,10.1145,,1,2
+controlled natural language models.,iclp,Francis Frydman,francis frydman,0,10.20944/preprints202512.1848.v1,10.20944,preprints,0,4
+pushing the boundaries of tractable multiperspective reasoning: a deduction calculus for standpoint el+.,kr,"Lucía Gómez Álvarez, Sebastian Rudolph, Hannes Strass",luc a g mez lvarez | sebastian rudolph | hannes strass,0,10.24963/kr.2023/33,10.24963,kr,0,1
+extended magic for negation: efficient demand-driven evaluation of stratified datalog with precise complexity guarantees.,iclp,"K. Tuncay Tekle, Yanhong A. Liu",k. tuncay tekle | yanhong a. liu,0,10.4204/eptcs.306.28,10.4204,eptcs,0,3
+logic programming and machine ethics.,iclp,"Luís Moniz Pereira, Ari Saptawijaya",lu s moniz pereira | ari saptawijaya,0,10.1007/978-3-319-29354-7 6,10.1007,,1,1
+explainable and trustworthy traffic sign detection for safe autonomous driving: an inductive logic programming approach.,iclp,"Zahra Chaghazardi, Saber Fallah, Alireza Tamaddoni-Nezhad",zahra chaghazardi | saber fallah | alireza tamaddoni-nezhad,0,10.4204/eptcs.385.21,10.4204,eptcs,0,1
+equilibrium description logics: results on complexity and relations to circumscription.,kr,"Federica Di Stefano, Mantas Šimkus",federica di stefano | mantas imkus,0,10.24963/kr.2024/29,10.24963,kr,0,1
+model revision of logical regulatory networks using logic-based tools.,iclp,Svetlana Bulashevska,svetlana bulashevska,0,10.4018/9781605666853.ch005,10.4018,ch,0,4
+a tool set for converting controlled natural languages into ai formalisms.,iclp,,,1,10.7551/mitpress/2123.003.0002,10.7551,mitpress,0,5
+logical lease litigation: prolog and llms for rental law compliance in new york.,iclp,"Sanskar Sehgal, Yanhong A. Liu",sanskar sehgal | yanhong a. liu,0,10.4204/eptcs.416.4,10.4204,eptcs,0,3
+a three-valued semantics for typed logic programming.,iclp,"João Barbosa, Mário Florido, Vítor Santos Costa",jo o barbosa | m rio florido | v tor santos costa,0,10.4204/eptcs.306.10,10.4204,eptcs,0,5
+beyond traditional neural networks: toward adding reasoning and learning capabilities through computational logic techniques.,iclp,Andrea Rafanelli,andrea rafanelli,0,10.4204/eptcs.385.51,10.4204,eptcs,0,5
+less manual work for safety engineers: towards an automated safety reasoning with safety patterns.,iclp,"Yuri Gil Dantas, Antoaneta Kondeva, Vivek Nigam",yuri gil dantas | antoaneta kondeva | vivek nigam,0,10.4204/eptcs.325.29,10.4204,eptcs,0,1
+efficient compliance computation in probabilistic declarative specifications.,iclp,"Jeongwoon Choi, Jungyeon Kim, Seokho Chi",jeongwoon choi | jungyeon kim | seokho chi,0,10.2139/ssrn.6381878,10.2139,ssrn,0,3
+unique characterisability and learnability of temporal queries mediated by an ontology.,kr,"Jean Christoph Jung, Vladislav Ryzhikov, Frank Wolter, Michael Zakharyaschev",jean christoph jung | vladislav ryzhikov | frank wolter | michael zakharyaschev,0,10.24963/kr.2024/46,10.24963,kr,0,4
+operator-based semantics for choice programs: is choosing losing,kr,Jesse Heyninck,jesse heyninck,0,10.24963/kr.2024/42,10.24963,kr,0,3
+scalable robotic intra-logistics with answer set programming.,iclp,,,1,10.1017/cbo9781139342124.007,10.1017,cbo,0,2
+semantic analysis of assurance cases using s casp .,iclp,Alistair Duke,alistair duke,0,10.4018/978-1-60566-066-0.ch003,10.4018,ch,0,3
+computational thinking with logic programming.,iclp,,,1,10.1017/cbo9780511984747.027,10.1017,cbo,0,4
+complexity of abduction in ukasiewicz logic.,kr,"Katsumi Inoue, Daniil Kozhemiachenko",katsumi inoue | daniil kozhemiachenko,0,10.24963/kr.2025/41,10.24963,kr,0,2
+leasing the cloud-edge continuum la carte.,iclp,"Stefano Forti, Ahmad Ibrahim, Antonio Brogi",stefano forti | ahmad ibrahim | antonio brogi,0,10.4204/eptcs.385.28,10.4204,eptcs,0,1
+a logic-based framework for database repairs.,kr,"Nicolas Fröhlich, Arne Meier, Nina Pardal, Jonni Virtema",nicolas fr hlich | arne meier | nina pardal | jonni virtema,0,10.24963/kr.2025/32,10.24963,kr,0,3
+memory management in resource-bounded agents.,iclp,Valentina Pitoni,valentina pitoni,0,10.4204/eptcs.306.61,10.4204,eptcs,0,1
+advances in logic-based entity resolution: enhancing aspen with local merges and optimality criteria.,kr,"Zhiliang Xiang, Meghyn Bienvenu, Gianluca Cima, Víctor Gutiérrez-Basulto, Yazmín Ibáñez-García",zhiliang xiang | meghyn bienvenu | gianluca cima | v ctor guti rrez-basulto | yazm n ib ez-garc a,0,10.24963/kr.2025/64,10.24963,kr,0,5
+modeling administrative discretion using goal-directed answer set programming.,iclp,"Joaquín Arias, Mar Moreno-Rebato, Jose A. Rodriguez-García, Sascha Ossowski",joaqu n arias | mar moreno-rebato | jose a. rodriguez-garc a | sascha ossowski,0,10.1007/978-3-030-85713-4 25,10.1007,,1,5
+an asp multi-shot encoding for the aircraft routing and maintenance planning problem.,iclp,"Pierre Tassel, Mohamed Rbaia",pierre tassel | mohamed rbaia,0,10.4204/eptcs.364.22,10.4204,eptcs,0,3
+from acceptance to rejection in abstract argumentation.,kr,"Anne-Marie Heine, Markus Ulbricht",anne-marie heine | markus ulbricht,0,10.24963/kr.2024/41,10.24963,kr,0,5
+the asp-based nurse scheduling system at the university of yamanashi hospital.,iclp,"Hidetomo Nabeshima, Mutsunori Banbara, Torsten Schaub, Takehide Soh",hidetomo nabeshima | mutsunori banbara | torsten schaub | takehide soh,0,10.4204/eptcs.439.23,10.4204,eptcs,0,3
+controlled natural languages for knowledge representation and reasoning.,iclp,"Len Schubert, Moderator",len schubert | moderator,0,10.1016/b978-1-4832-1452-8.50157-3,10.1016,b,0,5
+towards static performance guarantees for programs with run-time checks.,iclp,"Maximiliano Klemen, Nataliia Stulova, Pedro López-García, José Morales, Manuel V. Hermenegildo",maximiliano klemen | nataliia stulova | pedro l pez-garc a | jos morales | manuel v. hermenegildo,0,10.1145/3236950.3236970,10.1145,,1,1
+theory solving made easy with clingo 5.,iclp,KIM McCARRON,kim mccarron,0,10.1097/00152258-200701000-00006,10.1097,,1,5
+explaining agent behaviour via causal analysis of mental states.,kr,,,1,10.5040/9781501331169.0007,10.5040,,1,2
+constraint programming algorithms for route planning exploiting geometrical information.,iclp,Alessandro Bertagnon,alessandro bertagnon,0,10.4204/eptcs.325.38,10.4204,eptcs,0,3
+search-guided generation of properties for program analyzers.,iclp,Yixuan Liang,yixuan liang,0,10.54985/peeref.2601a8981167,10.54985,peeref,0,4
+blawx: web-based user-friendly rules as code.,iclp,"Mehmet Bektasoglu, Abdullah S. Bayraktar",mehmet bektasoglu | abdullah s. bayraktar,0,10.1016/j.radphyschem.2026.113646,10.1016,j,0,1
+kalm: a rule-based approach for knowledge authoring and question answering.,iclp,Tiantian Gao,tiantian gao,0,10.4204/eptcs.306.52,10.4204,eptcs,0,5
+on strong and weak admissibility in non-flat assumption-based argumentation.,kr,"Matti Berthold, Lydia Blümel, Anna Rapberger",matti berthold | lydia bl mel | anna rapberger,0,10.24963/kr.2025/14,10.24963,kr,0,1
+aba learning via asp.,iclp,"Emanuele De Angelis, Maurizio Proietti, Francesca Toni",emanuele de angelis | maurizio proietti | francesca toni,0,10.4204/eptcs.385.1,10.4204,eptcs,0,1
+a gaze into the internal logic of graph neural networks with logic.,iclp,Paul Tarau,paul tarau,0,10.4204/eptcs.364.9,10.4204,eptcs,0,3
+a model-oriented approach for lifting symmetries in answer set programming.,iclp,Alice Tarzariol,alice tarzariol,0,10.4204/eptcs.364.35,10.4204,eptcs,0,4
+assessing drivers apos situation awareness in semi-autonomous vehicles: asp based characterisations of driving dynamics for modelling scene interpretation and projection.,iclp,"Jakob Suchan, Jan-Patrick Osterloh",jakob suchan | jan-patrick osterloh,0,10.4204/eptcs.385.29,10.4204,eptcs,0,2
+modelling infectious disease dynamics with probabilistic logic programming.,iclp,Fabrizio Riguzzi,fabrizio riguzzi,0,10.1201/9781003338192-2,10.1201,,1,2
+knowledge base embeddings: semantics and theoretical properties.,kr,"Camille Bourgaux, Ricardo Guimarães, Raoul Koudijs, Victor Lacerda, Ana Ozaki",camille bourgaux | ricardo guimar es | raoul koudijs | victor lacerda | ana ozaki,0,10.24963/kr.2024/77,10.24963,kr,0,5
+complexity of weighted first-order model counting in the two-variable fragment with counting quantifiers: a bound to beat.,kr,"Jan Tóth, Ondřej Kuželka",jan t th | ond ej ku elka,0,10.24963/kr.2024/64,10.24963,kr,0,2
+top-down splitting property for epistemic logic programs.,iclp,"Pedro Cabalar, Jorge Fandinno, Luis Fariñas del Cerro",pedro cabalar | jorge fandinno | luis fari as del cerro,0,10.24963/ijcai.2020/653,10.24963,ijcai,0,2
+most general variant unifiers.,iclp,"Santiago Escobar, Julia Sapiña",santiago escobar | julia sapi a,0,10.4204/eptcs.306.21,10.4204,eptcs,0,1
+extending description logics with generic concepts - the tale of two semantics.,kr,"Joshua Hirschbrunn, Yevgeny Kazakov",joshua hirschbrunn | yevgeny kazakov,0,10.24963/kr.2024/43,10.24963,kr,0,4
+an information-flow perspective on explainability requirements: specification and verification.,kr,"Bernd Finkbeiner, Hadar Frenkel, Julian Siber",bernd finkbeiner | hadar frenkel | julian siber,0,10.24963/kr.2025/29,10.24963,kr,0,5
+proceedings of the international conference on logic programming 2022 workshops co-located with the 38th international conference on logic programming iclp 2022 haifa israel july 31st - august 1st 2022.,iclp,"YULIYA LIERLER, JOSE F. MORALES",yuliya lierler | jose f. morales,0,10.1017/s147106842200028x,10.1017,s,0,1
+a framework for inconsistency-tolerant reasoning with sets of models.,kr,"Yehia Hatab, Kai Sauerwald, Matthias Thimm",yehia hatab | kai sauerwald | matthias thimm,0,10.24963/kr.2025/37,10.24963,kr,0,2
+towards run-time checks simplification via term hiding.,iclp,,,1,10.1007/978-1-84882-314-3 10,10.1007,,1,3
+modeling clique coloring via asp q .,iclp,Hoifung Poon,hoifung poon,0,10.33915/etd.1008,10.33915,etd,0,2
+research summary: explainable artificial intelligence in answer set programming and machine learning.,iclp,Vladimir Lifschitz,vladimir lifschitz,0,10.1016/s0004-3702 02 00186-8,10.1016,s,0,5
+front matter table of contents preface list of authors.,iclp,,,1,10.1484/m.hmantica-eb.5.152373,10.1484,m,0,1
+interpretable hybrid machine learning models using fold-r++ and answer set programming.,iclp,"Sanne Wielinga, Jesse Heyninck",sanne wielinga | jesse heyninck,0,10.4204/eptcs.439.9,10.4204,eptcs,0,5
+distance-restricted explanations: theoretical underpinnings amp efficient implementation.,kr,"Yacine Izza, Xuanxiang Huang, Antonio Morgado, Jordi Planes, Alexey Ignatiev, Joao Marques-Silva",yacine izza | xuanxiang huang | antonio morgado | jordi planes | alexey ignatiev | joao marques-silva,0,10.24963/kr.2024/45,10.24963,kr,0,5
+a system for explainable answer set programming.,iclp,"Pedro Cabalar, Jorge Fandinno, Brais Muñiz",pedro cabalar | jorge fandinno | brais mu iz,0,10.4204/eptcs.325.19,10.4204,eptcs,0,5
+modelling human mental-states in an action language following the theory of planned behavior.,iclp,"Rory C. O’Connor, Christopher J. Armitage",rory c. o connor | christopher j. armitage,0,10.4324/9781315126449-2,10.4324,,1,1
+grounding rule-based argumentation using datalog.,kr,"Martin Diller, Sarah Alice Gaggl, Philipp Hanisch, Giuseppina Monterosso, Fritz Rauschenbach",martin diller | sarah alice gaggl | philipp hanisch | giuseppina monterosso | fritz rauschenbach,0,10.24963/kr.2025/28,10.24963,kr,0,5
+on the complexity and properties of preferential propositional dependence logic.,kr,"Kai Sauerwald, Arne Meier, Juha Kontinen",kai sauerwald | arne meier | juha kontinen,0,10.24963/kr.2025/51,10.24963,kr,0,2
+generating concurrent programs from sequential data structure knowledge using answer set programming.,iclp,"Sarat Chandra Varanasi, Neeraj Mittal, Gopal Gupta",sarat chandra varanasi | neeraj mittal | gopal gupta,0,10.4204/eptcs.345.36,10.4204,eptcs,0,4
+automated theorem proving for prolog verification.,iclp,"Fred Mesnard, Thierry Marianne, Etienne Payet",fred mesnard | thierry marianne | etienne payet,0,10.29007/c25r,10.29007,c,0,3
+actual causality in contextual abduction.,iclp,"Degoldie Sonny, Ari Saptawijaya, Raja Oktovin Parhasian Damanik",degoldie sonny | ari saptawijaya | raja oktovin parhasian damanik,0,10.1109/icacsis51025.2020.9263160,10.1109,icacsis,0,2
+understanding problog as probabilistic argumentation.,iclp,"Francesca Toni, Nico Potyka, Markus Ulbricht, Pietro Totis",francesca toni | nico potyka | markus ulbricht | pietro totis,0,10.4204/eptcs.385.18,10.4204,eptcs,0,4
+faithful differentiable reasoning with reshuffled region-based embeddings.,kr,"Aleksandar Pavlovic, Emanuel Sallinger, Steven Schockaert",aleksandar pavlovic | emanuel sallinger | steven schockaert,0,10.24963/kr.2025/48,10.24963,kr,0,1
+action language ma with higher-order action observability.,kr,"David Buckingham, Matthias Scheutz, Tran Cao Son, Francesco Fabiano",david buckingham | matthias scheutz | tran cao son | francesco fabiano,0,10.24963/kr.2024/20,10.24963,kr,0,2
+dynamic epistemic logic with asp updates: application to conditional planning.,iclp,,,1,10.1007/978-1-4020-5839-4 2,10.1007,,1,3
+using ontology to analyze sentiment of comments on vietnamese social media.,kr,,,1,10.53796/hnsj31027,10.53796,hnsj,0,5
+generalizing level ranking constraints for monotone and convex aggregates.,iclp,Tomi Janhunen,tomi janhunen,0,10.4204/eptcs.385.12,10.4204,eptcs,0,1
+a framework for conditional reasoning in answer set programming.,iclp,"Mario Alviano, Laura Giordano, Daniele Theseider Dupré",mario alviano | laura giordano | daniele theseider dupr,0,10.4204/eptcs.439.13,10.4204,eptcs,0,4
+lp2pb: translating answer set programs into pseudo-boolean theories.,iclp,"Wolf De Wulf, Bart Bogaerts",wolf de wulf | bart bogaerts,0,10.4204/eptcs.325.25,10.4204,eptcs,0,5
+enhancing compilation-based asp solving.,iclp,"Carmine Dodaro, Giuseppe Mazzotta, Francesco Ricca",carmine dodaro | giuseppe mazzotta | francesco ricca,0,10.24963/kr.2024/30,10.24963,kr,0,5
+quantified constraint handling rules.,iclp,"Vincent Barichard, Igor Stéphan",vincent barichard | igor st phan,0,10.1145/3728640,10.1145,,1,2
+masp-reduce: a proposal for distributed computation of stable models.,iclp,Marco De Bortoli,marco de bortoli,0,10.4204/eptcs.306.60,10.4204,eptcs,0,1
+embedding s casp in prolog.,iclp,Mehul Chandrakant Solanki,mehul chandrakant solanki,0,10.24124/2016/bpgub1142,10.24124,bpgub,0,3
+learning robust reward machines from noisy labels.,kr,"Roko Parać, Lorenzo Nodari, Leo Ardon, Daniel Furelos-Blanco, Federico Cerutti, Alessandra Russo",roko para | lorenzo nodari | leo ardon | daniel furelos-blanco | federico cerutti | alessandra russo,0,10.24963/kr.2024/85,10.24963,kr,0,2
+strong equivalence for lpmln programs.,iclp,"Joohyung Lee, Man Luo",joohyung lee | man luo,0,10.4204/eptcs.306.24,10.4204,eptcs,0,1
+a dataset of contractual events in court decisions.,iclp,Robert M. Guion,robert m. guion,0,10.1037/e580582009-009,10.1037,e,0,4
+modeling and solving graph synthesis problems using sat-encoded reachability constraints in picat.,iclp,Neng-Fa Zhou,neng-fa zhou,0,10.4204/eptcs.345.30,10.4204,eptcs,0,1
+smt-based constraint answer set solver ezsmt system description .,iclp,Yuting Zhao,yuting zhao,0,10.14711/thesis-b810483,10.14711,thesis,0,2
+a speech about generative datalog and non-measurable sets.,iclp,,,1,10.1017/9781009003797.008,10.1017,,1,2
+knowledge graphs amp reasoning in concert: automating regulation in corporate economics.,iclp,,,1,10.1049/pbpc063e ch3,10.1049,pbpc,0,2
+copredication and ontological mutability.,kr,Mathias Guenther,mathias guenther,0,10.1007/978-3-030-21186-8 2,10.1007,,1,2
+fitting ontologies and constraints to relational structures.,kr,"Simon Hosemann, Jean Christoph Jung, Carsten Lutz, Sebastian Rudolph",simon hosemann | jean christoph jung | carsten lutz | sebastian rudolph,0,10.24963/kr.2025/40,10.24963,kr,0,5
+translating p-log lpmln lpod and cr-prolog2 into standard answer set programs.,iclp,"Joohyung Lee, Zhun Yang",joohyung lee | zhun yang,0,10.29007/d8rl,10.29007,d,0,2
+property directed reachability for planning revisited.,kr,"Ava Clifton, Charles Gretton",ava clifton | charles gretton,0,10.24963/kr.2023/16,10.24963,kr,0,2
+abstractions of queries in ontology-based data access.,kr,"Michel Leclère, Marie-Laure Mugnier, Guillaume Pérution-Kihli",michel lecl re | marie-laure mugnier | guillaume p rution-kihli,0,10.24963/kr.2025/43,10.24963,kr,0,4
+mutex graphs and multicliques: reducing grounding size for planning.,iclp,"David Spies, Jia-Huai You, Ryan Hayward",david spies | jia-huai you | ryan hayward,0,10.4204/eptcs.306.20,10.4204,eptcs,0,1
+grounded fixpoints and active integrity constraints.,iclp,"Bart Bogaerts, Joost Vennekens, Marc Denecker",bart bogaerts | joost vennekens | marc denecker,0,10.1609/aaai.v29i1.9388,10.1609,aaai,0,2
+computing h-partitions in asp and datalog.,iclp,"R. S. Bird, O. de Moor",r. s. bird | o. de moor,0,10.1007/bf01211316,10.1007,bf,0,3
+mathematical foundations for joining only knowing and common knowledge.,kr,"Marcos Cramer, Samuele Pollaci, Bart Bogaerts",marcos cramer | samuele pollaci | bart bogaerts,0,10.24963/kr.2023/17,10.24963,kr,0,5
+a normative model of explanation for binary classification legal ai and its implementation on causal explanations of answer set programming.,iclp,Haodi Zhang,haodi zhang,0,10.14711/thesis-b1584877,10.14711,thesis,0,5
+solving assembly line workload smoothing problem via answer set programming.,iclp,Omar El-Khatib,omar el-khatib,0,10.1109/csci.2016.0098,10.1109,csci,0,2
+extending answer set programs with neural networks.,iclp,Zhun Yang,zhun yang,0,10.4204/eptcs.325.41,10.4204,eptcs,0,5
+a singly exponential transformation of ltl x f into pure past ltl.,kr,"Alessandro Artale, Luca Geatti, Nicola Gigante, Andrea Mazzullo, Angelo Montanari",alessandro artale | luca geatti | nicola gigante | andrea mazzullo | angelo montanari,0,10.24963/kr.2023/7,10.24963,kr,0,1
+an epistemic theory of deductive arguments.,kr,Emiliano Lorini,emiliano lorini,0,10.24963/kr.2025/44,10.24963,kr,0,5
+statistical syllogistic tableaux.,iclp,"Domenico Cantone, Eugenio Omodeo, Alberto Policriti",domenico cantone | eugenio omodeo | alberto policriti,0,10.1007/978-1-4757-3452-2 14,10.1007,,1,2
+empowering public interest communication with argumentation - project report short paper .,iclp,Alejandra Casas Niño de Rivera,alejandra casas ni o de rivera,0,10.59350/yvcg5-eb965,10.59350,yvcg,0,1
+hybrid answer set programming: foundations and applications.,iclp,Nicolas Rühling,nicolas r hling,0,10.4204/eptcs.416.38,10.4204,eptcs,0,5
+natlog: embedding logic programming into the python deep-learning ecosystem.,iclp,Paul Tarau,paul tarau,0,10.4204/eptcs.385.15,10.4204,eptcs,0,5
+probkanren: a simple probabilistic extension for microkanren.,iclp,Rohit Dhormare,rohit dhormare,0,10.20944/preprints202506.0043.v1,10.20944,preprints,0,3
+a brief discussion about the credal semantics for probabilistic answer set programs.,iclp,Damiano Azzolini,damiano azzolini,0,10.4204/eptcs.385.30,10.4204,eptcs,0,5
+inductive learning of declarative domain-specific heuristics for asp.,iclp,Richard Comploi-Taupe,richard comploi-taupe,0,10.4204/eptcs.385.14,10.4204,eptcs,0,4
+qiana: a first-order formalism to quantify over contexts and formulas.,kr,"Simon Coumes, Pierre-Henri Paris, François Schwarzentruber, Fabian Suchanek",simon coumes | pierre-henri paris | fran ois schwarzentruber | fabian suchanek,0,10.1613/jair.1.18402,10.1613,jair,0,2
+on verifying and generating robust plans for planning tasks with exogenous events.,kr,"Lukas Chrpa, Erez Karpas",lukas chrpa | erez karpas,0,10.24963/kr.2024/26,10.24963,kr,0,2
+probabilistic declarative process mining.,iclp,"Anti Alman, Fabrizio Maria Maggi, Marco Montali, Rafael Peñaloza",anti alman | fabrizio maria maggi | marco montali | rafael pe aloza,0,10.1016/j.is.2022.102033,10.1016,j,0,4
+revisiting inferential benchmarks for knowledge graph completion.,kr,"Shuwen Liu, Bernardo Cuenca Grau, Ian Horrocks, Egor V. Kostylev",shuwen liu | bernardo cuenca grau | ian horrocks | egor v. kostylev,0,10.24963/kr.2023/45,10.24963,kr,0,4
+platform for introducing logic programming in bulgarian secondary schools - ideas intelligent data educational analysis system .,iclp,"Veneta Tabakova-Komsalova, Ivan Stoyanov, George Cholakov, Magdalena Maglizhanova",veneta tabakova-komsalova | ivan stoyanov | george cholakov | magdalena maglizhanova,0,10.18421/tem134-56,10.18421,tem,0,1
+automated planning with ontologies under coherence update semantics.,kr,"Stefan Borgwardt, Duy Nhu, Gabriele Röger",stefan borgwardt | duy nhu | gabriele r ger,0,10.24963/kr.2025/72,10.24963,kr,0,5
+blending grounding and compilation for efficient asp solving.,kr,"Carmine Dodaro, Giuseppe Mazzotta, Francesco Ricca",carmine dodaro | giuseppe mazzotta | francesco ricca,0,10.24963/kr.2024/30,10.24963,kr,0,4
+quantitative and stream extensions of answer set programming.,iclp,Rafael Kiesel,rafael kiesel,0,10.4204/eptcs.345.43,10.4204,eptcs,0,4
+preference-based abstract argumentation for case-based reasoning.,kr,"Adam Gould, Guilherme Paulino-Passos, Seema Dadhania, Matthew Williams, Francesca Toni",adam gould | guilherme paulino-passos | seema dadhania | matthew williams | francesca toni,0,10.24963/kr.2024/37,10.24963,kr,0,3
+exp aspc : explaining asp programs with choice atoms and constraint rules.,iclp,"Ly Ly Trieu, Tran Cao Son, Marcello Balduccini",ly ly trieu | tran cao son | marcello balduccini,0,10.4204/eptcs.345.28,10.4204,eptcs,0,5
+symmetries and expressive requirements for learning general policies.,kr,"Dominik Drexler, Simon Ståhlberg, Blai Bonet, Hector Geffner",dominik drexler | simon st hlberg | blai bonet | hector geffner,0,10.24963/kr.2024/79,10.24963,kr,0,2
+routing and scheduling in different ways: abridged preliminary report.,iclp,,,1,10.1021/acs.iecr.8b00799.s001,10.1021,acs,0,1
+advancing interactive explainable ai via belief change theory.,kr,"Antonio Rago, Maria Vanina Martinez",antonio rago | maria vanina martinez,0,10.24963/kr.2024/87,10.24963,kr,0,5
+inconsistency handling in prioritized databases with universal constraints: complexity analysis and links with active integrity constraints.,kr,"Meghyn Bienvenu, Camille Bourgaux",meghyn bienvenu | camille bourgaux,0,10.24963/kr.2023/10,10.24963,kr,0,2
+tabling optimization for contextual abduction.,iclp,"Ridhwan Dewoprabowo, Ari Saptawijaya",ridhwan dewoprabowo | ari saptawijaya,0,10.4204/eptcs.325.20,10.4204,eptcs,0,3
+formally explaining decision tree models with answer set programming.,iclp,"Akihiro Takemura, Masayuki Otani, Katsumi Inoue",akihiro takemura | masayuki otani | katsumi inoue,0,10.4204/eptcs.439.29,10.4204,eptcs,0,5
+on feasibility of declarative diagnosis.,iclp,Włodzimierz Drabent,w odzimierz drabent,0,10.4204/eptcs.385.20,10.4204,eptcs,0,2
+learning asp domain-specific heuristics using transformers.,iclp,Marcello Balduccini,marcello balduccini,0,10.3233/aic-2011-0493,10.3233,aic,0,5
+// efficient declarative solutions in picat for optimal multi-agent pathfinding.,iclp,"Roman Bartak, Neng-Fa Zhou, Roni Stern, Eli Boyarski, Pavel Surynek",roman bartak | neng-fa zhou | roni stern | eli boyarski | pavel surynek,0,10.1109/ictai.2017.00147,10.1109,ictai,0,1
+tree-like justification systems are consistent.,iclp,"Simon Marynissen, Bart Bogaerts",simon marynissen | bart bogaerts,0,10.4204/eptcs.364.1,10.4204,eptcs,0,1
+depth-bounded epistemic planning.,kr,"Thomas Bolander, Alessandro Burigana, Marco Montali",thomas bolander | alessandro burigana | marco montali,0,10.24963/kr.2025/70,10.24963,kr,0,1
+link prediction in knowledge graphs with probabilistic logic programming: work in progress.,iclp,"LUIGI BELLOMARINI, ELEONORA LAURENZA, EMANUEL SALLINGER, EVGENY SHERKHONOV",luigi bellomarini | eleonora laurenza | emanuel sallinger | evgeny sherkhonov,0,10.1017/s1471068422000412,10.1017,s,0,4
+nemo: first glimpse of a new rule engine.,iclp,"Alex Ivliev, Stefan Ellmauthaler, Lukas Gerlach, Maximilian Marx, Matthias Meißner, Simon Meusel, Markus Krötzsch",alex ivliev | stefan ellmauthaler | lukas gerlach | maximilian marx | matthias mei ner | simon meusel | markus kr tzsch,0,10.4204/eptcs.385.35,10.4204,eptcs,0,2
+proceedings 39th international conference on logic programming iclp 2023 imperial college london uk 9th july 2023 - 15th july 2023.,iclp,", Zhaoyang Jacopo Hu, Longrui Chen, , Yanpei Huang, , Etienne Burdet, , Ferdinando Rodriguez Y Baena, ",zhaoyang jacopo hu | longrui chen | yanpei huang | etienne burdet | ferdinando rodriguez y baena,0,10.31256/hsmr2023.57,10.31256,hsmr,0,1
+a low-level index for distributed logic programming.,iclp,Thomas Prokosch,thomas prokosch,0,10.4204/eptcs.325.40,10.4204,eptcs,0,2
+learning and contesting assumption-based argumentation frameworks invited talk .,iclp,"Ofer Arieli, Jesse Heyninck",ofer arieli | jesse heyninck,0,10.2139/ssrn.4850544,10.2139,ssrn,0,2
+imperative program synthesis from answer set programs.,iclp,Sarat Chandra Varanasi,sarat chandra varanasi,0,10.4204/eptcs.306.55,10.4204,eptcs,0,4
+generating local search neighborhood with synthesized logic programs.,iclp,"Mateusz Ślażyński, Salvador Abreu, Grzegorz J. Nalepa",mateusz la y ski | salvador abreu | grzegorz j. nalepa,0,10.4204/eptcs.306.22,10.4204,eptcs,0,5
+a reduct-based approach to skeptical preferred reasoning in abstract argumentation.,kr,"Lars Bengel, Julian Sander, Matthias Thimm",lars bengel | julian sander | matthias thimm,0,10.24963/kr.2025/13,10.24963,kr,0,3
+on conflict-free labellings - realizability construction and patterns of redundancy.,kr,"Ringo Baumann, Anne-Marie Heine",ringo baumann | anne-marie heine,0,10.24963/kr.2023/70,10.24963,kr,0,5
+lp-lm: no hallucinations in question answering with logic programming.,iclp,"Katherine Wu, Yanhong A. Liu",katherine wu | yanhong a. liu,0,10.4204/eptcs.416.5,10.4204,eptcs,0,3
+order-sorted intensional logic: expressing subtyping polymorphism with typing assertions and quantification over concepts.,iclp,"Đorđe Marković, Marc Denecker",or e markovi | marc denecker,0,10.4204/eptcs.416.22,10.4204,eptcs,0,1
+optimisation and approximation in abstract argumentation: the case of admissibility.,kr,"Kenneth Skiba, Matthias Thimm",kenneth skiba | matthias thimm,0,10.24963/kr.2024/63,10.24963,kr,0,3
+a logic-based multi-agent system for ethical monitoring and evaluation of dialogues.,iclp,"Abeer Dyoub, Stefania Costantini, Ivan Letteri, Francesca A. Lisi",abeer dyoub | stefania costantini | ivan letteri | francesca a. lisi,0,10.4204/eptcs.345.32,10.4204,eptcs,0,2
+strategy logic imperfect information and hyperproperties.,kr,"Raven Beutner, Bernd Finkbeiner",raven beutner | bernd finkbeiner,0,10.24963/kr.2025/15,10.24963,kr,0,3
+halting recurrent gnns and the graded mu-calculus.,kr,"Jeroen Bollen, Jan Van den Bussche, Stijn Vansummeren, Jonni Virtema",jeroen bollen | jan van den bussche | stijn vansummeren | jonni virtema,0,10.24963/kr.2025/18,10.24963,kr,0,2
+constrained default logic programming.,iclp,David Poole,david poole,0,10.1093/oso/9780198537472.003.0004,10.1093,oso,0,4
+on the potential of clip for compositional logical reasoning.,iclp,Justin Brody,justin brody,0,10.4204/eptcs.385.10,10.4204,eptcs,0,2
+integration of logical english and s casp .,iclp,,,1,10.3403/01582237,10.3403,,1,4
+iterative asp pipelines: enhancements for robots playing mobile games.,iclp,,,1,10.1201/b14610-10,10.1201,b,0,4
+on the translation of asp rules to controlled natural language sentences.,iclp,"SIMONE CARUSO, CARMINE DODARO, MARCO MARATEA, MARCO MOCHI, FRANCESCO RICCIO",simone caruso | carmine dodaro | marco maratea | marco mochi | francesco riccio,0,10.1017/s1471068423000388,10.1017,s,0,4
+a methodology for incompleteness-tolerant and modular gradual semantics for argumentative statement graphs.,kr,"Antonio Rago, Stylianos Loukas Vasileiou, Son Tran, Francesca Toni, William Yeoh",antonio rago | stylianos loukas vasileiou | son tran | francesca toni | william yeoh,0,10.24963/kr.2025/49,10.24963,kr,0,2
+gradient-based supported model computation in vector spaces.,iclp,"Taisuke Sato, Chiaki Sakama, Katsumi Inoue",taisuke sato | chiaki sakama | katsumi inoue,0,10.5220/0009093407580765,10.5220,,1,4
+abstraction in assumption-based argumentation.,kr,"Iosif Apostolakis, Zeynep G. Saribatur, Johannes P. Wallner",iosif apostolakis | zeynep g. saribatur | johannes p. wallner,0,10.24963/kr.2024/5,10.24963,kr,0,5
+model checking linear temporal logic with standpoint modalities.,kr,"Rajab Aghamov, Christel Baier, Toghrul Karimov, Rupak Majumdar, Joël Ouaknine, Jakob Piribauer, Timm Spork",rajab aghamov | christel baier | toghrul karimov | rupak majumdar | jo l ouaknine | jakob piribauer | timm spork,0,10.24963/kr.2025/1,10.24963,kr,0,2
+communication with individuals with disabilities and the role of llms: progress report.,kr,Amogh Khaparde,amogh khaparde,0,10.58445/rars.1653,10.58445,rars,0,1
+a coq formalization of unification modulo exclusive-or.,iclp,"Yichi Xu, Daniel J. Dougherty, Rose Bohrer",yichi xu | daniel j. dougherty | rose bohrer,0,10.4204/eptcs.416.23,10.4204,eptcs,0,1
+axiomatic characterisations of argumentation semantics.,kr,Leila Amgoud,leila amgoud,0,10.24963/kr.2025/4,10.24963,kr,0,2
+from infinite to finite traces and back: linear temporal logic in sequential decision making.,kr,"Luca Geatti, Alessandro Gianola, Nicola Gigante",luca geatti | alessandro gianola | nicola gigante,0,10.24963/ijcai.2022/366,10.24963,ijcai,0,1
+temporal conditional reasoning with weighted knowledge bases.,iclp,Christian Eichhorn,christian eichhorn,0,10.1007/978-3-476-04824-0 6,10.1007,,1,3
+reliable natural language understanding with large language models and answer set programming.,iclp,"Abhiramon Rajasekharan, Yankai Zeng, Parth Padalkar, Gopal Gupta",abhiramon rajasekharan | yankai zeng | parth padalkar | gopal gupta,0,10.4204/eptcs.385.27,10.4204,eptcs,0,5
+neuro-symbolic contrastive learning for cross-domain inference.,iclp,"Mingyue Liu, Ryo Ueda, Zhen Wan, Katsumi Inoue, Chris G. Willcocks",mingyue liu | ryo ueda | zhen wan | katsumi inoue | chris g. willcocks,0,10.4204/eptcs.416.6,10.4204,eptcs,0,4
+counterfactual scenarios for automated planning.,kr,"Nicola Gigante, Francesco Leofante, Andrea Micheli",nicola gigante | francesco leofante | andrea micheli,0,10.24963/kr.2025/76,10.24963,kr,0,2
+presburger functional synthesis: complexity and tractable normal forms.,kr,"S. Akshay, A. R. Balasubramanian, Supratik Chakraborty, Georg Zetzsche",s. akshay | a. r. balasubramanian | supratik chakraborty | georg zetzsche,0,10.24963/kr.2025/2,10.24963,kr,0,2
+justifications and blocking sets in a rule-based answer set computation.,iclp,,,1,10.1017/cbo9781139342124.008,10.1017,cbo,0,2
+proper linear-time specifications of environment behaviors in nondeterministic planning and reactive synthesis.,kr,"Benjamin Aminof, Giuseppe De Giacomo, Sasha Rubin, Florian Zuleger",benjamin aminof | giuseppe de giacomo | sasha rubin | florian zuleger,0,10.24963/kr.2024/4,10.24963,kr,0,2
+a fixpoint characterization of three-valued disjunctive hybrid mknf knowledge bases.,iclp,"Spencer Killen, Jia-Huai You",spencer killen | jia-huai you,0,10.4204/eptcs.364.6,10.4204,eptcs,0,1
+efficient volume computation for smt formulas.,kr,"Arijit Shaw, Uddalok Sarkar, Kuldeep S. Meel",arijit shaw | uddalok sarkar | kuldeep s. meel,0,10.24963/kr.2025/53,10.24963,kr,0,2
+extended abstract: a reliable common-sense reasoning socialbot built using llms and goal-directed asp.,iclp,"YANKAI ZENG, ABHIRAMON RAJASEKHARAN, KINJAL BASU, HUADUO WANG, JOAQUÍN ARIAS, GOPAL GUPTA",yankai zeng | abhiramon rajasekharan | kinjal basu | huaduo wang | joaqu n arias | gopal gupta,0,10.1017/s147106842400022x,10.1017,s,0,3
+extending abstract argumentation frameworks with knowledge bases.,kr,"Gianvincenzo Alfano, Sergio Greco, Cristian Molinaro, Francesco Parisi, Irina Trubitsyna",gianvincenzo alfano | sergio greco | cristian molinaro | francesco parisi | irina trubitsyna,0,10.24963/kr.2025/3,10.24963,kr,0,4
+on llm-generated logic programs and their inference execution methods.,iclp,Paul Tarau,paul tarau,0,10.4204/eptcs.416.1,10.4204,eptcs,0,5
+modular stochastic rewritable petri nets.,iclp,,,1,10.1002/9781394388660.ch3,10.1002,ch,0,5
+regular typed unification.,iclp,"João Barbosa, Mário Florido, Vítor Santos Costa",jo o barbosa | m rio florido | v tor santos costa,0,10.4204/eptcs.416.21,10.4204,eptcs,0,1
+approximating weakly preferred semantics in abstract argumentation through vacuous reduct semantics.,kr,"Lydia Blümel, Matthias Thimm",lydia bl mel | matthias thimm,0,10.24963/kr.2023/11,10.24963,kr,0,1

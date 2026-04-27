@@ -1,0 +1,431 @@
+authors,count,percent
+,52,10.196078431372548
+Fabrizio Riguzzi,6,1.1764705882352942
+Paul Tarau,5,0.9803921568627451
+"Biqing Fang, Fangzhen Lin",2,0.39215686274509803
+"WOLFGANG FABER, MICHAEL MORAK, LUKÁŠ CHRPA",2,0.39215686274509803
+Seemran Mishra,2,0.39215686274509803
+Samuele Pollaci,2,0.39215686274509803
+"Spencer Killen, Jia-Huai You",2,0.39215686274509803
+Susana Hahn,2,0.39215686274509803
+"Kilian Rückschloß, Felix Weitkämper",2,0.39215686274509803
+Marco De Bortoli,2,0.39215686274509803
+Francesco Fabiano,2,0.39215686274509803
+"Mario Alviano, Laura Giordano, Daniele Theseider Dupré",2,0.39215686274509803
+"Daniela Ferreiro, José F. Morales, Salvador Abreu, Manuel V. Hermenegildo",2,0.39215686274509803
+Ezgi Iraz Su,2,0.39215686274509803
+"Yifan He, Munyque Mittelmann, Aniello Murano, Abdallah Saffidine, Michael Thielscher",2,0.39215686274509803
+Ondřej Vašíček,2,0.39215686274509803
+"Joaquín Arias, Mar Moreno-Rebato, Jose A. Rodriguez-García, Sascha Ossowski",2,0.39215686274509803
+Ivor Uhliarik,2,0.39215686274509803
+"Ofer Arieli, Jesse Heyninck",2,0.39215686274509803
+"Ly Ly Trieu, Tran Cao Son, Marcello Balduccini",2,0.39215686274509803
+"João Barbosa, Mário Florido, Vítor Santos Costa",2,0.39215686274509803
+"Carmine Dodaro, Giuseppe Mazzotta, Francesco Ricca",2,0.39215686274509803
+"Edmond Jajaga, Lule Ahmedi",1,0.19607843137254902
+"Agostino Dovier, Talissa Dreossi, Andrea Formisano, Benedetta Strizzolo",1,0.19607843137254902
+"Esteban Guerrero, Juan Carlos Nieves",1,0.19607843137254902
+"Chenyuan Zhang, Cristian Rojas Cardenas, Hamid Rezatofighi, Mor Vered, Buser Say",1,0.19607843137254902
+"Pietro Galliani, Oliver Kutz, Nicolas Troquard",1,0.19607843137254902
+Aysu Bogatarkan,1,0.19607843137254902
+"Tomáš Balyo, Martin Suda, Lukáš Chrpa, Dominik Šafránek, Stephan Gocht, Filip Dvořák, Roman Barták, G. Michael Youngblood",1,0.19607843137254902
+"Steffen Schieweck, Gabriele Kern-Isberner, Michael ten Hompel",1,0.19607843137254902
+"Sourav Chakraborty, Avijeet Ghosh, Sujata Ghosh, François Schwarzentruber",1,0.19607843137254902
+Valerio Terragni,1,0.19607843137254902
+"Claudia Grundke, Malte Helmert, Gabriele Röger",1,0.19607843137254902
+"Huaiqing Wang, Stephen Liao, Lejian Liao",1,0.19607843137254902
+"Matthew Morris, David J. Tena Cucala, Bernardo Cuenca Grau, Ian Horrocks",1,0.19607843137254902
+"David Tena Cucala, Bernardo Cuenca Grau, Boris Motik, Egor V. Kostylev",1,0.19607843137254902
+"Pedro Cabalar, Thomas Eiter, Davide Soldà",1,0.19607843137254902
+Alex M. Andrew,1,0.19607843137254902
+"Martín Diéguez, Igor Stéphan",1,0.19607843137254902
+"Meghyn Bienvenu, Gianluca Cima, Víctor Gutiérrez-Basulto",1,0.19607843137254902
+"Dominik Rusovac, Markus Hecher, Martin Gebser, Sarah Alice Gaggl, Johannes K. Fichte",1,0.19607843137254902
+"Andoni Rodríguez, Irfansha Shaik, Davide Corsi, Roy Fox, César Sánchez",1,0.19607843137254902
+"Daniel Hausmann, Shufang Zhu, Gianmarco Parretti, Christoph Weinhuber, Giuseppe De Giacomo, Nir Piterman",1,0.19607843137254902
+Keegan Kimbrell,1,0.19607843137254902
+Georg Gottlob,1,0.19607843137254902
+Wenhao Ding,1,0.19607843137254902
+"Paul Tarau, Jan Wielemaker, Tom Schrijvers",1,0.19607843137254902
+"Mario Alviano, Luis Angel Rodriguez Reiners",1,0.19607843137254902
+"José Luis Vilchis Medina, Pierre Siegel, Vincent Risch, Andrei Doncescu",1,0.19607843137254902
+"Thomas Eiter, Markus Hecher, Rafael Kiesel",1,0.19607843137254902
+"Stylianos Loukas Vasileiou, Ashwin Kumar, William Yeoh, Tran Cao Son, Francesca Toni",1,0.19607843137254902
+Fiona Rossette-Crake,1,0.19607843137254902
+"Damiano Azzolini, Markus Hecher",1,0.19607843137254902
+"Van Duc Nguyen, Tran Cao Son, Enrico Pontelli",1,0.19607843137254902
+"Bernhard Bliem, Michael Morak, Marius Moldovan, Stefan Woltran",1,0.19607843137254902
+"Yuheng Wang, Giorgian Borca-Tasciuc, Nikhil Goel, Paul Fodor, Michael Kifer",1,0.19607843137254902
+"Hana Chockler, Joseph Y. Halpern",1,0.19607843137254902
+"Weronika Adrian, Paweł Caryk",1,0.19607843137254902
+Luca Viganò,1,0.19607843137254902
+"Stefan Panjkovic, Alessandro Cimatti, Andrea Micheli, Stefano Tonetta",1,0.19607843137254902
+Talissa Dreossi,1,0.19607843137254902
+"Gabriele Kern-Isberner, Alexander Hahn, Jonas Haldimann, Christoph Beierle",1,0.19607843137254902
+"Basem Atiq, Volkan Patoglu, Esra Erdem",1,0.19607843137254902
+Sopam Dasgupta,1,0.19607843137254902
+"Maksim Gladyshev, Natasha Alechina, Mehdi Dastani, Dragan Doder",1,0.19607843137254902
+Arnon Avron,1,0.19607843137254902
+xi zheng,1,0.19607843137254902
+Farhad Shakerin,1,0.19607843137254902
+Susanna Berger,1,0.19607843137254902
+Zach Hansen,1,0.19607843137254902
+"David Ing, Said Jabbour, Lakhdar Sais, Fabien Delorme",1,0.19607843137254902
+"Francesco Ricca, Alessandra Russo",1,0.19607843137254902
+"Ralph Butler, Ewing Lusk, William McCune, Ross Overbeek",1,0.19607843137254902
+"Claire David, Nadime Francis, Victor Marsault",1,0.19607843137254902
+"Valentina Pitoni, Stefania Costantini",1,0.19607843137254902
+Rachel Ben-Eliyahu-Zohary,1,0.19607843137254902
+"Lingyun Situ, Lingzhong Zhao",1,0.19607843137254902
+"Gonzague Yernaux, Wim Vanhoof",1,0.19607843137254902
+"Lukas Gerlach, David Carral",1,0.19607843137254902
+"Jaikrishna Manojkumar Patil, Adam Chapman, Richard Knuszka, John Chapman, Paulo Shakarian",1,0.19607843137254902
+"Veronika Semmelrock, Gerhard Friedrich",1,0.19607843137254902
+"Franz Baader, Pavlos Marantidis, Alexander Okhotin",1,0.19607843137254902
+"Lien Vi Pham, Son Bao Pham",1,0.19607843137254902
+"Francesco Leofante, Hamed Ayoobi, Adam Dejl, Gabriel Freedman, Deniz Gorur, Junqi Jiang, Guilherme Paulino-Passos, Antonio Rago, Anna Rapberger, Fabrizio Russo, Xiang Yin, Dekai Zhang, Francesca Toni",1,0.19607843137254902
+"Carsten Lutz, Lukas Schulze",1,0.19607843137254902
+"Adam Sanborn, Jian-Qiao Zhu, Jake Spicer, Joakim Sundh, Pablo León-Villagrá, Nick Chater",1,0.19607843137254902
+"Max Bannach, Markus Hecher",1,0.19607843137254902
+"Giacomo Da Col, Erich Teppan",1,0.19607843137254902
+"Jesse Heyninck, Richard Booth, Thomas Meyer, Lars-Phillip Spiegel",1,0.19607843137254902
+"Xiang Yin, Nico Potyka, Francesca Toni",1,0.19607843137254902
+"John Meyer, Daniela Inclezan",1,0.19607843137254902
+Fang Li,1,0.19607843137254902
+Alex Brik,1,0.19607843137254902
+Kalonji Kalala,1,0.19607843137254902
+"Giovanni Varricchione, Toryn Q. Klassen, Natasha Alechina, Mehdi Dastani, Brian Logan, Sheila A. McIlraith",1,0.19607843137254902
+Francesca Toni,1,0.19607843137254902
+Guanjun Liu,1,0.19607843137254902
+"Andrea Cuteri, Giuseppe Mazzotta, Francesco Ricca",1,0.19607843137254902
+"Spencer Killen, Jia-Huai You, Jesse Heyninck",1,0.19607843137254902
+"Erica Coppolillo, Francesco Calimeri, Giuseppe Manco, Simona Perri, Francesco Ricca",1,0.19607843137254902
+"Alexander Beiser, Martin Gebser, Markus Hecher, Stefan Woltran",1,0.19607843137254902
+"Bryant Hargreaves, Dan N. Nguyen, Keegan Krimbell, Gopal Gupta",1,0.19607843137254902
+"Ronald Fagin, Phokion G. Kolaitis, Domenico Lembo, Lucian Popa, Federico Scafoglieri",1,0.19607843137254902
+Zachary Hansen,1,0.19607843137254902
+"Stefano Fioravanti, Francesco Giannini, Pietro Barbiero, Paolo Frazzetto, Roberto Confalonieri, Fabio Zanasi, Nicolò Navarin",1,0.19607843137254902
+Mohimenul Kabir,1,0.19607843137254902
+"Tuan Quoc Nguyen, Katsumi Inoue, Chiaki Sakama",1,0.19607843137254902
+"George A. Elder, Conrad Bessant",1,0.19607843137254902
+"Michael Dingess, Miroslaw Truszczynski",1,0.19607843137254902
+"Fengming Zhu, Weijia Xu, Yifei Guo, Fangzhen Lin",1,0.19607843137254902
+"Daoming Lyu, Fangkai Yang, Bo Liu, Steven Gustafson",1,0.19607843137254902
+"Alessandro Bertagnon, Marco Gavanelli",1,0.19607843137254902
+"Jean Marie Lagniez, Emmanuel Lonca, Jean-Guy Mailly",1,0.19607843137254902
+"Meghyn Bienvenu, Diego Figueira, Pierre Lafourcade",1,0.19607843137254902
+"Carlos Aguilera-Ventura, Andreas Herzig, Xinghan Liu, Emiliano Lorini",1,0.19607843137254902
+Yusuf Izmirlioglu,1,0.19607843137254902
+"Sebastian Ordyniak, Giacomo Paesani, Mateusz Rychlicki, Stefan Szeider",1,0.19607843137254902
+"Ly Ly Trieu, Tran Cao Son",1,0.19607843137254902
+"Helder Coelho, José Carlos Cotta",1,0.19607843137254902
+"Ho Tuan Dung, Tran Cao Son",1,0.19607843137254902
+"Daxin Liu, Qihui Feng, Vaishak Belle, Gerhard Lakemeyer",1,0.19607843137254902
+"Jorge Fandinno, Vladimir Lifschitz",1,0.19607843137254902
+"Joaquín Arias, Manuel Carro, Zhuo Chen, Gopal Gupta",1,0.19607843137254902
+Srinivas Devadas,1,0.19607843137254902
+"Ofer Arieli, Christian Straßer",1,0.19607843137254902
+"Tarek Khaled, Belaïd Benhamou",1,0.19607843137254902
+"Maria Daskolia, Jaume Piera, Karen Soacha",1,0.19607843137254902
+"Damián Aparicio-Sánchez, Santiago Escobar, Julia Sapiña",1,0.19607843137254902
+Etienne Tignon,1,0.19607843137254902
+Alexis R. Tudor,1,0.19607843137254902
+"Angelos Charalambidis, Giannos Chatziagapis, Babis Kostopoulos, Panos Rondogiannis",1,0.19607843137254902
+"Carsten Lutz, Quentin Manière",1,0.19607843137254902
+"Oskar Fiuk, Emanuel Kieroński, Vincent Michielini",1,0.19607843137254902
+Michael Thielscher,1,0.19607843137254902
+"Jorge Fandinno, Zachary Hansen",1,0.19607843137254902
+Shalin Hai-Jew,1,0.19607843137254902
+"Eduardo Fermé, Sébastien Konieczny, Ramón Pino Pérez, Nicolas Schwind",1,0.19607843137254902
+"Divyagna Bavikadi, Dyuman Aditya, Devendra Parkar, Paulo Shakarian, Graham Mueller, Chad Parvis, Gerardo I. Simari",1,0.19607843137254902
+"Agata Ciabattoni, Dmitry Rozplokhas",1,0.19607843137254902
+Yankai Zeng,1,0.19607843137254902
+"Benjamin Wu, Alessandra Russo, Mark Law, Katsumi Inoue",1,0.19607843137254902
+"Fabrizio Russo, Anna Rapberger, Francesca Toni",1,0.19607843137254902
+"Sean Glaze, Daniela Inclezan",1,0.19607843137254902
+"Dingmin Wang, Przemysław Andrzej Wałęga, Bernardo Cuenca Grau",1,0.19607843137254902
+"Esra Erdem, Andreas Herzig",1,0.19607843137254902
+"Ziyi Yang, George Pîrlea, Ilya Sergey",1,0.19607843137254902
+"Lars Bengel, Matthias Thimm",1,0.19607843137254902
+"David Carral, Lucas Larroque, Michaël Thomazo",1,0.19607843137254902
+"SUSANA HAHN, TORSTEN SCHAUB, CEDRIC MARTENS, AMADE NEMES, HENRY OTUNUYA, JAVIER ROMERO, SEBASTIAN SCHELLHORN",1,0.19607843137254902
+"Avijeet Ghosh, Sujata Ghosh, François Schwarzentruber",1,0.19607843137254902
+"Patricia Everaere, Sébastien Konieczny, Ramón Pino Pérez",1,0.19607843137254902
+"Frederico Aleixo, Matthias Knorr, João Leite",1,0.19607843137254902
+"Lin Ren, Guohui Xiao, Guilin Qi, Yishuai Geng, Haohan Xue",1,0.19607843137254902
+"Franz Baader, Renata Wassermann",1,0.19607843137254902
+", Yushi Cao",1,0.19607843137254902
+"Andrei Popescu, Johannes P. Wallner",1,0.19607843137254902
+"Tommaso Flaminio, Sandro Preto, Sara Ugolini",1,0.19607843137254902
+"Sanderson Molick, Vaishak Belle",1,0.19607843137254902
+"Jakob Johannes Bauer, Thomas Eiter, Nelson Higuera Ruiz, Johannes Oetsch",1,0.19607843137254902
+"Stéphane Demri, Raine Rönnholm",1,0.19607843137254902
+Dan Moldovan,1,0.19607843137254902
+"Shifeng Yan, Ying Li, Shuiguang Deng, Zhaohui Wu",1,0.19607843137254902
+"David Hyland, Munyque Mittelmann, Aniello Murano, Giuseppe Perelli, Michael Wooldridge",1,0.19607843137254902
+"Timon Barlag, Miika Hannula, Juha Kontinen, Nina Pardal, Jonni Virtema",1,0.19607843137254902
+"Gerhard Wetzel, Francesca Toni",1,0.19607843137254902
+"Christian Alrabbaa, Stefan Borgwardt, Tom Friese, Anke Hirsch, Nina Knieriemen, Patrick Koopmann, Alisa Kovtunova, Antonio Krüger, Alexej Popovič, Ida Siahaan",1,0.19607843137254902
+"Shqiponja Ahmetaj, Timo Camillo Merkl, Reinhard Pichler",1,0.19607843137254902
+"Flavio Bertini, Alessandro Dal Palù, Federica Zaglio, Francesco Fabiano, Andrea Formisano",1,0.19607843137254902
+"N. Mansurov, D. Zhukov",1,0.19607843137254902
+Matthias Gondan,1,0.19607843137254902
+"Amad Atiq, George Ubakanma, Muddesar Iqbal",1,0.19607843137254902
+"Meghyn Bienvenu, Camille Bourgaux, Daniil Kozhemiachenko",1,0.19607843137254902
+", Naif Alatrush, Sultan Alsarra, , Afraa Alshammari, , Luay Abdeljaber, , Niamat Zawad, , Latifur Khan, , Patrick T. Brandt, , Javier Osorio, , Vito J. D’Orazio, ",1,0.19607843137254902
+"Cem Okulmus, Mantas Šimkus",1,0.19607843137254902
+"Viviana Mascardi, Domenico Pellegrini",1,0.19607843137254902
+Mario Alviano,1,0.19607843137254902
+Mohammed M. S. El-Kholany,1,0.19607843137254902
+"PARTH PADALKAR, NATALIA ŚLUSARZ, EKATERINA KOMENDANTSKAYA, GOPAL GUPTA",1,0.19607843137254902
+"Poom Pianpak, Tran Cao Son",1,0.19607843137254902
+David S. Warren,1,0.19607843137254902
+"Denise Angilica, Mario Avolio, Giovanni Beraldi, Giovambattista Ianni, Francesco Pacenza",1,0.19607843137254902
+"Dyuman Aditya, Colton Payne, Mario Leiva, Paulo Shakarian",1,0.19607843137254902
+"Murali Mohanan, Imran Sarwar Bajwa",1,0.19607843137254902
+"Alberto Pozanco, Marianela Morales, Daniel Borrajo, Manuela Veloso",1,0.19607843137254902
+"Masood Feyzbakhsh Rankooh, Andreas Niskanen, Matti Järvisalo",1,0.19607843137254902
+"Sudhir Agarwal, Anu Sreepathy, David H. Alonso, Prarit Lamba",1,0.19607843137254902
+"Vinod Mishra, Julian Briseno, Mani Srivastava",1,0.19607843137254902
+"Falco Nogatz, Philipp Körner, Sebastian Krings",1,0.19607843137254902
+"Trang Tran, Trung Hoang Le, Huiping Cao, Tran Cao Son",1,0.19607843137254902
+Justyna Petke,1,0.19607843137254902
+"Christian Sturm, Stefan Schönig, Stefan Jablonski",1,0.19607843137254902
+"Lucía Gómez Álvarez, Sebastian Rudolph",1,0.19607843137254902
+Tom Donohoe,1,0.19607843137254902
+"Bin Wang, Jun Shen, Shutao Zhang, Zhizheng Zhang",1,0.19607843137254902
+"Christian Hatschka, Agata Ciabattoni, Thomas Eiter",1,0.19607843137254902
+"Yi Zeng, Spyros Kotoulas, Zhisheng Huang",1,0.19607843137254902
+"Bartosz Bednarczyk, Emanuel Kieroński",1,0.19607843137254902
+"Meghyn Bienvenu, Camille Bourgaux, Robin Jean",1,0.19607843137254902
+Jesús Castillo,1,0.19607843137254902
+"Jean-Marie Lagniez, Emmanuel Lonca",1,0.19607843137254902
+Serdar Kadioglu,1,0.19607843137254902
+"Gładyś Sylwester, Malarski Marek, Jasiński Sławomir, Skorupski Jacek",1,0.19607843137254902
+"Piotr Ostropolski-Nalewaja, Sebastian Rudolph",1,0.19607843137254902
+"Shaked Almog, Meir Kalech",1,0.19607843137254902
+"Son Tran, Edjard Mota, Artur d'Avila Garcez",1,0.19607843137254902
+"Matti Berthold, Anna Rapberger, Markus Ulbricht",1,0.19607843137254902
+"Marco Alberti, Riccardo Zese, Fabrizio Riguzzi, Evelina Lamma",1,0.19607843137254902
+Darren Bradley,1,0.19607843137254902
+"Stéphane Demri, Raul Fervari",1,0.19607843137254902
+"Galileo Sartor, Adam Wyner, Giuseppe Contissa",1,0.19607843137254902
+Hongnan Ye,1,0.19607843137254902
+"Akihiro Takemura, Katsumi Inoue",1,0.19607843137254902
+"Marcelo Arenas, Pablo Barceló, Diego Bustamante, Jose Caraball, Bernardo Subercaseaux",1,0.19607843137254902
+"Rolf Haenni, Jan-Willem Romeijn, Gregory Wheeler, Jon Williamson",1,0.19607843137254902
+Jaakko Hintikka,1,0.19607843137254902
+"Sascha Rechenberger, Thom Frühwirth",1,0.19607843137254902
+"Alessandro Dal Palù, Agostino Dovier, Andrea Formisano",1,0.19607843137254902
+"Ofer Arieli, Kees van Berkel, Badran Raddaoui, Christian Strasser",1,0.19607843137254902
+Alexander Bochman,1,0.19607843137254902
+"Zhiliang Xiang, Meghyn Bienvenu, Gianluca Cima, Víctor Gutiérrez Basulto, Yazmín Ibáñez García",1,0.19607843137254902
+"Ondřej Čepek, Jelena Glišić",1,0.19607843137254902
+"Piero Andrea Bonatti, Francesco Magliocca, Luigi Sauro",1,0.19607843137254902
+"Blai Bonet, Hector Geffner",1,0.19607843137254902
+Rémy Haemmerlé,1,0.19607843137254902
+"Kai Sauerwald, Matthias Thimm",1,0.19607843137254902
+"Tuomo Lehtonen, Daphne Odekerken, Johannes P. Wallner, Matti Järvisalo",1,0.19607843137254902
+"Federica Di Stefano, Quentin Manière, Magdalena Ortiz, Mantas Šimkus",1,0.19607843137254902
+"Yanhong A. Liu, Scott D. Stoller, Yi Tong, K. Tuncay Tekle",1,0.19607843137254902
+"Enrico Saccon, Ahmet Tikna, Davide De Martini, Edoardo Lamon, Luigi Palopoli, Marco Roveri",1,0.19607843137254902
+"Meghyn Bienvenu, Katsumi Inoue, Daniil Kozhemiachenko",1,0.19607843137254902
+"Lukas Gerlach, Lucas Larroque, Jerzy Marcinkowski, Piotr Ostropolski-Nalewaja",1,0.19607843137254902
+"Zach Hansen, Hanxiang Du, Wanli Xing, Rory Eckel, Justin Lugo, Yuanlin Zhang",1,0.19607843137254902
+"Federica Di Stefano, Sanja Lukumbuzya, Magdalena Ortiz, Mantas Šimkus",1,0.19607843137254902
+"Paul Höft, David Speck, Jendrik Seipp",1,0.19607843137254902
+Yong Shi,1,0.19607843137254902
+"Matteo Cardellini, Enrico Giunchiglia",1,0.19607843137254902
+"Andreas Niskanen, Masood Feyzbakhsh Rankooh, Tuomo Lehtonen, Matti Järvisalo",1,0.19607843137254902
+"Peter Baumgartner, Elena Tartaglia",1,0.19607843137254902
+Krinke Andreas,1,0.19607843137254902
+"Luís Cruz-Filipe, Jonas Vistrup",1,0.19607843137254902
+"Nijesh Upreti, Vaishak Belle",1,0.19607843137254902
+"ISABEL GARCIA-CONTRERAS, JOSÉ F. MORALES, MANUEL V. HERMENEGILDO",1,0.19607843137254902
+"Jens Otten, Torsten Schaub",1,0.19607843137254902
+Guido Governatori,1,0.19607843137254902
+"Pierre Carbonnelle, Matthias Van der Hallen, Marc Denecker",1,0.19607843137254902
+"Gi Hyun Lim, Il Hong Suh",1,0.19607843137254902
+Müge Fidan,1,0.19607843137254902
+"Bart Bogaerts, Maxime Jakubowski",1,0.19607843137254902
+"Ivan Perez, Angel Herranz",1,0.19607843137254902
+"Van-Giang Trinh, Belaid Benhamou, Sylvain Soliman, François Fages",1,0.19607843137254902
+"Valeria Fionda, Antonio Ielo, Francesco Ricca",1,0.19607843137254902
+"Marcello Balduccini, Michael Gelfond, Enrico Pontelli, Tran Cao Son",1,0.19607843137254902
+"Van-Giang Trinh, Sylvain Soliman, François Fages, Belaid Benhamou",1,0.19607843137254902
+"Yamil O. Soto, Andrea Cohen, Cristhian Ariel D. Deagustini, Maria Vanina Martinez, Gerardo I. Simari",1,0.19607843137254902
+Giuseppe Mazzotta,1,0.19607843137254902
+"Olcay Altay-Kern, Emmanuelle Dietz, Isabelle Kuhlmann, Matthias Thimm",1,0.19607843137254902
+Christopher John Hogger,1,0.19607843137254902
+Bernhard Nebel,1,0.19607843137254902
+"David Fernández-Duque, Brett McLean, Lukas Zenger",1,0.19607843137254902
+"Neng-Fa Zhou, Cristian Grozea, Håkan Kjellerstrand, Oisín Mac Fhearaí",1,0.19607843137254902
+"Mohammad Yousefi, Johannes Schmalz, Patrik Haslum, Pascal Bercher",1,0.19607843137254902
+"Jason Hemann, Daniel P. Friedman, William E. Byrd, Matthew Might",1,0.19607843137254902
+"Douglas Walton, Thomas F. Gordon",1,0.19607843137254902
+Vaishak Belle,1,0.19607843137254902
+"Jin Wang, Jiacheng Wu, Mingda Li, Jiaqi Gu, Ariyam Das, Carlo Zaniolo",1,0.19607843137254902
+Marco Mochi,1,0.19607843137254902
+"Andre Thevapalan, Gabriele Kern-Isberner",1,0.19607843137254902
+Daniela Inclezan,1,0.19607843137254902
+"Jens Lehmann, Sebastian Bader, Pascal Hitzler",1,0.19607843137254902
+"Antonio Rago, Hengzhi Li, Francesca Toni",1,0.19607843137254902
+"Benjamin Aminof, Linus Cooper, Sasha Rubin, Moshe Y. Vardi, Florian Zuleger",1,0.19607843137254902
+"Alex Ivliev, Lukas Gerlach, Simon Meusel, Jakob Steinberg, Markus Krötzsch",1,0.19607843137254902
+"Fengming Zhu, Fangzhen Lin",1,0.19607843137254902
+"Keegan Kimbrell, Wang Tianhao, Feng Chen, Gopal Gupta",1,0.19607843137254902
+"Markus Hecher, Michael Morak, Stefan Woltran",1,0.19607843137254902
+"Christoph Beierle, Lars-Phillip Spiegel, Jonas Haldimann, Marco Wilhelm, Jesse Heyninck, Gabriele Kern-Isberner",1,0.19607843137254902
+Derek Shiller,1,0.19607843137254902
+"José Júlio Alferes, Luís Moniz Pereira",1,0.19607843137254902
+"Adrien Husson, Jean Krivine",1,0.19607843137254902
+F. M. Donini,1,0.19607843137254902
+"Fangyi Li, Qiang Shen",1,0.19607843137254902
+"Theresa Swift, Carl Andersen",1,0.19607843137254902
+"Sarthak Ghosh, C. R. Ramakrishnan",1,0.19607843137254902
+Matilda Häggblom,1,0.19607843137254902
+"Benjamin Aminof, Giuseppe De Giacomo, Giuseppe Perelli, Sasha Rubin",1,0.19607843137254902
+"Ghazal Afroozi Milani, Daniel Cyrus, Alireza Tamaddoni-Nezhad",1,0.19607843137254902
+"Elena Mastria, Jessica Zangari, Simona Perri, Francesco Calimeri",1,0.19607843137254902
+"Pablo F. Castro, Pedro R. D'Argenio, Raul Fervari",1,0.19607843137254902
+"Joohyung Lee, Yi Wang",1,0.19607843137254902
+"Jonas Philipp Haldimann, Christoph Beierle",1,0.19607843137254902
+"Stylianos Loukas Vasileiou, William Yeoh",1,0.19607843137254902
+"Axel Kerinec, Giulio Manzonetto, Federico Olimpieri",1,0.19607843137254902
+Francis Frydman,1,0.19607843137254902
+"Lucía Gómez Álvarez, Sebastian Rudolph, Hannes Strass",1,0.19607843137254902
+"K. Tuncay Tekle, Yanhong A. Liu",1,0.19607843137254902
+"Luís Moniz Pereira, Ari Saptawijaya",1,0.19607843137254902
+"Zahra Chaghazardi, Saber Fallah, Alireza Tamaddoni-Nezhad",1,0.19607843137254902
+"Federica Di Stefano, Mantas Šimkus",1,0.19607843137254902
+Svetlana Bulashevska,1,0.19607843137254902
+"Sanskar Sehgal, Yanhong A. Liu",1,0.19607843137254902
+Andrea Rafanelli,1,0.19607843137254902
+"Yuri Gil Dantas, Antoaneta Kondeva, Vivek Nigam",1,0.19607843137254902
+"Jeongwoon Choi, Jungyeon Kim, Seokho Chi",1,0.19607843137254902
+"Jean Christoph Jung, Vladislav Ryzhikov, Frank Wolter, Michael Zakharyaschev",1,0.19607843137254902
+Jesse Heyninck,1,0.19607843137254902
+Alistair Duke,1,0.19607843137254902
+"Katsumi Inoue, Daniil Kozhemiachenko",1,0.19607843137254902
+"Stefano Forti, Ahmad Ibrahim, Antonio Brogi",1,0.19607843137254902
+"Nicolas Fröhlich, Arne Meier, Nina Pardal, Jonni Virtema",1,0.19607843137254902
+Valentina Pitoni,1,0.19607843137254902
+"Zhiliang Xiang, Meghyn Bienvenu, Gianluca Cima, Víctor Gutiérrez-Basulto, Yazmín Ibáñez-García",1,0.19607843137254902
+"Pierre Tassel, Mohamed Rbaia",1,0.19607843137254902
+"Anne-Marie Heine, Markus Ulbricht",1,0.19607843137254902
+"Hidetomo Nabeshima, Mutsunori Banbara, Torsten Schaub, Takehide Soh",1,0.19607843137254902
+"Len Schubert, Moderator",1,0.19607843137254902
+"Maximiliano Klemen, Nataliia Stulova, Pedro López-García, José Morales, Manuel V. Hermenegildo",1,0.19607843137254902
+KIM McCARRON,1,0.19607843137254902
+Alessandro Bertagnon,1,0.19607843137254902
+Yixuan Liang,1,0.19607843137254902
+"Mehmet Bektasoglu, Abdullah S. Bayraktar",1,0.19607843137254902
+Tiantian Gao,1,0.19607843137254902
+"Matti Berthold, Lydia Blümel, Anna Rapberger",1,0.19607843137254902
+"Emanuele De Angelis, Maurizio Proietti, Francesca Toni",1,0.19607843137254902
+Alice Tarzariol,1,0.19607843137254902
+"Jakob Suchan, Jan-Patrick Osterloh",1,0.19607843137254902
+"Camille Bourgaux, Ricardo Guimarães, Raoul Koudijs, Victor Lacerda, Ana Ozaki",1,0.19607843137254902
+"Jan Tóth, Ondřej Kuželka",1,0.19607843137254902
+"Pedro Cabalar, Jorge Fandinno, Luis Fariñas del Cerro",1,0.19607843137254902
+"Santiago Escobar, Julia Sapiña",1,0.19607843137254902
+"Joshua Hirschbrunn, Yevgeny Kazakov",1,0.19607843137254902
+"Bernd Finkbeiner, Hadar Frenkel, Julian Siber",1,0.19607843137254902
+"YULIYA LIERLER, JOSE F. MORALES",1,0.19607843137254902
+"Yehia Hatab, Kai Sauerwald, Matthias Thimm",1,0.19607843137254902
+Hoifung Poon,1,0.19607843137254902
+Vladimir Lifschitz,1,0.19607843137254902
+"Sanne Wielinga, Jesse Heyninck",1,0.19607843137254902
+"Yacine Izza, Xuanxiang Huang, Antonio Morgado, Jordi Planes, Alexey Ignatiev, Joao Marques-Silva",1,0.19607843137254902
+"Pedro Cabalar, Jorge Fandinno, Brais Muñiz",1,0.19607843137254902
+"Rory C. O’Connor, Christopher J. Armitage",1,0.19607843137254902
+"Martin Diller, Sarah Alice Gaggl, Philipp Hanisch, Giuseppina Monterosso, Fritz Rauschenbach",1,0.19607843137254902
+"Kai Sauerwald, Arne Meier, Juha Kontinen",1,0.19607843137254902
+"Sarat Chandra Varanasi, Neeraj Mittal, Gopal Gupta",1,0.19607843137254902
+"Fred Mesnard, Thierry Marianne, Etienne Payet",1,0.19607843137254902
+"Degoldie Sonny, Ari Saptawijaya, Raja Oktovin Parhasian Damanik",1,0.19607843137254902
+"Francesca Toni, Nico Potyka, Markus Ulbricht, Pietro Totis",1,0.19607843137254902
+"Aleksandar Pavlovic, Emanuel Sallinger, Steven Schockaert",1,0.19607843137254902
+"David Buckingham, Matthias Scheutz, Tran Cao Son, Francesco Fabiano",1,0.19607843137254902
+Tomi Janhunen,1,0.19607843137254902
+"Wolf De Wulf, Bart Bogaerts",1,0.19607843137254902
+"Vincent Barichard, Igor Stéphan",1,0.19607843137254902
+Mehul Chandrakant Solanki,1,0.19607843137254902
+"Roko Parać, Lorenzo Nodari, Leo Ardon, Daniel Furelos-Blanco, Federico Cerutti, Alessandra Russo",1,0.19607843137254902
+"Joohyung Lee, Man Luo",1,0.19607843137254902
+Robert M. Guion,1,0.19607843137254902
+Neng-Fa Zhou,1,0.19607843137254902
+Yuting Zhao,1,0.19607843137254902
+Mathias Guenther,1,0.19607843137254902
+"Simon Hosemann, Jean Christoph Jung, Carsten Lutz, Sebastian Rudolph",1,0.19607843137254902
+"Joohyung Lee, Zhun Yang",1,0.19607843137254902
+"Ava Clifton, Charles Gretton",1,0.19607843137254902
+"Michel Leclère, Marie-Laure Mugnier, Guillaume Pérution-Kihli",1,0.19607843137254902
+"David Spies, Jia-Huai You, Ryan Hayward",1,0.19607843137254902
+"Bart Bogaerts, Joost Vennekens, Marc Denecker",1,0.19607843137254902
+"R. S. Bird, O. de Moor",1,0.19607843137254902
+"Marcos Cramer, Samuele Pollaci, Bart Bogaerts",1,0.19607843137254902
+Haodi Zhang,1,0.19607843137254902
+Omar El-Khatib,1,0.19607843137254902
+Zhun Yang,1,0.19607843137254902
+"Alessandro Artale, Luca Geatti, Nicola Gigante, Andrea Mazzullo, Angelo Montanari",1,0.19607843137254902
+Emiliano Lorini,1,0.19607843137254902
+"Domenico Cantone, Eugenio Omodeo, Alberto Policriti",1,0.19607843137254902
+Alejandra Casas Niño de Rivera,1,0.19607843137254902
+Nicolas Rühling,1,0.19607843137254902
+Rohit Dhormare,1,0.19607843137254902
+Damiano Azzolini,1,0.19607843137254902
+Richard Comploi-Taupe,1,0.19607843137254902
+"Simon Coumes, Pierre-Henri Paris, François Schwarzentruber, Fabian Suchanek",1,0.19607843137254902
+"Lukas Chrpa, Erez Karpas",1,0.19607843137254902
+"Anti Alman, Fabrizio Maria Maggi, Marco Montali, Rafael Peñaloza",1,0.19607843137254902
+"Shuwen Liu, Bernardo Cuenca Grau, Ian Horrocks, Egor V. Kostylev",1,0.19607843137254902
+"Veneta Tabakova-Komsalova, Ivan Stoyanov, George Cholakov, Magdalena Maglizhanova",1,0.19607843137254902
+"Stefan Borgwardt, Duy Nhu, Gabriele Röger",1,0.19607843137254902
+Rafael Kiesel,1,0.19607843137254902
+"Adam Gould, Guilherme Paulino-Passos, Seema Dadhania, Matthew Williams, Francesca Toni",1,0.19607843137254902
+"Dominik Drexler, Simon Ståhlberg, Blai Bonet, Hector Geffner",1,0.19607843137254902
+"Antonio Rago, Maria Vanina Martinez",1,0.19607843137254902
+"Meghyn Bienvenu, Camille Bourgaux",1,0.19607843137254902
+"Ridhwan Dewoprabowo, Ari Saptawijaya",1,0.19607843137254902
+"Akihiro Takemura, Masayuki Otani, Katsumi Inoue",1,0.19607843137254902
+Włodzimierz Drabent,1,0.19607843137254902
+Marcello Balduccini,1,0.19607843137254902
+"Roman Bartak, Neng-Fa Zhou, Roni Stern, Eli Boyarski, Pavel Surynek",1,0.19607843137254902
+"Simon Marynissen, Bart Bogaerts",1,0.19607843137254902
+"Thomas Bolander, Alessandro Burigana, Marco Montali",1,0.19607843137254902
+"LUIGI BELLOMARINI, ELEONORA LAURENZA, EMANUEL SALLINGER, EVGENY SHERKHONOV",1,0.19607843137254902
+"Alex Ivliev, Stefan Ellmauthaler, Lukas Gerlach, Maximilian Marx, Matthias Meißner, Simon Meusel, Markus Krötzsch",1,0.19607843137254902
+", Zhaoyang Jacopo Hu, Longrui Chen, , Yanpei Huang, , Etienne Burdet, , Ferdinando Rodriguez Y Baena, ",1,0.19607843137254902
+Thomas Prokosch,1,0.19607843137254902
+Sarat Chandra Varanasi,1,0.19607843137254902
+"Mateusz Ślażyński, Salvador Abreu, Grzegorz J. Nalepa",1,0.19607843137254902
+"Lars Bengel, Julian Sander, Matthias Thimm",1,0.19607843137254902
+"Ringo Baumann, Anne-Marie Heine",1,0.19607843137254902
+"Katherine Wu, Yanhong A. Liu",1,0.19607843137254902
+"Đorđe Marković, Marc Denecker",1,0.19607843137254902
+"Kenneth Skiba, Matthias Thimm",1,0.19607843137254902
+"Abeer Dyoub, Stefania Costantini, Ivan Letteri, Francesca A. Lisi",1,0.19607843137254902
+"Raven Beutner, Bernd Finkbeiner",1,0.19607843137254902
+"Jeroen Bollen, Jan Van den Bussche, Stijn Vansummeren, Jonni Virtema",1,0.19607843137254902
+David Poole,1,0.19607843137254902
+Justin Brody,1,0.19607843137254902
+"SIMONE CARUSO, CARMINE DODARO, MARCO MARATEA, MARCO MOCHI, FRANCESCO RICCIO",1,0.19607843137254902
+"Antonio Rago, Stylianos Loukas Vasileiou, Son Tran, Francesca Toni, William Yeoh",1,0.19607843137254902
+"Taisuke Sato, Chiaki Sakama, Katsumi Inoue",1,0.19607843137254902
+"Iosif Apostolakis, Zeynep G. Saribatur, Johannes P. Wallner",1,0.19607843137254902
+"Rajab Aghamov, Christel Baier, Toghrul Karimov, Rupak Majumdar, Joël Ouaknine, Jakob Piribauer, Timm Spork",1,0.19607843137254902
+Amogh Khaparde,1,0.19607843137254902
+"Yichi Xu, Daniel J. Dougherty, Rose Bohrer",1,0.19607843137254902
+Leila Amgoud,1,0.19607843137254902
+"Luca Geatti, Alessandro Gianola, Nicola Gigante",1,0.19607843137254902
+Christian Eichhorn,1,0.19607843137254902
+"Abhiramon Rajasekharan, Yankai Zeng, Parth Padalkar, Gopal Gupta",1,0.19607843137254902
+"Mingyue Liu, Ryo Ueda, Zhen Wan, Katsumi Inoue, Chris G. Willcocks",1,0.19607843137254902
+"Nicola Gigante, Francesco Leofante, Andrea Micheli",1,0.19607843137254902
+"S. Akshay, A. R. Balasubramanian, Supratik Chakraborty, Georg Zetzsche",1,0.19607843137254902
+"Benjamin Aminof, Giuseppe De Giacomo, Sasha Rubin, Florian Zuleger",1,0.19607843137254902
+"Arijit Shaw, Uddalok Sarkar, Kuldeep S. Meel",1,0.19607843137254902
+"YANKAI ZENG, ABHIRAMON RAJASEKHARAN, KINJAL BASU, HUADUO WANG, JOAQUÍN ARIAS, GOPAL GUPTA",1,0.19607843137254902
+"Gianvincenzo Alfano, Sergio Greco, Cristian Molinaro, Francesco Parisi, Irina Trubitsyna",1,0.19607843137254902
+"Lydia Blümel, Matthias Thimm",1,0.19607843137254902
